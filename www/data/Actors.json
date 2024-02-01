@@ -18,10 +18,10 @@
         "traits": [],
         "initialLevel": 10,
         "maxLevel": 99,
-        "name": "ルース",
+        "name": "Ruth",
         "nickname": "",
         "note": "",
-        "profile": "触手の魔物。犯した女を洗脳することが出来る。\nしかし、戦闘能力は普通の村人男性未満。"
+        "profile": "Tentacle monster. Capable of brainwashing women it violates. However,\nits combat ability is less than that of an average male villager."
     },
     {
         "id": 2,
@@ -52,10 +52,10 @@
         ],
         "initialLevel": 50,
         "maxLevel": 99,
-        "name": "リーザ",
+        "name": "Reeza",
         "nickname": "",
         "note": "",
-        "profile": "かなり強い女戦士。見た目より幼稚な性格している。"
+        "profile": "A considerably strong female warrior. Despite her appearance, she has\na childish personality."
     },
     {
         "id": 3,
@@ -96,10 +96,10 @@
         ],
         "initialLevel": 20,
         "maxLevel": 99,
-        "name": "エリル",
+        "name": "Eril",
         "nickname": "",
         "note": "",
-        "profile": "優しいシスター。\n戦闘は苦手だが神聖魔法を使う事ができる。"
+        "profile": "A kind sister. She's not good at combat but can use holy magic."
     },
     {
         "id": 4,
@@ -140,10 +140,10 @@
         ],
         "initialLevel": 40,
         "maxLevel": 99,
-        "name": "シアン",
+        "name": "Cyan",
         "nickname": "",
         "note": "",
-        "profile": "冷静沈着な錬金術師。攻撃魔法なども使うことが出来る。\n見た目より年齢を重ねている。"
+        "profile": "A calm and composed alchemist. She can use attack magic and is older\nthan she looks."
     },
     {
         "id": 5,
@@ -209,7 +209,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "トリス",
+        "name": "Tris",
         "nickname": "",
         "note": "",
         "profile": ""
