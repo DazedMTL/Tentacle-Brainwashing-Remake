@@ -1,0 +1,273 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "ゲーム開始前ページ",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "実験マップ",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 3,
+        "expanded": false,
+        "name": "シーン＆ＣＧ回想",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "OP用",
+        "order": 4,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "村",
+        "order": 6,
+        "parentId": 0,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 604
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "宿屋１F",
+        "order": 8,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "宿屋２F",
+        "order": 9,
+        "parentId": 6,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "道具屋",
+        "order": 13,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "魔術士宅",
+        "order": 14,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "お屋敷２F",
+        "order": 15,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "お屋敷１F",
+        "order": 16,
+        "parentId": 10,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "お屋敷左",
+        "order": 17,
+        "parentId": 10,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 13,
+        "expanded": false,
+        "name": "お屋敷右",
+        "order": 18,
+        "parentId": 10,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "エンディング",
+        "order": 5,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "教会",
+        "order": 19,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "教会奥私室",
+        "order": 20,
+        "parentId": 15,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "エルフ母娘宅",
+        "order": 21,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "牧場の倉庫",
+        "order": 22,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "武器屋",
+        "order": 24,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "一般家庭１",
+        "order": 25,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "一般家庭２",
+        "order": 26,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "宿屋覗いた時",
+        "order": 10,
+        "parentId": 6,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "牛小屋",
+        "order": 23,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 24,
+        "expanded": true,
+        "name": "裏口から入った宿屋１F",
+        "order": 11,
+        "parentId": 6,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "宿屋２F夜",
+        "order": 12,
+        "parentId": 6,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "夜の村",
+        "order": 7,
+        "parentId": 5,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 692
+    },
+    {
+        "id": 27,
+        "expanded": false,
+        "name": "エルフのお友達",
+        "order": 27,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "一人暮らし女",
+        "order": 28,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "一般家庭３",
+        "order": 29,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "牧場娘の家",
+        "order": 30,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    }
+]

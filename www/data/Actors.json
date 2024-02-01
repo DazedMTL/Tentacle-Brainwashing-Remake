@@ -1,0 +1,217 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "$player",
+        "classId": 6,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "charaf0a",
+        "traits": [],
+        "initialLevel": 10,
+        "maxLevel": 99,
+        "name": "ルース",
+        "nickname": "",
+        "note": "",
+        "profile": "触手の魔物。犯した女を洗脳することが出来る。\nしかし、戦闘能力は普通の村人男性未満。"
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 2,
+        "equips": [
+            5,
+            0,
+            0,
+            5,
+            0
+        ],
+        "faceIndex": 4,
+        "faceName": "charaf2",
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 53,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "initialLevel": 50,
+        "maxLevel": 99,
+        "name": "リーザ",
+        "nickname": "",
+        "note": "",
+        "profile": "かなり強い女戦士。見た目より幼稚な性格している。"
+    },
+    {
+        "id": 3,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 4,
+        "equips": [
+            6,
+            0,
+            7,
+            6,
+            8
+        ],
+        "faceIndex": 4,
+        "faceName": "charaf4",
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 53,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 53,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "initialLevel": 20,
+        "maxLevel": 99,
+        "name": "エリル",
+        "nickname": "",
+        "note": "",
+        "profile": "優しいシスター。\n戦闘は苦手だが神聖魔法を使う事ができる。"
+    },
+    {
+        "id": 4,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 3,
+        "equips": [
+            7,
+            0,
+            10,
+            9,
+            11
+        ],
+        "faceIndex": 4,
+        "faceName": "charaf3",
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 53,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 53,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "initialLevel": 40,
+        "maxLevel": 99,
+        "name": "シアン",
+        "nickname": "",
+        "note": "",
+        "profile": "冷静沈着な錬金術師。攻撃魔法なども使うことが出来る。\n見た目より年齢を重ねている。"
+    },
+    {
+        "id": 5,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 6,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 7,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "$player",
+        "classId": 5,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "トリス",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]

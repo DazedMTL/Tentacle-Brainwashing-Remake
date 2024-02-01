@@ -1,0 +1,34 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!.gitignore
+!README.md
+
+# Images
+!title.rpgmvp
+!10000Hステート_0000.rpgmvp
+!10000Hステート_0001.rpgmvp
+!10000Hステート_0002.rpgmvp
+!10000Hステート_0003.rpgmvp
+!10000Hステート_0004.rpgmvp
+!10000Hステート_0005.rpgmvp
+!10000Hステート_0006.rpgmvp
+!10000Hステート_0007.rpgmvp
+!10000Hステート_0008.rpgmvp
+!10000Hステート_0009.rpgmvp
+!10000Hステート_0010.rpgmvp
+!10000Hステート_0011.rpgmvp
+!10000Hステート_0012.rpgmvp
+!10000Hステート_0013.rpgmvp
+!10000Hステート_0014.rpgmvp
+!10000Hステート_0015.rpgmvp
+!10000Hステート_0016.rpgmvp
+!10000Hステート_0017.rpgmvp
+!10000Hステート_0018.rpgmvp
+!10000Hステート_0019.rpgmvp
