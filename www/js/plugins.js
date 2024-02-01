@@ -106,7 +106,7 @@ var $plugins = [
     description: "オプション任意項目作成プラグイン",
     parameters: {
       数値項目:
-        '["{\\"Name\\":\\"オートメッセージの待機時間\\",\\"DefaultValue\\":\\"10\\",\\"VariableID\\":\\"20\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"NumberMin\\":\\"0\\",\\"NumberMax\\":\\"20\\",\\"NumberStep\\":\\"2\\",\\"AddPosition\\":\\"\\"}"]',
+        '["{\\"Name\\":\\"Auto Wait Time\\",\\"DefaultValue\\":\\"10\\",\\"VariableID\\":\\"20\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"NumberMin\\":\\"0\\",\\"NumberMax\\":\\"20\\",\\"NumberStep\\":\\"2\\",\\"AddPosition\\":\\"\\"}"]',
       文字項目: "",
       スイッチ項目: "[]",
       音量項目: "",
@@ -116,14 +116,14 @@ var $plugins = [
     name: "MasterVolumeOption",
     status: true,
     description: "マスターボリューム設定プラグイン",
-    parameters: { 項目名称: "全体 音量", 初期値: "40", 音量の増減量: "10" },
+    parameters: { 項目名称: "Master Volume", 初期値: "40", 音量の増減量: "10" },
   },
   {
     name: "AnotherNewGame",
     status: true,
     description: "アナザーニューゲーム追加プラグイン",
     parameters: {
-      name: "ＣＧ＆シーン回想",
+      name: "Recollection",
       map_id: "3",
       map_x: "16",
       map_y: "1",
@@ -237,7 +237,7 @@ var $plugins = [
     description: "簡易ボイスプラグイン",
     parameters: {
       フォルダ名: "voice",
-      オプション名称: "ボイス 音量",
+      オプション名称: "Voice Volume",
       オプション初期値: "100",
     },
   },

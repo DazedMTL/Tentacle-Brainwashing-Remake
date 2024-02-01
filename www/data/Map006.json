@@ -2753,21 +2753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リーザ嬢ちゃんが居なくたって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この店は俺が守るっ！」"
+                                "Innkeeper: \"Even if Reeza-chan isn't here, I'll\nprotect this shop!\""
                             ]
                         },
                         {
@@ -2860,21 +2846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リーザ嬢ちゃんが居なくたって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この店は俺が守るっ！」"
+                                "Innkeeper: \"Even if Reeza-chan isn't here, I'll\nprotect this shop!\""
                             ]
                         },
                         {
@@ -3042,14 +3014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁっ！　来ないでーーーーーーっ！」"
+                                "Tia: \"No! Don't come any closer------!\""
                             ]
                         },
                         {
@@ -3074,14 +3039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺の娘に手を出すなーーーーっ！」"
+                                "Innkeeper: \"Don't you lay a hand on my\ndaughter----!\""
                             ]
                         },
                         {
@@ -3416,14 +3374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「娘は俺が守る！」"
+                                "Innkeeper: \"I'll protect my daughter!\""
                             ]
                         },
                         {
@@ -3524,21 +3475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ル、ルース様……いくらお父さんでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そっちじゃバレちゃうますよぉ」"
+                                "Tia: \"Ru, Ruth-sama... even if he's your father,\nyou'll get caught over there.\""
                             ]
                         },
                         {
@@ -3555,21 +3492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気づかれない内に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こっち側にきてください」"
+                                "Tia: \"Please come to this side before you're\nnoticed.\""
                             ]
                         },
                         {
@@ -3704,14 +3627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こなクソっ！　死にやがれっ！！」"
+                                "Customer: \"You damn bastard! Die!!\""
                             ]
                         },
                         {
@@ -3803,14 +3719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こなクソっ！　死にやがれっ！！」"
+                                "Customer: \"You piece of shit! Die!!\""
                             ]
                         },
                         {
@@ -3902,14 +3811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んんん～？　むにゃむにゃ……」"
+                                "Customer: \"Mmm~? Mumble mumble...\""
                             ]
                         },
                         {
@@ -3926,21 +3828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（酔っ払って、寝てるのか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　目を開けたまま寝てるのがキモいな……）"
+                                "Ruth: \"(Is he drunk and asleep...? It's creepy how\nhe's sleeping with his eyes open...)\""
                             ]
                         },
                         {
@@ -4252,14 +4140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃああああああああっ！」"
+                                "Tia: \"Kyaaaaaaaah!\""
                             ]
                         },
                         {
@@ -4285,14 +4166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ま、また来やがった！」"
+                                "Innkeeper: \"They're, they're back again!\""
                             ]
                         },
                         {
@@ -4320,21 +4194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「モ！　モンスター！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いつの間にこの村に入り込みやがった！」"
+                                "Innkeeper: \"Mo! Monsters!? When did they sneak\ninto the village!\""
                             ]
                         },
                         {
@@ -4370,14 +4230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お客さん！　また手伝ってくれっ！！」"
+                                "Innkeeper: \"Guest! Please help us again!!\""
                             ]
                         },
                         {
@@ -4405,21 +4258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「くそっ！　ウチの店は俺が守る！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お客さんも協力してくれ！」"
+                                "Innkeeper: \"Damn it! I'll protect my inn! Guest, I\nneed your cooperation!\""
                             ]
                         },
                         {
@@ -4446,14 +4285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ、おうっ！　まかせとけっ！」"
+                                "Guest: \"Oh, okay! Leave it to me!\""
                             ]
                         },
                         {
@@ -4637,21 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でへへ、まさかエヴァさんが一緒に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　飲んでくれるなんて幸せだなぁ～」"
+                                "Innkeeper: \"Hehehe, I can't believe Eva-san is\nwilling to drink with me. I'm so happy~\""
                             ]
                         },
                         {
@@ -4684,28 +4502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ、なんだか急にご主人さんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お酒が飲みたくなってしまって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご迷惑でしたか？」"
+                                "Eva: \"Hehe, I suddenly felt like having a drink\nwith the master... Was it a bother?\""
                             ]
                         },
                         {
@@ -4722,21 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「迷惑だなんてとんでもない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日はもうず～っと飲んじゃいましょう！」"
+                                "Innkeeper: \"A bother? Not at all! Let's keep\ndrinking all day today!\""
                             ]
                         },
                         {
@@ -4769,21 +4552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（娘は洗脳したが、邪魔にならない様に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　このまま気を引いてて貰おう）"
+                                "Ruth: (I've brainwashed the daughter, but to avoid\nany trouble, let's keep her distracted like this.)"
                             ]
                         },
                         {
@@ -4835,14 +4604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もう……お父さんったら～」"
+                                "Tia: \"Geez... Dad, you're such a~\""
                             ]
                         },
                         {
@@ -4866,14 +4628,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（よしよし、良い感じに気を引いてるな……）"
+                                "Ruth: (Good, good, she's nicely distracted...)"
                             ]
                         },
                         {
@@ -5313,14 +5068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほらほら、もっと飲んでくださいよ」"
+                                "Innkeeper: \"Come on, come on, have some more to\ndrink!\""
                             ]
                         },
                         {
@@ -5337,14 +5085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うわ、こっちの事全然見てねぇぞ……）"
+                                "Ruth: \"(Ugh, he's not paying any attention to me\nat all...)\""
                             ]
                         },
                         {
@@ -5437,14 +5178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふふふ……」"
+                                "Eva: \"Fufufufufu...\""
                             ]
                         },
                         {
@@ -5461,14 +5195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あぁ、困ってそうだな……）"
+                                "Ruth: \"(Ah, she seems to be in trouble...)\""
                             ]
                         },
                         {
@@ -5697,21 +5424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあああああぁぁっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お父さんっ！　も、モンスターがっ！」"
+                                "Tia: \"Kyaaaahhh! Dad! There's, there's a monster!\""
                             ]
                         },
                         {
@@ -5728,14 +5441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なっ！　親父じゃなくて娘にバレたっ！）"
+                                "Ruth: (What! It's not the old man who noticed, but\nhis daughter!)"
                             ]
                         },
                         {
@@ -5813,28 +5519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コイツめ！　どこから入り込みやがった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺とエヴァさんの貴重な時間を奪うなんざ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対にゆるさねーぞ！」"
+                                "Innkeeper: \"You bastard! How did you sneak in\nhere! I'll never forgive you for stealing away the\nprecious time between me and Eva-san!\""
                             ]
                         },
                         {
@@ -6094,21 +5779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあああああぁぁっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お父さんっ！　も、モンスターがっ！」"
+                                "Tia: \"Kyaaaahhh! Dad! There's, there's a monster!\""
                             ]
                         },
                         {
@@ -6125,14 +5796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なっ！　親父じゃなくて娘にバレたっ！）"
+                                "Ruth: (What! It's not dad who found out, but the\ndaughter!)"
                             ]
                         },
                         {
@@ -6210,28 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コイツめ！　どこから入り込みやがった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺とエヴァさんの貴重な時間を奪うなんざ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対にゆるさねーぞ！」"
+                                "Innkeeper: \"You bastard! How did you sneak in\nhere! I'll never forgive you for stealing precious\ntime from me and Eva-san!\""
                             ]
                         },
                         {
@@ -6457,21 +6100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあああああぁぁっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お父さんっ！　も、モンスターがっ！」"
+                                "Tia: \"Kyaaaahhh! Dad! There's, there's a monster!\""
                             ]
                         },
                         {
@@ -6488,14 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なっ！　親父じゃなくて娘にバレたっ！）"
+                                "Ruth: (What! It's not dad who found out, but his\ndaughter!)"
                             ]
                         },
                         {
@@ -6573,28 +6195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コイツめ！　どこから入り込みやがった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺とエヴァさんの貴重な時間を奪うなんざ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対にゆるさねーぞ！」"
+                                "Innkeeper: \"You bastard! How did you sneak in\nhere! I'll never forgive you for stealing precious\ntime from me and Eva-san!\""
                             ]
                         },
                         {
@@ -6868,21 +6469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあああああぁぁっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お父さんっ！　も、モンスターがっ！」"
+                                "Tia: \"Kyaaaahhh! Dad! There's, there's a monster!\""
                             ]
                         },
                         {
@@ -6899,14 +6486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なっ！　親父じゃなくて娘にバレたっ！）"
+                                "Ruth: (What! It's not dad who found out, but his\ndaughter!)"
                             ]
                         },
                         {
@@ -6963,28 +6543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コイツめ！　どこから入り込みやがった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺とエヴァさんの貴重な時間を奪うなんざ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対にゆるさねーぞ！」"
+                                "Innkeeper: \"You bastard! How did you sneak in\nhere! I'll never forgive you for stealing away the\nprecious time between me and Eva-san!\""
                             ]
                         },
                         {
@@ -7286,21 +6845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあああああぁぁっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お父さんっ！　も、モンスターがっ！」"
+                                "Tia: \"Kyaaaahhh! Dad! There's, there's a monster!\""
                             ]
                         },
                         {
@@ -7317,14 +6862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なっ！　親父じゃなくて娘にバレたっ！）"
+                                "Ruth: (What! It's not dad who found out, but the\ndaughter!)"
                             ]
                         },
                         {
@@ -7388,28 +6926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コイツめ！　どこから入り込みやがった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺とエヴァさんの貴重な時間を奪うなんざ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対にゆるさねーぞ！」"
+                                "Innkeeper: \"You bastard! How did you sneak in\nhere! I'll never forgive you for stealing precious\ntime from me and Eva-san!\""
                             ]
                         },
                         {
@@ -7904,21 +7421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（時計か……緊張してるせいか、この村に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　来てから時間が進んでない様に感じる）"
+                                "Ruth: (A clock, huh... Maybe it's because I'm\nnervous, but it feels like time hasn't moved since\nI arrived in this village.)"
                             ]
                         },
                         {
@@ -7986,14 +7489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: \"I don't have the luxury to look!\""
                             ]
                         },
                         {
@@ -8070,14 +7566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（単なる花だ）"
+                                "Ruth: (It's just a flower.)"
                             ]
                         },
                         {
@@ -8145,14 +7634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: \"I don't have the luxury to look!\""
                             ]
                         },
                         {
@@ -8230,14 +7712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（楽器をならしたら流石にバレる）"
+                                "Ruth: (If I play an instrument now, I'll\ndefinitely get caught.)"
                             ]
                         },
                         {
@@ -8305,14 +7780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: \"I don't have the luxury to look!\""
                             ]
                         },
                         {
@@ -8389,14 +7857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（楽器をならしたら流石にバレる）"
+                                "Ruth: (If I play an instrument now, I'll\ndefinitely get caught.)"
                             ]
                         },
                         {
@@ -8464,14 +7925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: \"I don't have the luxury to look!\""
                             ]
                         },
                         {
@@ -8548,14 +8002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（楽器をならしたら流石にバレる）"
+                                "Ruth: (If I play an instrument now, I'll\ndefinitely get caught.)"
                             ]
                         },
                         {
@@ -8623,14 +8070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: \"I don't have the luxury to look!\""
                             ]
                         },
                         {
@@ -8707,21 +8147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（酒が並んでるな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　飲みたいが飲むわけにはいかない……）"
+                                "Ruth: (There's a lineup of alcohol... I want to\ndrink, but I can't afford to right now...)"
                             ]
                         },
                         {
@@ -8789,14 +8215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: \"I don't have the luxury to look!\""
                             ]
                         },
                         {
@@ -8873,21 +8292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（酒が並んでるな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　飲みたいが飲むわけにはいかない……）"
+                                "Ruth: (There's a lineup of alcohol... I want to\ndrink, but I can't afford to...)"
                             ]
                         },
                         {
@@ -8955,14 +8360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: (There's no time to look around!)"
                             ]
                         },
                         {
@@ -9039,21 +8437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（酒が並んでるな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　飲みたいが飲むわけにはいかない……）"
+                                "Ruth: (There's a lineup of alcohol... I want to\ndrink, but I can't afford to...)"
                             ]
                         },
                         {
@@ -9121,14 +8505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: \"I don't have the luxury to look!\""
                             ]
                         },
                         {
@@ -9205,14 +8582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（眺めてる場合じゃない）"
+                                "Ruth: (This is no time to just stand and stare.)"
                             ]
                         },
                         {
@@ -9280,21 +8650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（美味そうな酒が並んでいる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　聞いた話だと人間の作る酒は美味いらしい）"
+                                "Ruth: \"There's a selection of appetizing liquor\nlined up... I've heard that the liquor made by\nhumans is supposed to be delicious.\""
                             ]
                         },
                         {
@@ -9371,14 +8727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（眺めてる場合じゃない）"
+                                "Ruth: (This is no time to just stand and stare.)"
                             ]
                         },
                         {
@@ -9446,14 +8795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（食器が並んでるだけだ）"
+                                "Ruth: \"It's just dishes lined up.\""
                             ]
                         },
                         {

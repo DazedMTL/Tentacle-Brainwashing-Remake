@@ -2017,21 +2017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ふぅ……シスター以外誰も居ないようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかも、シスターは祈りに集中してるな）"
+                                "Ruth: (Phew... It seems like there's no one here\nexcept for Sister. Moreover, she's focused on her\nprayers.)"
                             ]
                         },
                         {
@@ -2167,14 +2153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかけられているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -2258,21 +2237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そちらは私の私室なのですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご覧になりますか？」"
+                                "Eril: \"That over there is my private room... Would\nyou like to take a look?\""
                             ]
                         },
                         {
@@ -2289,14 +2254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、別にいい」"
+                                "Ruth: \"No, it's fine.\""
                             ]
                         },
                         {
@@ -2371,14 +2329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかけられているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -2446,21 +2397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（エリルはこの部屋か……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だが、鍵がかかっているな）"
+                                "Ruth: (Is Eril in this room...? But it's locked.)"
                             ]
                         },
                         {
@@ -2477,14 +2414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エリル、居るなら返事しろ」"
+                                "Ruth: \"Eril, if you're there, answer me.\""
                             ]
                         },
                         {
@@ -2501,21 +2431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな夜更けに御用ですか……？」"
+                                "Eril: \"Lord Ruth...? What do you need at this late\nhour...?\""
                             ]
                         },
                         {
@@ -2532,14 +2448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こいつの神聖魔法は役に立つかもな……）"
+                                "Ruth: (Her holy magic might be useful...)"
                             ]
                         },
                         {
@@ -2547,8 +2456,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "仲間に入れる",
-                                    "やっぱりいい"
+                                    "Recruit to the party",
+                                    "Actually, never mind"
                                 ],
                                 1,
                                 0,
@@ -2578,14 +2487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おい、お前の力を借りるから出て来い」"
+                                "Ruth: \"Hey, I need your power, so come out.\""
                             ]
                         },
                         {
@@ -2669,21 +2571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はい、わかりました……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ルース様の力になれるのでしたら喜んで……」"
+                                "Eril: \"Yes, understood... If I can be of\nassistance to Lord Ruth, I'd be glad to...\""
                             ]
                         },
                         {
@@ -2721,14 +2609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "エリルが仲間に加わった！"
+                                "Eril has joined the party!"
                             ]
                         },
                         {
@@ -2774,14 +2655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや、用はないな」"
+                                "Ruth: \"No, I don't need anything.\""
                             ]
                         },
                         {
@@ -2798,21 +2672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうでしたか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　何かありましたら、お声かけください」"
+                                "Eril: \"Is that so... If you need anything, please\ncall on me.\""
                             ]
                         },
                         {
@@ -2898,14 +2758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やっぱりエリルを呼ぶか……？）"
+                                "Ruth: \"(Should I call Eril...?)\""
                             ]
                         },
                         {
@@ -2913,8 +2766,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "仲間に入れる",
-                                    "やっぱりいい"
+                                    "Invite to join the party",
+                                    "Actually, never mind"
                                 ],
                                 1,
                                 0,
@@ -2944,14 +2797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おい、お前の力を借りるから出て来い」"
+                                "Ruth: \"Hey, I need your power, so come out.\""
                             ]
                         },
                         {
@@ -3035,21 +2881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はい、わかりました……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ルース様の力になれるのでしたら喜んで……」"
+                                "Eril: \"Yes, understood... If I can be of\nassistance to you, Ruth-sama, I'd be glad to...\""
                             ]
                         },
                         {
@@ -3078,14 +2910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "エリルが仲間に加わった！"
+                                "Eril has joined the party!"
                             ]
                         },
                         {
@@ -3140,14 +2965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや、用はないな」"
+                                "Ruth: \"No, never mind. I don't need anything.\""
                             ]
                         },
                         {
@@ -3164,21 +2982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうでしたか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　何かありましたら、お声かけください」"
+                                "Eril: \"Is that so... If you need anything, please\ndon't hesitate to ask.\""
                             ]
                         },
                         {
@@ -3264,14 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様、私の部屋がどうかしましたか？」"
+                                "Eril: \"Lord Ruth, is there something wrong with my\nroom?\""
                             ]
                         },
                         {
@@ -3288,14 +3085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、何でも無い」"
+                                "Ruth: \"No, it's nothing.\""
                             ]
                         },
                         {
@@ -3395,14 +3185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「神よ……どうか我々をお守りください……」"
+                                "Eril: \"Oh God... please protect us...\""
                             ]
                         },
                         {
@@ -3419,7 +3202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポンッ……"
+                                "*Pop...*"
                             ]
                         },
                         {
@@ -3459,28 +3242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひゃっ……ど、どなたですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お祈りの最中でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気にせずお声をかけていただければ……」"
+                                "Eril: \"Hyah... Who is it? You can speak to me\nwithout hesitation, even during prayers...\""
                             ]
                         },
                         {
@@ -3556,14 +3318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ……あ、あえ……へひっ？」"
+                                "Eril: \"Heh... ah, ahh... heh?\""
                             ]
                         },
                         {
@@ -3596,21 +3351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えーっと、えーっと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これって……ホンモノ……！？」"
+                                "Eril: \"Uh-um, uh-um... Is this... the real\nthing...!?\""
                             ]
                         },
                         {
@@ -3741,21 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁっ、ルース様……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これから私の全ては貴方様に捧げます……」"
+                                "Eril: \"Ahh, Lord Ruth... from now on, I dedicate\nmy everything to you...\""
                             ]
                         },
                         {
@@ -3772,21 +3499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（神官とはいえ、堕ちてしまえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなもんだよな）"
+                                "Ruth: (Even a priestess falls like this once she's\ncorrupted.)"
                             ]
                         },
                         {
@@ -3885,21 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か御用でしょうか？」"
+                                "Eril: \"Lord Ruth... Do you need something?\""
                             ]
                         },
                         {
@@ -3916,21 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……リスクを冒して手に入れたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　コイツの使い道が今の所無いな）"
+                                "Ruth: \"(...I took a risk to obtain it, but there's\nno use for this thing at the moment.)\""
                             ]
                         },
                         {
@@ -3947,14 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まぁ、使い道はその内出来るだろう……）"
+                                "Ruth: \"(Well, a use for it will come up\neventually...)\""
                             ]
                         },
                         {
@@ -3971,14 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、今は特に無いな」"
+                                "Ruth: \"No, nothing in particular right now.\""
                             ]
                         },
                         {
@@ -3995,21 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつでもルース様の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　助けになりますからね」"
+                                "Eril: \"I am always here to assist you, Lord Ruth.\""
                             ]
                         },
                         {
@@ -4144,21 +3801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（おいおい、今がチャンスなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ビビってる場合じゃねぇ！）"
+                                "Ruth: \"Hey, hey, now's our chance! This is no time\nto be scared!\""
                             ]
                         },
                         {
@@ -4423,21 +4066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（おいおい、今がチャンスなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ビビってる場合じゃねぇ！）"
+                                "Ruth: \"Hey, hey, now's our chance! This is no time\nto be scared!\""
                             ]
                         },
                         {
@@ -4702,21 +4331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（おいおい、今がチャンスなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ビビってる場合じゃねぇ！）"
+                                "Ruth: \"Hey, hey, now's our chance! This is no time\nto be scared!\""
                             ]
                         },
                         {
@@ -5092,14 +4707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（楽器をならしたら流石にバレる）"
+                                "Ruth: (If I play an instrument now, I'll\ndefinitely get caught.)"
                             ]
                         },
                         {
@@ -5176,14 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（楽器をならしたら流石にバレる）"
+                                "Ruth: (If I play an instrument now, I'll\ndefinitely get caught.)"
                             ]
                         },
                         {
@@ -5251,14 +4852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: \"I don't have the luxury to look!\""
                             ]
                         },
                         {
@@ -5335,14 +4929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（楽器をならしたら流石にバレる）"
+                                "Ruth: (If I play an instrument now, I'll\ndefinitely get caught.)"
                             ]
                         },
                         {
@@ -5410,14 +4997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見る余裕なんてない！）"
+                                "Ruth: \"I don't have the luxury to look!\""
                             ]
                         },
                         {
@@ -5494,14 +5074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（人間の神のシンボルだ……）"
+                                "Ruth: \"It's the symbol of the human god...\""
                             ]
                         },
                         {
@@ -5518,21 +5091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（クソっ！　聖なる力が強すぎて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気分が悪くなってくる……）"
+                                "Ruth: \"Damn it! The holy power is too strong...\nI'm starting to feel sick...\""
                             ]
                         },
                         {

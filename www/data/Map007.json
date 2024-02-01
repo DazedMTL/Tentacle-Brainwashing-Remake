@@ -2702,14 +2702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「追いつめたぞ、モンスターめ！」"
+                                "Innkeeper: \"I've cornered you, monster!\""
                             ]
                         },
                         {
@@ -2726,21 +2719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ひいいいいぃっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　に、逃げ場がないっ！）"
+                                "Ruth: (Eeeeek! There's no place to run!)"
                             ]
                         },
                         {
@@ -2757,14 +2736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（２階になんて逃げなきゃよかった……）"
+                                "Ruth: (I shouldn't have run up to the second\nfloor...)"
                             ]
                         },
                         {
@@ -3062,7 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -3139,7 +3111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -3216,7 +3188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -3293,7 +3265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {

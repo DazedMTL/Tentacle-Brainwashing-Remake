@@ -1621,10 +1621,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "シーン回想（アニメあり）",
-                                    "シーン回想（アニメなし）",
-                                    "ＣＧ回想",
-                                    "アニメ鑑賞"
+                                    "Scene Recollection (With Animation)",
+                                    "Scene Recollection (No Animation)",
+                                    "CG Recollection",
+                                    "Animation Viewing"
                                 ],
                                 -2,
                                 0,
@@ -19107,12 +19107,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "シーン回想（アニメあり）",
-                                    "シーン回想（アニメなし）",
-                                    "ＣＧ回想",
-                                    "アニメ鑑賞",
-                                    "オプション",
-                                    "タイトルに戻る"
+                                    "Scene Recall (With Animation)",
+                                    "Scene Recall (No Animation)",
+                                    "CG Recall",
+                                    "Animation Viewing",
+                                    "Options",
+                                    "Return to Title"
                                 ],
                                 -2,
                                 0,
@@ -20754,12 +20754,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "シーン回想（アニメあり）",
-                                    "シーン回想（アニメなし）",
-                                    "ＣＧ回想",
-                                    "アニメ鑑賞",
-                                    "オプション",
-                                    "タイトルに戻る"
+                                    "Scene Recollection (With Animation)",
+                                    "Scene Recollection (Without Animation)",
+                                    "CG Recollection",
+                                    "Animation Viewing",
+                                    "Options",
+                                    "Return to Title"
                                 ],
                                 -2,
                                 0,

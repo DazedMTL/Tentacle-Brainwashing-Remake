@@ -2722,21 +2722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここがリーザさんの部屋です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鍵は開けてありますので、どうぞ……」"
+                                "Tia: \"This is Reeza-san's room. The door is\nunlocked, so please...\""
                             ]
                         },
                         {
@@ -2753,14 +2739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご苦労。もうお前は好きにしていいぞ」"
+                                "Ruth: \"Thanks for your hard work. You're free to\ndo as you like now.\""
                             ]
                         },
                         {
@@ -2777,14 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、ありがとうございます」"
+                                "Tina: \"Yes, thank you very much.\""
                             ]
                         },
                         {
@@ -2943,14 +2915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様、まだ何かご命令がありますか？」"
+                                "Tia: \"Ruth-sama, do you have any other orders?\""
                             ]
                         },
                         {
@@ -2967,14 +2932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、別に何もない」"
+                                "Ruth: \"No, nothing in particular.\""
                             ]
                         },
                         {
@@ -3109,14 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん～……むにゅ？　なんだ……？」"
+                                "Reeza: \"Mmm... nyu? What's that...?\""
                             ]
                         },
                         {
@@ -3133,14 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（マズイ！　目を覚ましたぞ！）"
+                                "Ruth: (This is bad! She's waking up!)"
                             ]
                         },
                         {
@@ -3225,21 +3169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　モンスターがこんなところまでっ！？」"
+                                "Reeza: \"Whoa! A monster all the way here!? \""
                             ]
                         },
                         {
@@ -3256,21 +3186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の大事な睡眠の邪魔をして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　生きて帰れると思うなよ～！」"
+                                "Reeza: \"Don't think you can disturb my precious\nsleep and live to tell the tale~!\""
                             ]
                         },
                         {
@@ -3299,14 +3215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぎゃああああああああああっ！！！」"
+                                "Ruth: \"Gyaaaaaaaaaaaaaaaah!!!\""
                             ]
                         },
                         {
@@ -3386,14 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん～……むにゃむにゃ」"
+                                "Reeza: \"Mmm... *mumbling*\""
                             ]
                         },
                         {
@@ -3410,14 +3312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よしよし、ぐっすり眠っているな……」"
+                                "Ruth: \"There there, you're fast asleep...\""
                             ]
                         },
                         {
@@ -3489,14 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リーザ、ちょっとついて来てもらうぞ」"
+                                "Ruth: \"Reeza, come with me for a bit\""
                             ]
                         },
                         {
@@ -3529,14 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、ルース様ぁ♥」"
+                                "Reeza: \"Yes, Lord Ruth♥\""
                             ]
                         },
                         {
@@ -3653,14 +3534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いやいや、帰っちゃダメだろう）"
+                                "Ruth: (No, no, I really shouldn't go back now.)"
                             ]
                         },
                         {
@@ -3768,7 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -3845,7 +3719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -3999,7 +3873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -4152,14 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様、まだ何かご命令がありますか？」"
+                                "Tia: \"Ruth-sama, do you have any other orders?\""
                             ]
                         },
                         {
@@ -4176,14 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、別に何もない」"
+                                "Ruth: \"No, nothing in particular.\""
                             ]
                         },
                         {
@@ -4267,14 +4127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（下手に音を立ててヤツが起きたら終わりだ！）"
+                                "Ruth: \"If we make any careless noise and wake them\nup, it's all over!\""
                             ]
                         },
                         {
@@ -4342,14 +4195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（たいした物が入ってない……）"
+                                "Ruth: (There's nothing of much importance\ninside...)"
                             ]
                         },
                         {
@@ -4426,14 +4272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（下手に音を立ててヤツが起きたら終わりだ！）"
+                                "Ruth: \"If we make any careless noise and wake them\nup, it's all over!\""
                             ]
                         },
                         {
@@ -4501,21 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（武器とかの手入れ道具っぽい物が入ってる、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　他にたいした物は入ってないな）"
+                                "Ruth: (It looks like there are tools for\nmaintaining weapons and such, but there's nothing\nelse of much importance.)"
                             ]
                         },
                         {

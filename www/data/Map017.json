@@ -1850,21 +1850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇねぇ、ママ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リィナのくまちゃんどこ？」"
+                                "Riina: \"Hey hey, Mama. Where's Riina's teddy\nbear?\""
                             ]
                         },
                         {
@@ -1881,14 +1867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこって……家に居ないの？」"
+                                "Eva: \"Where... Isn't it at home?\""
                             ]
                         },
                         {
@@ -1905,14 +1884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん……どっか行っちゃったの」"
+                                "Riina: \"Yeah... It went somewhere.\""
                             ]
                         },
                         {
@@ -1929,21 +1901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら……ルオーネさん家に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　行った時に忘れてきたのかしら？」"
+                                "Eva: \"Oh my... Maybe you left it at Ruone-san's\nhouse when we went there?\""
                             ]
                         },
                         {
@@ -1960,14 +1918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今度会ったときに聞いてみましょうね」"
+                                "Eva: \"Let's ask about it next time we see her,\nokay?\""
                             ]
                         },
                         {
@@ -1984,14 +1935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！」"
+                                "Riina: \"Okay!\""
                             ]
                         },
                         {
@@ -2020,14 +1964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（さっきのエルフの母娘の家はココか……）"
+                                "Ruth: \"(Is this the house of the elf mother and\ndaughter from earlier...)\""
                             ]
                         },
                         {
@@ -2312,14 +2249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やっぱり窓に鍵がかかっているな……）"
+                                "Ruth: \"As I thought, the window is locked...\""
                             ]
                         },
                         {
@@ -2336,21 +2266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（中に入りさえすればどうにか出来そうだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、エルフなら魔法を使うかもしれん）"
+                                "Ruth: \"If I could just get inside, I could\nprobably do something... But then again, if\nthey're elves, they might use magic.\""
                             ]
                         },
                         {
@@ -2367,21 +2283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（上手く娘から捕獲してしまえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　親も逆らうことができないだろうが……）"
+                                "Ruth: \"If I can capture the daughter successfully,\nthe parents won't be able to oppose me...\""
                             ]
                         },
                         {
@@ -2398,28 +2300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ちょうど今、親が側を離れているから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここからぬいぐるみだけを見せたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ガキが外に出てくるかも……試してみるか）"
+                                "Ruth: \"Right now, the parents are away... If I\nshow just the stuffed animal from here, the brat\nmight come out... Should I try it?\""
                             ]
                         },
                         {
@@ -2436,14 +2317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ぬいぐるみを窓から覗かせてと……）"
+                                "Ruth: \"Let's peek the stuffed animal through the\nwindow and...\""
                             ]
                         },
                         {
@@ -2472,7 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トントンっ"
+                                "Knock knock"
                             ]
                         },
                         {
@@ -2545,14 +2419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！　リィナのクマちゃん！」"
+                                "Reeza: \"Ah! Reeza's teddy bear!\""
                             ]
                         },
                         {
@@ -2649,21 +2516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこいってたの？　心配したんだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今、開けてあげるからね♪」"
+                                "Reeza: \"Where have you been? I was so worried!\nI'll open it for you now♪\""
                             ]
                         },
                         {
@@ -2680,21 +2533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ぅおっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　窓を開けに来たのは想定外だが、丁度いいや）"
+                                "Ruth: \"Whoa! I didn't expect her to open the\nwindow, but this is perfect.\""
                             ]
                         },
                         {
@@ -2711,14 +2550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひゃうぅっ！」"
+                                "Reeza: \"Hyauu!\""
                             ]
                         },
                         {
@@ -2804,7 +2636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しゅるるるるっ！"
+                                "Swoosh!"
                             ]
                         },
                         {
@@ -2838,14 +2670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃああああぁぁっ！　ママぁっ！！」"
+                                "Reeza: \"Kyaaaahhh! Mommy!!\""
                             ]
                         },
                         {
@@ -2862,14 +2687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたの、そんな大きな声を出して」"
+                                "Eril: \"What's wrong? Why are you screaming like\nthat?\""
                             ]
                         },
                         {
@@ -3059,21 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、あっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ま、魔物が入ってくるなんてっ……！」"
+                                "Eril: \"Eh, ah... no, a monster coming in...!\""
                             ]
                         },
                         {
@@ -3121,14 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ママー！　ママぁーっ！」"
+                                "Reeza: \"Mommy-! Mommy-!\""
                             ]
                         },
                         {
@@ -3255,21 +3052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お願い、その子を離してっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私達の言葉がわからないの！？」"
+                                "Eril: \"Please, let her go! Don't you understand\nour language?!\""
                             ]
                         },
                         {
@@ -3317,14 +3100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいや、わかるさ」"
+                                "Ruth: \"No, I understand perfectly.\""
                             ]
                         },
                         {
@@ -3341,14 +3117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！　あ、あなた話せるのね！」"
+                                "Eril: \"! You can speak!\""
                             ]
                         },
                         {
@@ -3365,21 +3134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前らエルフみたいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　潜在的に魔力の高いやつらならな」"
+                                "Ruth: \"For beings like you elves with inherently\nhigh magical power...\""
                             ]
                         },
                         {
@@ -3396,14 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お願いです！　その子を離してください！」"
+                                "Eril: \"Please! Let her go!\""
                             ]
                         },
                         {
@@ -3420,14 +3168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何故だ？　それをして俺に何の得がある？」"
+                                "Ruth: \"Why should I? What's in it for me?\""
                             ]
                         },
                         {
@@ -3444,21 +3185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はどうなっても構いませんから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　娘は、リィナだけは離してくださいっ！」"
+                                "Eril: \"I don't care what happens to me, but\nplease, just let Reeza go!\""
                             ]
                         },
                         {
@@ -3475,21 +3202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほぅ、そうかい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なら俺の相手をしてもらおうか」"
+                                "Ruth: \"Hmm, is that so... Then how about you\nentertain me?\""
                             ]
                         },
                         {
@@ -3506,14 +3219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「相手……？」"
+                                "Eril: \"Entertain...?\""
                             ]
                         },
                         {
@@ -3530,21 +3236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わからないのか？　お前のオマンコを使って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺を気持ちよくさせろってことだよ……」"
+                                "Ruth: \"Don't you get it? Use your pussy to make me\nfeel good...\""
                             ]
                         },
                         {
@@ -3561,21 +3253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そ、それで本当に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　娘は助けてくれるのね？」"
+                                "Eril: \"...So, if I do that, you'll really save my\ndaughter?\""
                             ]
                         },
                         {
@@ -3592,21 +3270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、そうさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前の命だって助けてやる」"
+                                "Ruth: \"Yeah, that's right. I'll even spare your\nlife.\""
                             ]
                         },
                         {
@@ -3623,14 +3287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わかりました……」"
+                                "Eril: \"I understand...\""
                             ]
                         },
                         {
@@ -3647,21 +3304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、契約成立だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まずは下着を脱いでもらおうか……」"
+                                "Ruth: \"Then it's a deal. First, take off your\nunderwear...\""
                             ]
                         },
                         {
@@ -3678,14 +3321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……っ」"
+                                "Eril: \"...\""
                             ]
                         },
                         {
@@ -3702,21 +3338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのままスカートを捲って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうだ、尻を突き出すんだ」"
+                                "Ruth: \"Now lift up your skirt... That's right,\nstick out your ass.\""
                             ]
                         },
                         {
@@ -3783,14 +3405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし！　洗脳完了だ！」"
+                                "Ruth: \"Good! Brainwashing complete!\""
                             ]
                         },
                         {
@@ -3807,14 +3422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（さてと、こいつらは何かに使えないか……）"
+                                "Ruth: (Now then, how can I use these guys...)"
                             ]
                         },
                         {
@@ -3831,14 +3439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ！　そうだ！」"
+                                "Ruth: \"Oh! That's right!\""
                             ]
                         },
                         {
@@ -3855,14 +3456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（宿屋の親父はこの女に夢中だった……）"
+                                "Ruth: (The innkeeper was smitten with this\nwoman...)"
                             ]
                         },
                         {
@@ -3879,21 +3473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ならコイツに親父の気を惹かせれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　宿屋の娘をどうにか出来るかもしれん……）"
+                                "Ruth: (If she can distract the innkeeper, maybe I\ncan do something about his daughter...)"
                             ]
                         },
                         {
@@ -3910,21 +3490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どうなるか分からんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やるだけやってみるか……）"
+                                "Ruth: (I don't know how it will turn out, but it's\nworth a try...)"
                             ]
                         },
                         {
@@ -3941,14 +3507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい」"
+                                "Ruth: \"Hey.\""
                             ]
                         },
                         {
@@ -3981,14 +3540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、ルース様」"
+                                "Eril: \"Yes, Lord Ruth?\""
                             ]
                         },
                         {
@@ -4005,21 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前、宿屋の親父にやたらと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気に入られているよな？」"
+                                "Ruth: \"You're quite favored by the innkeeper,\naren't you?\""
                             ]
                         },
                         {
@@ -4036,28 +3574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、えぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よくしてくださるのは嬉しいのですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっと困るときもありますね……」"
+                                "Eva: \"Ah, yes... I'm grateful for his kindness,\nbut sometimes it can be a bit troublesome...\""
                             ]
                         },
                         {
@@ -4074,14 +3591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふむ、そこでだが……」"
+                                "Ruth: \"Hmm, that being said...\""
                             ]
                         },
                         {
@@ -4098,21 +3608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これからお前は宿屋に行って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの親父の相手をしろ」"
+                                "Ruth: \"From now on, you will go to the inn and\nkeep the old man company.\""
                             ]
                         },
                         {
@@ -4129,21 +3625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前が親父の気を引いてるうちに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺はこっそり入って娘を犯す」"
+                                "Ruth: \"While you're distracting the father, I'll\nsneak in and have my way with his daughter.\""
                             ]
                         },
                         {
@@ -4160,21 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その間、お前はずっと親父の気を引き続ける"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……いいな？」"
+                                "Ruth: \"During that time, you must keep the\nfather's attention on you... got it?\""
                             ]
                         },
                         {
@@ -4191,14 +3659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、ルース様が仰るならその通りに……」"
+                                "Eva: \"Yes, if Lord Ruth commands it, I will do as\nyou say...\""
                             ]
                         },
                         {
@@ -4215,14 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、すぐに宿屋に向かえ」"
+                                "Ruth: \"Then head to the inn immediately.\""
                             ]
                         },
                         {
@@ -4239,14 +3693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、行ってまいります……」"
+                                "Eva: \"Yes, I'm on my way...\""
                             ]
                         },
                         {
@@ -4306,21 +3753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よし、これでどうなるか宿屋を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確認してみるか）"
+                                "Ruth: (Good, let's see how things turn out at the\ninn.)"
                             ]
                         },
                         {
@@ -4635,14 +4068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様ぁ、また種付けしてくださぁい♥」"
+                                "Reena: \"Lord Ruth, please breed me again♥\""
                             ]
                         },
                         {
@@ -4659,14 +4085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また、そのうちな」"
+                                "Ruth: \"Again, in due time\""
                             ]
                         },
                         {
@@ -4766,14 +4185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様……なにか御用ですか？」"
+                                "Eva: \"Lord Ruth... do you need something?\""
                             ]
                         },
                         {
@@ -4790,21 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前、宿屋の親父にやたらと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気に入られているよな？」"
+                                "Ruth: \"You, you're quite favored by the innkeeper,\naren't you?\""
                             ]
                         },
                         {
@@ -4821,28 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、えぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よくしてくださるのは嬉しいのですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっと困るときもありますね……」"
+                                "Eva: \"Eh, yes... I'm grateful for his kindness,\nbut sometimes it can be a bit troubling...\""
                             ]
                         },
                         {
@@ -4859,14 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふむ、そこでだが……」"
+                                "Ruth: \"Hmm, that being said...\""
                             ]
                         },
                         {
@@ -4883,21 +4253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これからお前は宿屋に行って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの親父の相手をしろ」"
+                                "Ruth: \"From now on, you will go to the inn and\nkeep that old man company.\""
                             ]
                         },
                         {
@@ -4914,21 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前が親父の気を引いてるうちに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺はこっそり入って娘を犯す」"
+                                "Ruth: \"While you have the old man's attention,\nI'll sneak in and have my way with his daughter.\""
                             ]
                         },
                         {
@@ -4945,21 +4287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その間、お前はずっと親父の気を引き続ける"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……いいな？」"
+                                "Ruth: \"During that time, you must keep the old\nman's attention... got it?\""
                             ]
                         },
                         {
@@ -4976,14 +4304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、ルース様が仰るならその通りに……」"
+                                "Eva: \"Yes, if Lord Ruth commands it, I will do as\nyou say...\""
                             ]
                         },
                         {
@@ -5000,14 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、すぐに宿屋に向かえ」"
+                                "Ruth: \"Then head to the inn immediately.\""
                             ]
                         },
                         {
@@ -5024,14 +4338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、行ってまいります……」"
+                                "Eva: \"Yes, I'll be on my way...\""
                             ]
                         },
                         {
@@ -5091,21 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よし、これで宿屋の親父の妨害は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なくなりそうだな……）"
+                                "Ruth: (Good, with this the innkeeper's\ninterference should be gone...)"
                             ]
                         },
                         {
@@ -5317,14 +4610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（服が並んでるだけだ……）"
+                                "Ruth: (It's just clothes lined up...)"
                             ]
                         },
                         {
@@ -5401,14 +4687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（特にこれといった物はない）"
+                                "Ruth: \"There's nothing particularly noteworthy\nhere.\""
                             ]
                         },
                         {
@@ -5485,14 +4764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（特にこれといった物はない）"
+                                "Ruth: \"There's nothing in particular here.\""
                             ]
                         },
                         {
@@ -5569,14 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ただの花だな）"
+                                "Ruth: \"Just an ordinary flower, huh.\""
                             ]
                         },
                         {
@@ -5653,14 +4918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（水瓶だな）"
+                                "Ruth: (That's an aquarius.)"
                             ]
                         },
                         {
@@ -5737,14 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（果物がはいってるが、今は腹が減ってない）"
+                                "Ruth: (There's fruit inside, but I'm not hungry\nright now.)"
                             ]
                         },
                         {
@@ -5821,14 +5072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（中は見えないが、たぶん水だ）"
+                                "Ruth: (I can't see inside, but it's probably\nwater.)"
                             ]
                         },
                         {
@@ -5905,14 +5149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（かごの中には何もない）"
+                                "Ruth: (There's nothing inside the basket.)"
                             ]
                         },
                         {

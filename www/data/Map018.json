@@ -1564,21 +1564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（折りたたみ式のハシゴだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　持っては行けそうだが邪魔だな）"
+                                "Ruth: (It's a folding ladder. It seems portable,\nbut it's cumbersome.)"
                             ]
                         },
                         {
@@ -1646,21 +1632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（折りたたみ式のハシゴだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これがあれば高いところに登れるな）"
+                                "Ruth: \"It's a folding ladder. With this, I can\nclimb to high places.\""
                             ]
                         },
                         {
@@ -1677,14 +1649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（コレはもらっていこう）"
+                                "Ruth: \"I'll take this with me.\""
                             ]
                         },
                         {
@@ -1713,7 +1678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハシゴ」を手に入れた。"
+                                "Acquired the \"Ladder\"."
                             ]
                         },
                         {
@@ -1851,21 +1816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（折りたたみ式のハシゴだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　持っては行けそうだが邪魔だな）"
+                                "Ruth: (It's a folding ladder. It seems portable,\nbut it's cumbersome.)"
                             ]
                         },
                         {
@@ -1933,21 +1884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（折りたたみ式のハシゴだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これがあれば高いところに登れるな）"
+                                "Ruth: \"It's a folding ladder. With this, I can\nclimb to high places.\""
                             ]
                         },
                         {
@@ -1964,14 +1901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（コレはもらっていこう）"
+                                "Ruth: \"I'll take this with me.\""
                             ]
                         },
                         {
@@ -2000,7 +1930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハシゴ」を手に入れた。"
+                                "Obtained the \"Ladder\"."
                             ]
                         },
                         {
@@ -2138,21 +2068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（折りたたみ式のハシゴだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　持っては行けそうだが邪魔だな）"
+                                "Ruth: (It's a folding ladder. It seems portable,\nbut it's cumbersome.)"
                             ]
                         },
                         {
@@ -2220,21 +2136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（折りたたみ式のハシゴだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これがあれば高いところに登れるな）"
+                                "Ruth: \"It's a folding ladder. With this, I can\nclimb to high places.\""
                             ]
                         },
                         {
@@ -2251,14 +2153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（コレはもらっていこう）"
+                                "Ruth: \"I'll take this with me.\""
                             ]
                         },
                         {
@@ -2287,7 +2182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハシゴ」を手に入れた。"
+                                "Obtained the \"Ladder\"."
                             ]
                         },
                         {
@@ -2425,14 +2320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ただの樽だ……どうでもいいな）"
+                                "Ruth: \"It's just a barrel... doesn't matter.\""
                             ]
                         },
                         {
@@ -2509,21 +2397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（空っぽのバケツ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これに隠れて移動するには小さいな）"
+                                "Ruth: (An empty bucket... It's too small to hide\nand move around in.)"
                             ]
                         },
                         {
@@ -2600,14 +2474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（牛の餌が入っているようだ）"
+                                "Ruth: (It seems to contain cow feed.)"
                             ]
                         },
                         {
@@ -2684,14 +2551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（牛の餌が入っているようだ）"
+                                "Ruth: (It seems to contain cow feed.)"
                             ]
                         },
                         {
@@ -2930,14 +2790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（中に色々入ってるが、よくわからん……）"
+                                "Ruth: (There's a lot inside, but I can't quite\nmake it out...)"
                             ]
                         },
                         {

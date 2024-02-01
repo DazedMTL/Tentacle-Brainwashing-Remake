@@ -1489,14 +1489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（真面目そうな本ばっかだな……）"
+                                "Ruth: (Nothing but serious-looking books here...)"
                             ]
                         },
                         {
@@ -1573,14 +1566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これはあのシスターの服だな……）"
+                                "Ruth: (These are that sister's clothes...)"
                             ]
                         },
                         {
@@ -1657,14 +1643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これはあのシスターの服だな……）"
+                                "Ruth: (These are the Sister's clothes...)"
                             ]
                         },
                         {
@@ -1741,21 +1720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（細々したものが入ってるが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　役に立ちそうなものはないな）"
+                                "Ruth: \"There are various small items inside... but\nit seems like there's nothing useful.\""
                             ]
                         },
                         {
@@ -1832,14 +1797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（中身は空っぽだな）"
+                                "Ruth: (It's empty inside.)"
                             ]
                         },
                         {
@@ -1925,21 +1883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（くまのぬいぐるみ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ずいぶんと少女趣味……あっ！）"
+                                "Ruth: \"A teddy bear? Quite the girlish taste...\nAh!\""
                             ]
                         },
                         {
@@ -1956,28 +1900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（もしかしてコレはエルフの娘のか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　だとしたら、これを使って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どうにか家に入り込めないだろうか……）"
+                                "Ruth: \"Could this belong to the elf girl!? If\nthat's the case, maybe I can use this to somehow\nget into her house...\""
                             ]
                         },
                         {
@@ -1994,14 +1917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（とりあえず、もらっていくか）"
+                                "Ruth: \"For now, I'll take it with me.\""
                             ]
                         },
                         {
@@ -2018,7 +1934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「くまのぬいぐるみ」を手に入れた。"
+                                "Obtained the \"Teddy Bear\"."
                             ]
                         },
                         {
@@ -2055,21 +1971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（くまのぬいぐるみ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ずいぶんと少女趣味だな……）"
+                                "Ruth: \"A teddy bear? Quite the girlish taste...\""
                             ]
                         },
                         {

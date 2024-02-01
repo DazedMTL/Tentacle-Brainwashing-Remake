@@ -2769,21 +2769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この前、極上の酒が手に入ったんですよ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たまにはエヴァさんも一緒に飲んでみましょうよ～」"
+                                "Innkeeper: \"I got my hands on some top-notch\nliquor recently~ How about you join me for a drink\nsometime, Eva-san~\""
                             ]
                         },
                         {
@@ -2823,21 +2809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、えっと……わたし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あまりお酒に強い方ではないので……」"
+                                "Eva: \"Um, well... I'm not very good with\nalcohol...\""
                             ]
                         },
                         {
@@ -2932,21 +2904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の娘"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっとお父さん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エヴァさん困ってるでしょー！？」"
+                                "Innkeeper's Daughter: \"Hey, Dad! You're making\nEva-san uncomfortable, aren't you!?\""
                             ]
                         },
                         {
@@ -2970,14 +2928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の娘"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇ、リィナちゃん」"
+                                "Innkeeper's Daughter: \"Hey, Riina-chan\""
                             ]
                         },
                         {
@@ -3017,14 +2968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お母さんが酔っちゃうと困っちゃうよぉ」"
+                                "Riina: \"It's going to be a problem if Mom gets\ndrunk\""
                             ]
                         },
                         {
@@ -3064,14 +3008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の娘"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほらぁ～……」"
+                                "Innkeeper's Daughter: \"See~...\""
                             ]
                         },
                         {
@@ -3089,14 +3026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ、ティアは口うるさくて困るなぁ」"
+                                "Innkeeper: \"Ah, Tia is so naggy, it's troublesome\""
                             ]
                         },
                         {
@@ -3136,21 +3066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ……ティアちゃん、しっかりしていて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すごく良い子じゃないですか」"
+                                "Eva: \"Hehehe... Tia-chan is so responsible, she's\nsuch a good girl, isn't she?\""
                             ]
                         },
                         {
@@ -3174,21 +3090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うちのリィナもティアちゃんみたいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なってくれると良いのですけど」"
+                                "Eva: \"I wish my Riina would be more like Tia-chan\""
                             ]
                         },
                         {
@@ -3228,21 +3130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶぅ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リィナもしっかりしてるも～ん」"
+                                "Riina: \"Hmph~ Riina is responsible too!\""
                             ]
                         },
                         {
@@ -3282,14 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だよね～♪」"
+                                "Tia: \"Right~♪\""
                             ]
                         },
                         {
@@ -3395,14 +3276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女戦士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっはようございま～す！」"
+                                "Female Warrior: \"Good morning~!\""
                             ]
                         },
                         {
@@ -3442,14 +3316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、おはようございます、リーザさん」"
+                                "Tia: \"Oh, good morning, Reeza-san\""
                             ]
                         },
                         {
@@ -3505,28 +3372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃ、今日も村の見回り行ってくるね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帰ってきたら美味しい食事頼むよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ティアちゃん♪」"
+                                "Reeza: \"Well then, I'm off to patrol the village\ntoday! When I get back, I'm counting on a\ndelicious meal, Tia-chan♪\""
                             ]
                         },
                         {
@@ -3566,21 +3412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、任せてください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リーザさんも頑張ってくださいね♪」"
+                                "Tia: \"Yes, leave it to me! Good luck out there,\nReeza-san♪\""
                             ]
                         },
                         {
@@ -3620,14 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっけー♪」"
+                                "Reeza: \"Okay~♪\""
                             ]
                         },
                         {
@@ -3768,21 +3593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リィナ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私達もリーザさんと一緒に行きましょう」"
+                                "Eva: \"Riina, let's go with Reeza-san too\""
                             ]
                         },
                         {
@@ -3807,14 +3618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？　もう帰っちゃうんですか？」"
+                                "Innkeeper: \"Eh? You're leaving already?\""
                             ]
                         },
                         {
@@ -3885,21 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ～、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リィナもまだティアちゃんと遊びたい～」"
+                                "Riina: \"Ehh~ I still want to play with Tia-chan~\""
                             ]
                         },
                         {
@@ -3939,21 +3729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もぅ、ダメですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また時間のある時に来るから、ね？」"
+                                "Eva: \"Now, now, that's enough. We'll come again\nwhen we have time, okay?\""
                             ]
                         },
                         {
@@ -3993,14 +3769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～い……」"
+                                "Riina: \"Okay...\""
                             ]
                         },
                         {
@@ -4024,14 +3793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またね、ティアちゃん！」"
+                                "Riina: \"See you later, Tia-chan!\""
                             ]
                         },
                         {
@@ -4245,14 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、またね」"
+                                "Tia: \"Yeah, see you later\""
                             ]
                         },
                         {
@@ -4330,14 +4085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リーザさん、ご一緒してもよろしいですか？」"
+                                "Eva: \"Reeza-san, may we join you?\""
                             ]
                         },
                         {
@@ -4377,14 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろん！　家まで送って行くよ！」"
+                                "Reeza: \"Of course! I'll escort you home!\""
                             ]
                         },
                         {
@@ -4424,21 +4165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リィナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁい、リーザおねーちゃん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがと～！」"
+                                "Riina: \"Yay, thank you, Reeza-onee-chan!\""
                             ]
                         },
                         {
@@ -4516,14 +4243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでは、また伺いますね」"
+                                "Eva: \"Then we'll be on our way now\""
                             ]
                         },
                         {
@@ -4541,14 +4261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でへへ、いつでも来てくださいよ」"
+                                "Innkeeper: \"Hehehe, please come by anytime\""
                             ]
                         },
                         {
@@ -5065,14 +4778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱりエヴァさんは素晴らしいなぁ～」"
+                                "Innkeeper: \"Eva-san is truly wonderful, isn't\nshe~\""
                             ]
                         },
                         {
@@ -5114,21 +4820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エヴァさんがお父さんなんか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相手にするわけ無いじゃん……」"
+                                "Tia: \"Like Eva-san would ever bother with someone\nlike Dad...\""
                             ]
                         },
                         {
@@ -5146,14 +4838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやいや、そんなことないって」"
+                                "Innkeeper: \"No, no, that's not true at all\""
                             ]
                         },
                         {
@@ -5171,21 +4856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エヴァさんだって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　旦那さんを亡くして寂しいと思うんだよ」"
+                                "Innkeeper: \"I think Eva-san must be lonely too,\nafter losing her husband\""
                             ]
                         },
                         {
@@ -5203,21 +4874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前だってリィナちゃんが妹だったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　嬉しいだろう？」"
+                                "Innkeeper: \"You'd be happy if Riina-chan was your\nsister, right?\""
                             ]
                         },
                         {
@@ -5234,21 +4891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、それはそうだけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お父さんがエヴァさんとってのは無理でしょ」"
+                                "Tia: \"Well, yes, but... Dad with Eva-san is just\nimpossible\""
                             ]
                         },
                         {
@@ -5266,14 +4909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、可能性が少しでもあればさ……」"
+                                "Innkeeper: \"No, if there's even a slight\nchance...\""
                             ]
                         },
                         {
@@ -5290,14 +4926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ～、はいはい、わかったわかった」"
+                                "Tia: \"Ah~, yes yes, I got it, I got it\""
                             ]
                         },
                         {
@@ -5314,28 +4943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっ、どうせエヴァさんが来たら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　仕事にならないんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今くらいまともに働いてよ？」"
+                                "Tia: \"Come on, if Eva-san comes by, work's not\ngetting done anyway, so at least work properly\nnow, okay?\""
                             ]
                         },
                         {
@@ -5364,14 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（エヴァってのは女エルフのことか？）"
+                                "Ruth: \"(Is this Eva someone who's a female elf?)\""
                             ]
                         },
                         {
@@ -5388,21 +4989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だとしたらあの親父、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　かなり身の程知らずだなぁ）"
+                                "Ruth: \"(If that's the case, that old man is quite\nout of his league)\""
                             ]
                         },
                         {
@@ -5634,14 +5221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ……なんとかなったな」"
+                                "Innkeeper: \"Phew... somehow we managed.\""
                             ]
                         },
                         {
@@ -5674,14 +5254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……モンスターもう来ないよね」"
+                                "Tia: \"...The monsters won't come again, right?\""
                             ]
                         },
                         {
@@ -5698,14 +5271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リーザさんが何とかしてくれるさ」"
+                                "Innkeeper: \"Reeza-san will take care of it.\""
                             ]
                         },
                         {
@@ -5722,14 +5288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよね」"
+                                "Tia: \"That's right.\""
                             ]
                         },
                         {
@@ -5746,14 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、だからいつも通りに過ごそう」"
+                                "Innkeeper: \"Yeah, so let's carry on as usual.\""
                             ]
                         },
                         {
@@ -5770,14 +5322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん」"
+                                "Tia: \"Okay.\""
                             ]
                         },
                         {
@@ -5794,21 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういえば、さっきのお父さん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっと格好よかったよ」"
+                                "Tia: \"By the way, Dad looked kinda cool earlier.\""
                             ]
                         },
                         {
@@ -5825,21 +5356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ティアに何かあったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　父さんがしっかり守ってやるからな！」"
+                                "Innkeeper: \"If anything happens to Tia, Dad will\nprotect you properly!\""
                             ]
                         },
                         {
@@ -5856,14 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、頼りにしてる♪」"
+                                "Tia: \"Yeah, I'm counting on you♪\""
                             ]
                         },
                         {
@@ -5916,21 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（とりあえず中は落ち着いたっぽいな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　無茶はなるべく止めよう……）"
+                                "Ruth: \"(For now, it seems calm inside... Let's try\nto avoid doing anything reckless...)\""
                             ]
                         },
                         {
@@ -5947,21 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まぁ、そうは言っても無茶しなきゃいけない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　タイミングもあるかもしれないけどな……）"
+                                "Ruth: \"(Well, even though I say that, there might\nbe times when I have to do something reckless...)\""
                             ]
                         },
                         {
@@ -6186,14 +5668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とりあえず居なくなったが……」"
+                                "Innkeeper: \"For now, they've gone away...\""
                             ]
                         },
                         {
@@ -6210,14 +5685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く退治されちゃえばいいのにっ！」"
+                                "Tia: \"I wish someone would just get rid of them\nquickly!\""
                             ]
                         },
                         {
@@ -6234,14 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の親父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、リーザさんには頑張って貰わないとな！」"
+                                "Innkeeper: \"Ah, we need Reeza-san to work hard on\nthis!\""
                             ]
                         },
                         {
@@ -6294,14 +5755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（とりあえず中は落ち着いたようだ……）"
+                                "Ruth: \"(It seems things have calmed down inside\nfor now...)\""
                             ]
                         },
                         {
@@ -6383,14 +5837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（エヴァがいい具合に親父の気を引いているな）"
+                                "Ruth: \"Eva's doing a good job of distracting the\nold man.\""
                             ]
                         },
                         {
@@ -6454,14 +5901,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（あとは裏口からこっそり行けば……）"
+                                "Ruth: \"Now I just need to sneak in through the\nback door...\""
                             ]
                         },
                         {
@@ -6488,14 +5928,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（これなら安全に裏口が使えるぞ）"
+                                "Ruth: \"With this, I can safely use the back\nentrance.\""
                             ]
                         },
                         {
@@ -6532,14 +5965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（あとは侵入するだけだが……）"
+                                "Ruth: \"All that's left is to break in...\""
                             ]
                         },
                         {

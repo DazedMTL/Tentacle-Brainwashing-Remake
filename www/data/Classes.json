@@ -67,7 +67,7 @@
                 "skillId": 10
             }
         ],
-        "name": "勇者",
+        "name": "Hero",
         "note": "",
         "params": [
             [
@@ -970,7 +970,7 @@
                 "skillId": 23
             }
         ],
-        "name": "戦士",
+        "name": "Warrior",
         "note": "",
         "params": [
             [
@@ -1858,7 +1858,7 @@
                 "skillId": 20
             }
         ],
-        "name": "魔術師",
+        "name": "Magician",
         "note": "",
         "params": [
             [
@@ -2736,7 +2736,7 @@
                 "skillId": 19
             }
         ],
-        "name": "僧侶",
+        "name": "Priest",
         "note": "",
         "params": [
             [
@@ -3654,7 +3654,7 @@
                 "skillId": 98
             }
         ],
-        "name": "錬金術師",
+        "name": "Alchemist",
         "note": "",
         "params": [
             [
@@ -4527,7 +4527,7 @@
                 "skillId": 21
             }
         ],
-        "name": "魔物",
+        "name": "Monster",
         "note": "",
         "params": [
             [

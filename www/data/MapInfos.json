@@ -3,7 +3,7 @@
     {
         "id": 1,
         "expanded": true,
-        "name": "ゲーム開始前ページ",
+        "name": "Pre-Game Start Page",
         "order": 1,
         "parentId": 0,
         "scrollX": 1092,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": false,
-        "name": "実験マップ",
+        "name": "Test Map",
         "order": 2,
         "parentId": 1,
         "scrollX": 1092,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": false,
-        "name": "シーン＆ＣＧ回想",
+        "name": "Scene & CG Recollection",
         "order": 3,
         "parentId": 0,
         "scrollX": 1092,
@@ -30,7 +30,7 @@
     {
         "id": 4,
         "expanded": true,
-        "name": "OP用",
+        "name": "For OP",
         "order": 4,
         "parentId": 0,
         "scrollX": 1092,
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "expanded": true,
-        "name": "村",
+        "name": "Village",
         "order": 6,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "expanded": true,
-        "name": "宿屋１F",
+        "name": "Inn 1F",
         "order": 8,
         "parentId": 0,
         "scrollX": 1092,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": false,
-        "name": "宿屋２F",
+        "name": "Inn 2F",
         "order": 9,
         "parentId": 6,
         "scrollX": 1092,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "道具屋",
+        "name": "Tool Shop",
         "order": 13,
         "parentId": 0,
         "scrollX": 1092,
@@ -75,7 +75,7 @@
     {
         "id": 9,
         "expanded": true,
-        "name": "魔術士宅",
+        "name": "Magician's House",
         "order": 14,
         "parentId": 0,
         "scrollX": 1092,
@@ -84,7 +84,7 @@
     {
         "id": 10,
         "expanded": true,
-        "name": "お屋敷２F",
+        "name": "Mansion 2F",
         "order": 15,
         "parentId": 0,
         "scrollX": 1092,
@@ -93,7 +93,7 @@
     {
         "id": 11,
         "expanded": false,
-        "name": "お屋敷１F",
+        "name": "Mansion 1F",
         "order": 16,
         "parentId": 10,
         "scrollX": 1092,
@@ -102,7 +102,7 @@
     {
         "id": 12,
         "expanded": false,
-        "name": "お屋敷左",
+        "name": "Mansion Left Side",
         "order": 17,
         "parentId": 10,
         "scrollX": 1092,
@@ -111,7 +111,7 @@
     {
         "id": 13,
         "expanded": false,
-        "name": "お屋敷右",
+        "name": "Mansion Right Side",
         "order": 18,
         "parentId": 10,
         "scrollX": 1092,
@@ -120,7 +120,7 @@
     {
         "id": 14,
         "expanded": false,
-        "name": "エンディング",
+        "name": "Ending",
         "order": 5,
         "parentId": 0,
         "scrollX": 1092,
@@ -129,7 +129,7 @@
     {
         "id": 15,
         "expanded": true,
-        "name": "教会",
+        "name": "Church",
         "order": 19,
         "parentId": 0,
         "scrollX": 1092,
@@ -138,7 +138,7 @@
     {
         "id": 16,
         "expanded": false,
-        "name": "教会奥私室",
+        "name": "Inner Private Room of the Church",
         "order": 20,
         "parentId": 15,
         "scrollX": 1092,
@@ -147,7 +147,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "エルフ母娘宅",
+        "name": "Elf Mother and Daughter's House",
         "order": 21,
         "parentId": 0,
         "scrollX": 1092,
@@ -156,7 +156,7 @@
     {
         "id": 18,
         "expanded": false,
-        "name": "牧場の倉庫",
+        "name": "Ranch Warehouse",
         "order": 22,
         "parentId": 0,
         "scrollX": 1092,
@@ -165,7 +165,7 @@
     {
         "id": 19,
         "expanded": false,
-        "name": "武器屋",
+        "name": "Weapon Shop",
         "order": 24,
         "parentId": 0,
         "scrollX": 1092,
@@ -174,7 +174,7 @@
     {
         "id": 20,
         "expanded": false,
-        "name": "一般家庭１",
+        "name": "Common Household 1",
         "order": 25,
         "parentId": 0,
         "scrollX": 1092,
@@ -183,7 +183,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "一般家庭２",
+        "name": "Common Household 2",
         "order": 26,
         "parentId": 0,
         "scrollX": 1092,
@@ -192,7 +192,7 @@
     {
         "id": 22,
         "expanded": false,
-        "name": "宿屋覗いた時",
+        "name": "When Peeking into the Inn",
         "order": 10,
         "parentId": 6,
         "scrollX": 1092,
@@ -201,7 +201,7 @@
     {
         "id": 23,
         "expanded": false,
-        "name": "牛小屋",
+        "name": "Cowshed",
         "order": 23,
         "parentId": 0,
         "scrollX": 1092,
@@ -210,7 +210,7 @@
     {
         "id": 24,
         "expanded": true,
-        "name": "裏口から入った宿屋１F",
+        "name": "Inn 1F Entered from the Back Door",
         "order": 11,
         "parentId": 6,
         "scrollX": 1092,
@@ -219,7 +219,7 @@
     {
         "id": 25,
         "expanded": false,
-        "name": "宿屋２F夜",
+        "name": "Inn 2F at Night",
         "order": 12,
         "parentId": 6,
         "scrollX": 1092,
@@ -228,7 +228,7 @@
     {
         "id": 26,
         "expanded": true,
-        "name": "夜の村",
+        "name": "Village at Night",
         "order": 7,
         "parentId": 5,
         "scrollX": 1318.6666666666667,
@@ -237,7 +237,7 @@
     {
         "id": 27,
         "expanded": false,
-        "name": "エルフのお友達",
+        "name": "Elf's Friend",
         "order": 27,
         "parentId": 0,
         "scrollX": 1092,
@@ -246,7 +246,7 @@
     {
         "id": 28,
         "expanded": false,
-        "name": "一人暮らし女",
+        "name": "Lone Woman's House",
         "order": 28,
         "parentId": 0,
         "scrollX": 1092,
@@ -255,7 +255,7 @@
     {
         "id": 29,
         "expanded": false,
-        "name": "一般家庭３",
+        "name": "Common Household 3",
         "order": 29,
         "parentId": 0,
         "scrollX": 1092,
@@ -264,7 +264,7 @@
     {
         "id": 30,
         "expanded": false,
-        "name": "牧場娘の家",
+        "name": "Ranch Daughter's House",
         "order": 30,
         "parentId": 0,
         "scrollX": 1092,

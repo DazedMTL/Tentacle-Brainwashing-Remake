@@ -1609,21 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（全然こっちに気づきそうにないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これは楽そうだ……）"
+                                "Ruth: (She hasn't noticed me at all. This looks\nlike it's going to be easy...)"
                             ]
                         },
                         {
@@ -1767,14 +1753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし洗脳完了だ」"
+                                "Ruth: \"Alright, the brainwashing is complete.\""
                             ]
                         },
                         {
@@ -1791,21 +1770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これからは何なりとご命令ください……」"
+                                "Cyan: \"Master Ruth...♥ From now on, please command\nme as you wish...\""
                             ]
                         },
                         {
@@ -1822,14 +1787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（さてと、コイツはどう使おうか……）"
+                                "Ruth: (Now then, how should I use this one...)"
                             ]
                         },
                         {
@@ -1846,21 +1804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……待てよ？　コイツは魔術師だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかして女戦士を倒せるんじゃないか？）"
+                                "Ruth: (...Wait a second? She's a sorceress, maybe\nshe can defeat the female warrior?)"
                             ]
                         },
                         {
@@ -1877,14 +1821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ちょっと話を聞いてみるか）"
+                                "Ruth: (Maybe I should have a little chat with\nher.)"
                             ]
                         },
                         {
@@ -1959,21 +1896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぁ、お前の力で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女戦士を倒すことは出来ないのか？」"
+                                "Ruth: \"Hey, can't you use your power to defeat the\nfemale warrior?\""
                             ]
                         },
                         {
@@ -2006,21 +1929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この村を守っているという"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女戦士のことでしょうか……？」"
+                                "Cyan: \"Are you referring to the female warrior who\nis said to protect this village...?\""
                             ]
                         },
                         {
@@ -2037,21 +1946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かなりの実力者らしいですから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔法を唱えている時間があるかどうか……」"
+                                "Cyan: \"She seems to be quite skilled, so I'm not\nsure if there will be time to cast magic...\""
                             ]
                         },
                         {
@@ -2068,28 +1963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに申し訳ないのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私は錬金術が得意ですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　攻撃魔法はちょっと苦手なので……」"
+                                "Cyan: \"Besides, I'm sorry to say, I'm good at\nalchemy but a bit weak with attack magic...\""
                             ]
                         },
                         {
@@ -2106,21 +1980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあなんか使えそうな魔法薬とかないか？」"
+                                "Ruth: \"I see... Then, do you have any kind of\nmagic potion that might be useful?\""
                             ]
                         },
                         {
@@ -2137,14 +1997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では、これなんかどうでしょう？」"
+                                "Cyan: \"How about this, perhaps?\""
                             ]
                         },
                         {
@@ -2161,14 +2014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？　『強力睡眠薬』だと？」"
+                                "Ruth: \"Hm? A 'Powerful Sleeping Potion'?\""
                             ]
                         },
                         {
@@ -2185,21 +2031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「多分これを飲めば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　抵抗力が高くても数時間はぐっすりかと」"
+                                "Cyan: \"If she drinks this, even someone with high\nresistance should sleep soundly for several hours,\nI believe.\""
                             ]
                         },
                         {
@@ -2216,28 +2048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「完全に無味無臭というわけではないのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　加熱しても効果は変わらないので食事等に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　混ぜると良いですね」"
+                                "Cyan: \"It's not completely tasteless and odorless,\nbut its effect won't change even if heated, so\nit's best mixed into food or something.\""
                             ]
                         },
                         {
@@ -2254,14 +2065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、じゃあお前がそれを女戦士に飲ませろ」"
+                                "Ruth: \"Alright, then you give this to the female\nwarrior to drink.\""
                             ]
                         },
                         {
@@ -2278,28 +2082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう言われましても……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　普段は殆ど外出しないため、その人物とは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　面識がないので難しいと思われます」"
+                                "Cyan: \"Even if you say so... I hardly ever go out,\nso I don't know her personally, which makes it\ndifficult.\""
                             ]
                         },
                         {
@@ -2316,28 +2099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むぅ……わかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それはこっちで考えよう……ではとりあえず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この薬は貰っていくぞ」"
+                                "Ruth: \"Hmm... understood. I'll think of\nsomething... For now, I'll take this potion with\nme.\""
                             ]
                         },
                         {
@@ -2354,14 +2116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい……是非お役に立ててください」"
+                                "Cyan: \"Yes... Please make good use of it.\""
                             ]
                         },
                         {
@@ -2398,7 +2153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「強力睡眠薬」を手に入れた。"
+                                "You've obtained the 'Powerful Sleeping Potion'."
                             ]
                         },
                         {
@@ -2500,14 +2255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様、何かご用でしょうか」"
+                                "Cyan: \"Lord Ruth, do you need something?\""
                             ]
                         },
                         {
@@ -2541,14 +2289,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「いや、別に何も無いな」"
+                                "Ruth: \"No, nothing in particular.\""
                             ]
                         },
                         {
@@ -2565,21 +2306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そうでしたか、何かありましたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　いつでもご相談ください」"
+                                "Cyan: \"Is that so? Please feel free to consult\nwith me anytime if you need anything.\""
                             ]
                         },
                         {
@@ -2606,21 +2333,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ちょっと聞くが、お前ってこの首飾りが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　何だかわかるか？」"
+                                "Ruth: \"Let me ask you, do you know what this\nnecklace is?\""
                             ]
                         },
                         {
@@ -2637,21 +2350,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「これは聖なる力を退ける力を持っている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　アミュレットみたいですね」"
+                                "Cyan: \"It seems to be an amulet that has the power\nto ward off holy forces.\""
                             ]
                         },
                         {
@@ -2668,28 +2367,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「普通、アミュレットは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　邪悪なる力を退けるものですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　わりとめずらしいですね」"
+                                "Cyan: \"Normally, amulets are meant to ward off\nevil forces... This is quite unusual.\""
                             ]
                         },
                         {
@@ -2706,14 +2384,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「聖なる力を退けるか……」"
+                                "Ruth: \"Ward off holy forces, huh...\""
                             ]
                         },
                         {
@@ -2730,14 +2401,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ルース様、それをどこで？」"
+                                "Cyan: \"Lord Ruth, where did you get this?\""
                             ]
                         },
                         {
@@ -2754,21 +2418,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「この村にある屋敷から持ってきたのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　魔の気配を感じたんでな」"
+                                "Ruth: \"I took it from a mansion in this village. I\nsensed a demonic presence there.\""
                             ]
                         },
                         {
@@ -2785,28 +2435,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あそこの娘さんがずっと病気がちだという"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　話を聞いたことがありますけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　これの影響かもしれませんね……」"
+                                "Cyan: \"I've heard that the daughter of that house\nhas been ill for a long time. Perhaps this is\ninfluencing her condition...\""
                             ]
                         },
                         {
@@ -2823,14 +2452,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「なるほど……」"
+                                "Ruth: \"I see...\""
                             ]
                         },
                         {
@@ -2847,14 +2469,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「お役にたてましたか？」"
+                                "Cyan: \"Was I able to help you?\""
                             ]
                         },
                         {
@@ -2872,14 +2487,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「十分だ」"
+                                "Ruth: \"Sufficiently.\""
                             ]
                         },
                         {
@@ -2934,14 +2542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや、別に何も無いな」"
+                                "Ruth: \"No, nothing in particular.\""
                             ]
                         },
                         {
@@ -2958,21 +2559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうでしたか、何かありましたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いつでもご相談ください」"
+                                "Cyan: \"Is that so? Please feel free to consult\nwith me anytime if you need anything.\""
                             ]
                         },
                         {
@@ -3073,14 +2660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様、どうかされましたか……？」"
+                                "Cyan: \"Lord Ruth, is something the matter...?\""
                             ]
                         },
                         {
@@ -3097,28 +2677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こいつも魔術師だし使えるんじゃないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、攻撃魔法は得意ではないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言ってた気がするが……）"
+                                "Ruth: (She's a magician too, so she might be\nuseful. But I recall her saying she's not good\nwith attack magic...)"
                             ]
                         },
                         {
@@ -3135,21 +2694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前、攻撃魔法は苦手と言ってたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戦うことはできるのか？」"
+                                "Ruth: \"You said you're not good with attack magic,\nbut can you fight?\""
                             ]
                         },
                         {
@@ -3166,14 +2711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと倒したいやつがいるんだが……」"
+                                "Ruth: \"There's someone I need to take down...\""
                             ]
                         },
                         {
@@ -3190,28 +2728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「前衛さえいてくれれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　多少なりとも戦うことも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出来なくはないです……」"
+                                "Cyan: \"As long as there's a vanguard, I can manage\nto fight to some extent...\""
                             ]
                         },
                         {
@@ -3228,14 +2745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うーん……）"
+                                "Ruth: (Hmm...)"
                             ]
                         },
                         {
@@ -3243,8 +2753,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "仲間に入れる",
-                                    "やっぱりいい"
+                                    "Let's team up",
+                                    "Actually, never mind"
                                 ],
                                 1,
                                 0,
@@ -3274,14 +2784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「では、手を貸せ……ついて来い」"
+                                "Ruth: \"Then lend me a hand... Follow me.\""
                             ]
                         },
                         {
@@ -3298,14 +2801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もちろんです、ルース様」"
+                                "Cyan: \"Of course, Lord Ruth.\""
                             ]
                         },
                         {
@@ -3334,14 +2830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "シアンが仲間に加わった！"
+                                "Cyan has joined the party!"
                             ]
                         },
                         {
@@ -3389,14 +2878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（まぁ、いいか）"
+                                "Ruth: (Well, that's fine.)"
                             ]
                         },
                         {
@@ -3413,14 +2895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何かありましたら、お声かけください……」"
+                                "Cyan: \"If there's anything you need, please let me\nknow...\""
                             ]
                         },
                         {
@@ -3529,14 +3004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様、どうかされましたか……？」"
+                                "Cyan: \"Lord Ruth, is something the matter...?\""
                             ]
                         },
                         {
@@ -3544,8 +3012,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "仲間に入れる",
-                                    "やっぱりいい"
+                                    "Let's team up",
+                                    "Actually, never mind"
                                 ],
                                 1,
                                 0,
@@ -3575,14 +3043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やっぱり、手を貸せ……ついて来い」"
+                                "Ruth: \"After all, lend me a hand... Follow me.\""
                             ]
                         },
                         {
@@ -3599,14 +3060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もちろんです、ルース様」"
+                                "Cyan: \"Of course, Lord Ruth.\""
                             ]
                         },
                         {
@@ -3635,14 +3089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "シアンが仲間に加わった！"
+                                "Cyan has joined the party!"
                             ]
                         },
                         {
@@ -3690,14 +3137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（まぁ、いいか）"
+                                "Ruth: (Well, that's fine.)"
                             ]
                         },
                         {
@@ -3714,14 +3154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何かありましたら、お声かけください……」"
+                                "Cyan: \"If there's anything, please call out to\nme...\""
                             ]
                         },
                         {
@@ -3931,21 +3364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（色んなものが転がってるな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここは魔術師の家か？）"
+                                "Ruth: (There are various things scattered\naround... Is this the house of a magician?)"
                             ]
                         },
                         {
@@ -3962,21 +3381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（奥に女の後ろ姿が見える……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か調べ物でもしているようだな）"
+                                "Ruth: (I can see the figure of a woman from behind\nin the back... It seems like she's investigating\nsomething.)"
                             ]
                         },
                         {
@@ -4112,14 +3517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これでよし、っと」"
+                                "Cyan: \"There, that should do it.\""
                             ]
                         },
                         {
@@ -4143,14 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁて、実験に戻るかぁ」"
+                                "Cyan: \"Now then, back to the experiment.\""
                             ]
                         },
                         {
@@ -4383,14 +3774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ふぅ、無事に潜入できたな……）"
+                                "Ruth: (Phew, I've managed to sneak in safely...)"
                             ]
                         },
                         {
@@ -4661,14 +4045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（せっかく潜入したのに出てどうするよ……）"
+                                "Ruth: (After all the trouble of sneaking in,\nwhat's the point of leaving now...)"
                             ]
                         },
                         {

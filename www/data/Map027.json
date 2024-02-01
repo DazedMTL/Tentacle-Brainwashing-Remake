@@ -1834,14 +1834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "読書中の女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Woman Reading: \"...\""
                             ]
                         },
                         {
@@ -1870,21 +1863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（本を読んでる女が一人……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはイケそうだな）"
+                                "Ruth: (A woman reading alone... This looks\npromising.)"
                             ]
                         },
                         {
@@ -2060,14 +2039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "読書中の女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………………」"
+                                "Woman Reading: \"...\""
                             ]
                         },
                         {
@@ -2084,14 +2056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（本に夢中になってるな……よし）"
+                                "Ruth: (She's engrossed in her book... Good.)"
                             ]
                         },
                         {
@@ -2213,14 +2178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ、ああぁ……」"
+                                "Luone: \"Haa, aahh...\""
                             ]
                         },
                         {
@@ -2237,14 +2195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「洗脳完了、っと……」"
+                                "Ruth: \"Brainwashing complete...\""
                             ]
                         },
                         {
@@ -2261,21 +2212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（とは言っても今の所は使い道がないな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも後で何かに使えるかもしれん……）"
+                                "Ruth: (Though I say that, there's no use for it at\nthe moment... But it might come in handy later...)"
                             ]
                         },
                         {
@@ -2292,14 +2229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、とりあえず待機でもさせとくか」"
+                                "Ruth: \"Well, for now, I'll just have her stand\nby.\""
                             ]
                         },
                         {
@@ -2316,14 +2246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いまのところ普段通りにしてていいぞ」"
+                                "Ruth: \"For the time being, just act as you\nnormally would.\""
                             ]
                         },
                         {
@@ -2340,21 +2263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、何かありましたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつでもお申し付けくださいね」"
+                                "Luone: \"Yes, if there's anything you need, please\nlet me know at any time.\""
                             ]
                         },
                         {
@@ -2454,14 +2363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………………」"
+                                "Luone: \"...\""
                             ]
                         },
                         {
@@ -2478,14 +2380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい」"
+                                "Ruth: \"Hey.\""
                             ]
                         },
                         {
@@ -2570,21 +2465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、ルース様。申し訳ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本を読んでいて気づきませんでした」"
+                                "Luone: \"Ah, Lord Ruth. I apologize, I was so\nengrossed in my book that I didn't notice you.\""
                             ]
                         },
                         {
@@ -2601,21 +2482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何かご用でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何なりとお申し付けください」"
+                                "Luone: \"Do you need something? Please feel free to\nask.\""
                             ]
                         },
                         {
@@ -2632,14 +2499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……いや、用は無いな」"
+                                "Ruth: \"...No, there's nothing in particular.\""
                             ]
                         },
                         {
@@ -2656,21 +2516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何かありましたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつでもお声掛けくださいね」"
+                                "Luone: \"If there's anything, please don't hesitate\nto call on me.\""
                             ]
                         },
                         {
@@ -2799,21 +2645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いや、このチャンスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何もせず出ていくのはないだろう！）"
+                                "Ruth: (No, I can't just leave without taking\nadvantage of this opportunity!)"
                             ]
                         },
                         {
@@ -3005,14 +2837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（こんなもん気にする必要はない）"
+                                "Ruth: \"There's no need to worry about this kind of\nthing.\""
                             ]
                         },
                         {
@@ -3039,21 +2864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（今はこんな物より、気づかれる前に女を先に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　処理しないとな）"
+                                "Ruth: \"Right now, rather than this, I need to take\ncare of the woman before she notices.\""
                             ]
                         },
                         {
@@ -3149,14 +2960,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（くまのぬいぐるみ……友達の子供の物……）"
+                                "Ruth: (A teddy bear... It belongs to a friend's\nchild...)"
                             ]
                         },
                         {
@@ -3173,14 +2977,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あっ！」"
+                                "Ruth: \"Ah!\""
                             ]
                         },
                         {
@@ -3258,21 +3055,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ルース様？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　そのぬいぐるみがどうかしましたか？」"
+                                "Luone: \"Lord Ruth? Is there something wrong with\nthat stuffed animal?\""
                             ]
                         },
                         {
@@ -3299,21 +3082,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「くまのぬいぐるみとは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　お前って見た目の割に少女趣味だな」"
+                                "Ruth: \"A teddy bear, huh? You have quite the\ngirlish taste for your appearance.\""
                             ]
                         },
                         {
@@ -3391,21 +3160,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そのぬいぐるみは私のではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　お友達のお子さんの物ですよ」"
+                                "Luone: \"That stuffed animal isn't mine. It belongs\nto a friend's child.\""
                             ]
                         },
                         {
@@ -3422,21 +3177,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「昨日遊びに来たときに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　忘れて行ってしまったみたいで……」"
+                                "Luone: \"It seems they forgot it here when they\ncame to play yesterday...\""
                             ]
                         },
                         {
@@ -3453,14 +3194,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あっ！」"
+                                "Ruth: \"Ah!\""
                             ]
                         },
                         {
@@ -3477,21 +3211,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ルース様？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　そのぬいぐるみがどうかしましたか？」"
+                                "Luone: \"Lord Ruth? Is there something wrong with\nthat stuffed animal?\""
                             ]
                         },
                         {
@@ -3518,14 +3238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もしかしてコレはエルフの娘のか？」"
+                                "Ruth: \"Could this be the elf girl's?\""
                             ]
                         },
                         {
@@ -3542,21 +3255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あ、はい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　リィナちゃんのぬいぐるみです」"
+                                "Luone: \"Ah, yes, it's Riina-chan's teddy bear.\""
                             ]
                         },
                         {
@@ -3573,21 +3272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「昨日遊びに来たときに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　忘れて行ってしまったみたいで……」"
+                                "Luone: \"It seems they forgot it here when they\ncame to play yesterday...\""
                             ]
                         },
                         {
@@ -3604,14 +3289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふむ……」"
+                                "Ruth: \"Hmm...\""
                             ]
                         },
                         {
@@ -3628,21 +3306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（これを使えば、あの母娘の家に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　入り込めるんじゃないか？）"
+                                "Ruth: (Could I use this to get into that mother\nand daughter's house?)"
                             ]
                         },
                         {
@@ -3659,14 +3323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「これは俺が預かる。いいな？」"
+                                "Ruth: \"I'll take care of this. Alright?\""
                             ]
                         },
                         {
@@ -3683,21 +3340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もしかしてルース様は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ぬいぐるみがお好きなのですか？」"
+                                "Luone: \"Could it be that you like stuffed animals,\nLord Ruth?\""
                             ]
                         },
                         {
@@ -3714,14 +3357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そんなわけあるか！」"
+                                "Ruth: \"Why would that be the case!\""
                             ]
                         },
                         {
@@ -3738,28 +3374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちょっと試したいことがあってな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ついでにこのぬいぐるみもエルフの娘に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　返してやるさ」"
+                                "Ruth: \"I have something I want to try, and while\nI'm at it, I'll return this teddy bear to the elf\ngirl.\""
                             ]
                         },
                         {
@@ -3776,21 +3391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「よくわかりませんが、ルース様がお望みなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どうぞお持ちください。」"
+                                "Luone: \"I don't quite understand, but if Lord Ruth\nwishes it, please take it with you.\""
                             ]
                         },
                         {
@@ -3871,7 +3472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「くまのぬいぐるみ」を手に入れた。"
+                                "Gained 'Teddy Bear'."
                             ]
                         },
                         {
@@ -3916,21 +3517,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「くまのぬいぐるみとは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お前って見た目の割に少女趣味だな」"
+                                "Ruth: \"A teddy bear, huh? You have quite the\ngirlish taste for your appearance.\""
                             ]
                         },
                         {
@@ -3963,21 +3550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そのぬいぐるみは私のではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お友達のお子さんの物ですよ」"
+                                "Luone: \"That stuffed animal isn't mine. It belongs\nto a friend's child.\""
                             ]
                         },
                         {
@@ -3994,21 +3567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルオーネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「昨日遊びに来たときに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　忘れて行ってしまったみたいで……」"
+                                "Luone: \"It seems they forgot it here when they\ncame to play yesterday...\""
                             ]
                         },
                         {
@@ -4025,14 +3584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なるほどな」"
+                                "Ruth: \"I see.\""
                             ]
                         },
                         {
@@ -4230,14 +3782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（本の多い家だな）"
+                                "Ruth: (What a house full of books.)"
                             ]
                         },
                         {
@@ -4314,14 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（本の多い家だな）"
+                                "Ruth: (What a house full of books.)"
                             ]
                         },
                         {
@@ -4398,14 +3936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（本の多い家だな）"
+                                "Ruth: (What a house full of books.)"
                             ]
                         },
                         {
@@ -4482,14 +4013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -4557,14 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（使えそうな物はないな……）"
+                                "Ruth: \"There doesn't seem to be anything useful\naround...\""
                             ]
                         },
                         {
@@ -4641,14 +4158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -4716,14 +4226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（使えそうな物はないな……）"
+                                "Ruth: \"There doesn't seem to be anything useful\naround...\""
                             ]
                         },
                         {
@@ -4800,14 +4303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -4875,14 +4371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（使えそうな物はないな……）"
+                                "Ruth: \"There doesn't seem to be anything useful\naround...\""
                             ]
                         },
                         {
@@ -4959,14 +4448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -5034,14 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（使えそうな物はないな……）"
+                                "Ruth: \"There doesn't seem to be anything useful\nhere...\""
                             ]
                         },
                         {
@@ -5118,21 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この女、もしかして本に集中しすぎて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　周りが全然見えてないのか！？）"
+                                "Ruth: \"Is this girl so focused on her book that\nshe's completely oblivious to her surroundings!?\""
                             ]
                         },
                         {
@@ -6079,14 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be looking for a house.)"
                             ]
                         },
                         {
@@ -6154,14 +5608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（使えそうな物はないな……）"
+                                "Ruth: \"There doesn't seem to be anything useful\naround...\""
                             ]
                         },
                         {
@@ -6238,14 +5685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -6313,14 +5753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（使えそうな物はないな……）"
+                                "Ruth: (There doesn't seem to be anything useful\nhere...)"
                             ]
                         },
                         {
@@ -6397,14 +5830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be looking for a house.)"
                             ]
                         },
                         {
@@ -6472,14 +5898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（タルだな）"
+                                "Ruth: (She's so naive...)"
                             ]
                         },
                         {
@@ -6556,14 +5975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -6631,14 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（タルだな）"
+                                "Ruth: (She's so naive...)"
                             ]
                         },
                         {

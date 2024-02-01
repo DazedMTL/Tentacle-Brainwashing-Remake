@@ -3222,14 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の声"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ～ん……」"
+                                "Woman's Voice: \"Mmm...\""
                             ]
                         },
                         {
@@ -3293,14 +3286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ベッドに人間が居るじゃないか！）"
+                                "Ruth: (There's a person in the bed!)"
                             ]
                         },
                         {
@@ -3317,14 +3303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どうやら寝ているようだが……）"
+                                "Ruth: (It seems like they're asleep...)"
                             ]
                         },
                         {
@@ -3400,28 +3379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（起きる気配はなさそうだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まぁ、何の役に立つかはわからんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やれるだけはやっておこう）"
+                                "Ruth: (It doesn't seem like she'll wake up...\nWell, I don't know how useful it will be, but I'll\ndo what I can.)"
                             ]
                         },
                         {
@@ -3532,21 +3490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様ぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すごく気持ちよかったです♥」"
+                                "Yushi: \"Lord Ruth♥ That felt so amazing♥\""
                             ]
                         },
                         {
@@ -3630,14 +3574,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なぁ、隣の部屋は何があるんだ？」"
+                                "Ruth: \"Hey, what's in the room next door?\""
                             ]
                         },
                         {
@@ -3670,28 +3607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「隣の部屋ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あそこにはお父様が各地で集めた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　美術品等が置いてあります」"
+                                "Yushi: \"The room next door? It contains art pieces\nand such collected from various places by my\nfather.\""
                             ]
                         },
                         {
@@ -3708,14 +3624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お前は隣の鍵は持ってないのか？」"
+                                "Ruth: \"Don't you have the key to that room?\""
                             ]
                         },
                         {
@@ -3732,28 +3641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「申し訳ありません……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でも、メイドのレイリなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　持っているかもしれません」"
+                                "Yushi: \"I'm sorry... However, the maid Reily might\nhave it.\""
                             ]
                         },
                         {
@@ -3770,21 +3658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お掃除の担当はレイリなので……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あの部屋のお掃除もしていると思います」"
+                                "Yushi: \"Since Reily is in charge of cleaning... I\nbelieve she also cleans that room.\""
                             ]
                         },
                         {
@@ -3801,14 +3675,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふむ……」"
+                                "Ruth: \"Hmm...\""
                             ]
                         },
                         {
@@ -3825,14 +3692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……呼んできましょうか？」"
+                                "Yushi: \"...Shall I call her for you?\""
                             ]
                         },
                         {
@@ -3840,8 +3700,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "メイドを呼んできてもらう",
-                                    "やめておく"
+                                    "Have the maid come here",
+                                    "Never mind"
                                 ],
                                 1,
                                 0,
@@ -3871,14 +3731,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「では、少しお待ち下さい……」"
+                                "Yushi: \"Then, please wait a moment...\""
                             ]
                         },
                         {
@@ -4023,14 +3876,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「お嬢様、何の御用ですか？」"
+                                "Reily: \"Miss, what do you need?\""
                             ]
                         },
                         {
@@ -4070,14 +3916,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「いいから、ちょっと来てほしいの」"
+                                "Yushi: \"Never mind that, just come here for a\nsecond.\""
                             ]
                         },
                         {
@@ -4117,14 +3956,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「はぁ、わかりました……」"
+                                "Reily: \"Ah, understood...\""
                             ]
                         },
                         {
@@ -4651,14 +4483,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ひぁっ！　怪物っ！？」"
+                                "Reily: \"Eek! A monster!?\""
                             ]
                         },
                         {
@@ -4675,7 +4500,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガシッ！！"
+                                "Gash!!"
                             ]
                         },
                         {
@@ -4715,14 +4540,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「だめよ、逃げたりしちゃ……」"
+                                "Yushi: \"No, you can't run away...\""
                             ]
                         },
                         {
@@ -4746,14 +4564,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「さぁ、ルース様……♥」"
+                                "Yushi: \"Now, Lord Ruth...♥\""
                             ]
                         },
                         {
@@ -4770,21 +4581,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「うむ、ご苦労だったな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　お前にも褒美をやろう」"
+                                "Ruth: \"Well done, that must have been tough... I\nshall reward you as well.\""
                             ]
                         },
                         {
@@ -4808,14 +4605,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あぁ……ルース様の優しさに感謝いたします」"
+                                "Yushi: \"Ah... I am grateful for your kindness,\nLord Ruth.\""
                             ]
                         },
                         {
@@ -4966,14 +4756,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「よし、洗脳完了だ」"
+                                "Ruth: \"Good, the brainwashing is complete.\""
                             ]
                         },
                         {
@@ -5003,14 +4786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そうですか、わかりました」"
+                                "Yushi: \"Is that so, understood.\""
                             ]
                         },
                         {
@@ -5078,14 +4854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ルース様……何なりとご用命ください」"
+                                "Yushi: \"Lord Ruth... please command me as you\nwish.\""
                             ]
                         },
                         {
@@ -5102,14 +4871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや、今は特に何も無い」"
+                                "Ruth: \"No, there's nothing in particular right\nnow.\""
                             ]
                         },
                         {
@@ -5210,14 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……呼んできましょうか？」"
+                                "Yushi: \"...Shall I call for them?\""
                             ]
                         },
                         {
@@ -5225,8 +4980,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "メイドを呼んできてもらう",
-                                    "やめておく"
+                                    "Call the maid over",
+                                    "Never mind"
                                 ],
                                 1,
                                 0,
@@ -5256,14 +5011,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「では、少しお待ち下さい……」"
+                                "Yushi: \"Then, please wait a moment...\""
                             ]
                         },
                         {
@@ -5408,14 +5156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お嬢様、何の御用ですか？」"
+                                "Reiri: \"Young lady, what do you need?\""
                             ]
                         },
                         {
@@ -5455,14 +5196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いいから、ちょっと来てほしいの」"
+                                "Yushi: \"Never mind that, just come here for a\nbit.\""
                             ]
                         },
                         {
@@ -5502,14 +5236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぁ、わかりました……」"
+                                "Reiri: \"Sigh, understood...\""
                             ]
                         },
                         {
@@ -6036,14 +5763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ひぁっ！　怪物っ！？」"
+                                "Reiri: \"Eek! A monster!?\""
                             ]
                         },
                         {
@@ -6060,7 +5780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガシッ！！"
+                                "*Grab!!*"
                             ]
                         },
                         {
@@ -6100,14 +5820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「だめよ、逃げたりしちゃ……」"
+                                "Yushi: \"No, you mustn't run away...\""
                             ]
                         },
                         {
@@ -6131,14 +5844,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さぁ、ルース様……♥」"
+                                "Yushi: \"Now, Lord Ruth...♥\""
                             ]
                         },
                         {
@@ -6155,21 +5861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うむ、ご苦労だったな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お前にも褒美をやろう」"
+                                "Ruth: \"Hmm, you've done well... I shall reward you\ntoo.\""
                             ]
                         },
                         {
@@ -6193,14 +5885,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……ルース様の優しさに感謝いたします」"
+                                "Yushi: \"Ah... I am grateful for your kindness,\nLord Ruth.\""
                             ]
                         },
                         {
@@ -6351,14 +6036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「よし、洗脳完了だ」"
+                                "Ruth: \"Good, the brainwashing is complete.\""
                             ]
                         },
                         {
@@ -6388,14 +6066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうですか、わかりました」"
+                                "Yushi: \"Is that so, understood.\""
                             ]
                         },
                         {
@@ -6764,14 +6435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（魔の気配がするぞ……）"
+                                "Ruth: \"I sense a demonic presence...\""
                             ]
                         },
                         {
@@ -6788,14 +6452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この部屋の中からだな……一体何だ？）"
+                                "Ruth: \"It's coming from inside this room... What\non earth could it be?\""
                             ]
                         },
                         {
@@ -6812,14 +6469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（む、この部屋、鍵がかかっているな）"
+                                "Ruth: \"Hmm, this room is locked.\""
                             ]
                         },
                         {
@@ -6904,7 +6554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかけられていて開かない。"
+                                "It's locked and won't open."
                             ]
                         },
                         {
@@ -6930,21 +6580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（おっと、そうだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　鍵はメイドが持ってるんだった）"
+                                "Ruth: (Oh, that's right. The maid has the key.)"
                             ]
                         },
                         {
@@ -7469,14 +7105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（下は人が居てヤバいな……戻ろう）"
+                                "Ruth: (There are people below... this could be\nbad. Let's head back.)"
                             ]
                         },
                         {
@@ -7589,14 +7218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ん？　なんか音がしたような？）"
+                                "Ruth: (Hm? Did I just hear something?)"
                             ]
                         },
                         {
@@ -7835,21 +7457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃぁーっ！　モンスターよぉーっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誰か！　誰かきてえええええぇぇっ！！」"
+                                "Maid: \"Kyaaah! A monster! Somebody! Somebody help\nmeeeeeee!!\""
                             ]
                         },
                         {
@@ -7866,14 +7474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やばい！　逃げ場がないっ！）"
+                                "Ruth: (Crap! There's no way out!)"
                             ]
                         },
                         {
@@ -8004,14 +7605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "執事２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前、どっから入ってきた！！」"
+                                "Butler 2: \"You there, where did you come in\nfrom?!\""
                             ]
                         },
                         {
@@ -8177,14 +7771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "執事２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃さないぞ！」"
+                                "Butler 2: \"You won't get away!\""
                             ]
                         },
                         {
@@ -8408,14 +7995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ん？　なんか音がしたような？）"
+                                "Ruth: (Hm? Did I just hear something?)"
                             ]
                         },
                         {
@@ -8654,14 +8234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃぁーっ！　モンスターよぉーっ！！」"
+                                "Maid: \"Kyaaah! A monster!!\""
                             ]
                         },
                         {
@@ -8678,14 +8251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やばい！　逃げ場がないっ！）"
+                                "Ruth: (Crap! There's no way to escape!)"
                             ]
                         },
                         {
@@ -8816,14 +8382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "執事２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前、どっから入ってきた！！」"
+                                "Butler 2: \"You there, where did you come in\nfrom?!\""
                             ]
                         },
                         {
@@ -8989,14 +8548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "執事２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃さないぞ！」"
+                                "Butler 2: \"You won't get away!\""
                             ]
                         },
                         {
@@ -9148,14 +8700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前、隣の部屋の鍵を持っているか？」"
+                                "Ruth: \"Do you have the key to the room next door?\""
                             ]
                         },
                         {
@@ -9188,14 +8733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、持っております」"
+                                "Reeza: \"Yes, I have it.\""
                             ]
                         },
                         {
@@ -9212,14 +8750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その鍵をよこせ」"
+                                "Ruth: \"Hand over that key.\""
                             ]
                         },
                         {
@@ -9236,14 +8767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、こちらです。どうぞ」"
+                                "Reeza: \"Here it is. Please take it.\""
                             ]
                         },
                         {
@@ -9260,14 +8784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うむ」"
+                                "Ruth: \"Hmm.\""
                             ]
                         },
                         {
@@ -9296,7 +8813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「２階の鍵」を手に入れた。"
+                                "Acquired the \"Second Floor Key\"."
                             ]
                         },
                         {
@@ -9397,14 +8914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様、他にご用命はありませんか？」"
+                                "Reiry: \"Ruth-sama, do you have any other orders?\""
                             ]
                         },
                         {
@@ -9421,14 +8931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、別にない」"
+                                "Ruth: \"No, nothing else.\""
                             ]
                         },
                         {
@@ -9528,21 +9031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様ぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もっといっぱい可愛がってください♥」"
+                                "Yushi: \"Ruth-sama♥ Please shower me with even more\naffection♥\""
                             ]
                         },
                         {
@@ -9559,14 +9048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また今度な」"
+                                "Ruth: \"Maybe some other time\""
                             ]
                         },
                         {
@@ -9650,21 +9132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（すごい魔の力を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この首飾りから感じるな……）"
+                                "Ruth: (I can feel an incredible magical power\nemanating from this necklace...)"
                             ]
                         },
                         {
@@ -9681,14 +9149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気になるし、もらっておくか」"
+                                "Ruth: \"It's intriguing, I think I'll take it.\""
                             ]
                         },
                         {
@@ -9717,7 +9178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「謎の首飾り」を手に入れた。"
+                                "Obtained the \"Mysterious Necklace\"."
                             ]
                         },
                         {
@@ -9855,28 +9316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（人間の女神か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　聖なる力に弱い魔物や魔族からすれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　神官共々忌々しい存在だ）"
+                                "Ruth: (A human goddess, huh... To the demons and\ndevilkin who are weak to holy powers, she and her\npriests must be a detestable existence.)"
                             ]
                         },
                         {
@@ -9953,14 +9393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（別に惹かれないな……）"
+                                "Ruth: (I'm not particularly attracted to her...)"
                             ]
                         },
                         {
@@ -10037,14 +9470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（人間の着るものに興味はないな……）"
+                                "Ruth: \"I'm not interested in what humans wear...\""
                             ]
                         },
                         {
@@ -10121,14 +9547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（人間の着るものに興味はないな……）"
+                                "Ruth: \"I'm not interested in what humans wear...\""
                             ]
                         },
                         {
@@ -10205,14 +9624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（人間の着るものに興味はないな……）"
+                                "Ruth: \"I'm not interested in what humans wear...\""
                             ]
                         },
                         {
@@ -10289,14 +9701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（魔力的な物は感じないし美術品なのか？）"
+                                "Ruth: (I don't sense anything magical... Could it\nbe a piece of art?)"
                             ]
                         },
                         {
@@ -10373,21 +9778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（剣って振ってもすぐに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　スッポ抜けて行くんだよなぁ）"
+                                "Ruth: \"Even when you swing a sword, it just slips\nright out, doesn't it...\""
                             ]
                         },
                         {
@@ -10464,21 +9855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これは、美術品なのか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただのツボにしか見えないな）"
+                                "Ruth: \"Is this supposed to be a work of art...? It\njust looks like an ordinary pot to me.\""
                             ]
                         },
                         {
@@ -10555,14 +9932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ、イケメン！」"
+                                "Ruth: \"Oh, a handsome guy!\""
                             ]
                         },
                         {
@@ -10579,14 +9949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……とか言っても虚しいだけだな」"
+                                "Ruth: \"...though saying that just feels empty.\""
                             ]
                         },
                         {
@@ -10663,14 +10026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ただの飾りで実戦用の剣じゃない……のか？）"
+                                "Ruth: (Is it just for show and not a sword meant\nfor actual combat...?)"
                             ]
                         },
                         {
@@ -10747,14 +10103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（絵に描かれるような奴って何者なんだ？）"
+                                "Ruth: (Who is this person that seems like they've\nstepped right out of a painting?)"
                             ]
                         },
                         {
@@ -10831,14 +10180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（めぼしいものが何もないな……）"
+                                "Ruth: \"There's nothing of interest here...\""
                             ]
                         },
                         {
@@ -10915,21 +10257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（誰かの服が並んでいるだけだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……興味ないな）"
+                                "Ruth: (It's just someone's clothes lined up... Not\ninterested.)"
                             ]
                         },
                         {
@@ -11228,14 +10556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（服が並んでいるだけだ）"
+                                "Ruth: \"It's just a bunch of clothes lined up.\""
                             ]
                         },
                         {
@@ -11261,14 +10582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何かお気に召した服はありますか？」"
+                                "Yushi: \"Is there any clothing that catches your\nfancy?\""
                             ]
                         },
                         {
@@ -11285,14 +10599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「興味ないな」"
+                                "Ruth: \"I'm not interested.\""
                             ]
                         },
                         {
@@ -11309,14 +10616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうですか……」"
+                                "Yushi: \"Is that so...\""
                             ]
                         },
                         {
@@ -11412,14 +10712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「綺麗に整頓されてるな」"
+                                "Ruth: \"Everything's neatly organized here.\""
                             ]
                         },
                         {
@@ -11436,14 +10729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「私が片付けていますからね」"
+                                "Reeza: \"I've been the one tidying up.\""
                             ]
                         },
                         {
@@ -11460,21 +10746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「その言い方だと私が散らかしてるみたいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　聞こえちゃうでしょ」"
+                                "Yushi: \"The way you say that makes it sound like\nI'm the one making a mess.\""
                             ]
                         },
                         {
@@ -11491,14 +10763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レイリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふふふ、申し訳ありません」"
+                                "Reeza: \"Fufufu, my apologies.\""
                             ]
                         },
                         {
@@ -11515,21 +10780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それはそれとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　たいした物がないな……」"
+                                "Ruth: \"That aside, there doesn't seem to be\nanything of importance...\""
                             ]
                         },
                         {
@@ -11546,14 +10797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぅ……お役に立てず申し訳ありません」"
+                                "Yushi: \"Aww... I'm sorry I couldn't be of more\nhelp.\""
                             ]
                         },
                         {
@@ -11580,21 +10824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（引き出しの中は綺麗に整頓されてるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　めぼしいものが何もないな……）"
+                                "Ruth: (The drawers are neatly organized, but there\ndoesn't seem to be anything noteworthy...)"
                             ]
                         },
                         {
@@ -11681,21 +10911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（おとぎ話みたいな本ばっかりだな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まぁ本ってやつ自体に興味はないがな）"
+                                "Ruth: (Nothing but fairy tale books, huh... Well,\nI'm not really interested in books themselves\nanyway.)"
                             ]
                         },
                         {
@@ -11721,21 +10937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユーシィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そんなに本棚をじっと見られると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　なんだか恥ずかしいです……」"
+                                "Yushi: \"It's kind of embarrassing when you stare\nat the bookshelf like that...\""
                             ]
                         },
                         {
@@ -11822,14 +11024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（テーブルの上に鏡があるだけだ）"
+                                "Ruth: \"There's just a mirror on the table.\""
                             ]
                         },
                         {
@@ -11906,14 +11101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いかにも人間の女が好みそうな人形だ）"
+                                "Ruth: (It's certainly a doll that seems to be to a\nhuman woman's liking.)"
                             ]
                         },
                         {

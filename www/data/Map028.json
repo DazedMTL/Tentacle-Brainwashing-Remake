@@ -1428,21 +1428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "料理中の女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにく～♪　おっにく～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　美味しく焼けてくれたかな～♪」"
+                                "Woman cooking: \"Meat~♪ Meat~♪ I wonder if it's\ngrilled to perfection~♪\""
                             ]
                         },
                         {
@@ -1459,14 +1445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よし、料理に気を取られているうちに……！）"
+                                "Ruth: (Good, while she's distracted with\ncooking...!)"
                             ]
                         },
                         {
@@ -1588,21 +1567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パティ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様ぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この後はご一緒に食事でもいかがですかぁ？」"
+                                "Patty: \"Lord Ruth♥ How about joining me for a meal\nafterwards?\""
                             ]
                         },
                         {
@@ -1619,14 +1584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パティ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お肉、美味しく焼けたんですよぉ♪」"
+                                "Patty: \"The meat is grilled deliciously♪\""
                             ]
                         },
                         {
@@ -1643,14 +1601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「別に腹は減ってないが……」"
+                                "Ruth: \"I'm not particularly hungry but...\""
                             ]
                         },
                         {
@@ -1667,21 +1618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いや、いつ食事が出来るか分からんからな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とりあえず、もらっておくか）"
+                                "Ruth: (No, I don't know when I'll be able to eat\nnext, so I might as well take it now.)"
                             ]
                         },
                         {
@@ -1698,14 +1635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その肉、もらうぞ」"
+                                "Ruth: \"I'll take that meat.\""
                             ]
                         },
                         {
@@ -1722,14 +1652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パティ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一緒に食べないんですかぁ？」"
+                                "Patty: \"Won't you eat with me?\""
                             ]
                         },
                         {
@@ -1746,21 +1669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっき腹は減ってないって言っただろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　後で食べるんだよ」"
+                                "Ruth: \"I already told you I'm not hungry! I'll eat\nit later.\""
                             ]
                         },
                         {
@@ -1777,14 +1686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パティ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あうぅ……一緒に食べたかったですぅ」"
+                                "Patty: \"Aww... I wanted to eat together.\""
                             ]
                         },
                         {
@@ -1813,7 +1715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「美味しそうな肉」を手に入れた。"
+                                "Obtained \"Delicious-looking Meat\"."
                             ]
                         },
                         {
@@ -1931,14 +1833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パティ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱりご飯一緒に食べますかぁ？」"
+                                "Patty: \"Are we going to eat together after all?\""
                             ]
                         },
                         {
@@ -1955,21 +1850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、食べん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前一人で食ってればいい」"
+                                "Ruth: \"No, I won't eat. You can eat alone.\""
                             ]
                         },
                         {
@@ -1986,21 +1867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パティ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あうぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな言い方さみしいですぅ……」"
+                                "Patty: \"Aww... that's such a lonely way to say\nit...\""
                             ]
                         },
                         {
@@ -2206,21 +2073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "料理をする女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふんふんふ～ん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日のお肉も美味しそう～♪」"
+                                "Cooking Woman: \"Hum hum huum♪ Today's meat looks\ndelicious too~♪\""
                             ]
                         },
                         {
@@ -2237,21 +2090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "料理をする女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「美味しく作って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　美味しく食べてあげますからね～♪」"
+                                "Cooking Woman: \"I'll cook it nicely and eat it\nnicely for you~♪\""
                             ]
                         },
                         {
@@ -2280,21 +2119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ふむ、女が一人で料理してるようだな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一人だし、ヤるか！？）"
+                                "Ruth: (Hmm, it seems a woman is cooking by\nherself... She's alone, should I do her!?)"
                             ]
                         },
                         {
@@ -2311,14 +2136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……む、窓に鍵がかかってるな）"
+                                "Ruth: (...Hmm, the window is locked.)"
                             ]
                         },
                         {
@@ -2478,14 +2296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -2553,14 +2364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（使えそうな物はないな……）"
+                                "Ruth: (There doesn't seem to be anything useful\naround...)"
                             ]
                         },
                         {
@@ -2637,14 +2441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be looking for a house.)"
                             ]
                         },
                         {
@@ -2712,14 +2509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（使えそうな物はないな……）"
+                                "Ruth: (There doesn't seem to be anything useful\nhere...)"
                             ]
                         },
                         {
@@ -2796,14 +2586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be looking for a house.)"
                             ]
                         },
                         {
@@ -2871,14 +2654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（使えそうな物はないな……）"
+                                "Ruth: \"There doesn't seem to be anything useful\nhere...\""
                             ]
                         },
                         {
@@ -2955,14 +2731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -3030,14 +2799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（食い物とか入ってるっぽい）"
+                                "Ruth: (Seems like there's food and stuff inside)"
                             ]
                         },
                         {
@@ -3114,14 +2876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -3189,14 +2944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ただのタルだな……）"
+                                "Ruth: (Just an ordinary barrel...)"
                             ]
                         },
                         {
@@ -3273,14 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be looking for a house.)"
                             ]
                         },
                         {
@@ -3348,14 +3089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（たぶん小麦だ）"
+                                "Ruth: (It's probably wheat.)"
                             ]
                         },
                         {
@@ -3432,14 +3166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be house hunting.)"
                             ]
                         },
                         {
@@ -3507,14 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（肉と……ニンニクか？）"
+                                "Ruth: (Meat and... garlic?)"
                             ]
                         },
                         {
@@ -3591,14 +3311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be looking for a house.)"
                             ]
                         },
                         {
@@ -3666,14 +3379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（肉と……ニンニクか？）"
+                                "Ruth: (Meat and... garlic?)"
                             ]
                         },
                         {
@@ -3750,14 +3456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（家探ししてる場合じゃないな）"
+                                "Ruth: (This is no time to be looking for a house.)"
                             ]
                         },
                         {
@@ -3825,14 +3524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（肉と……ニンニクか？）"
+                                "Ruth: (Meat and... garlic?)"
                             ]
                         },
                         {

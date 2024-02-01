@@ -23,7 +23,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "シアンが作った飲むタイプの睡眠薬。",
+        "description": "A sleep-inducing drink made by Cyan.",
         "effects": [
             {
                 "code": 12,
@@ -56,7 +56,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 2,
-        "name": "強力睡眠薬",
+        "name": "Powerful Sleeping Pills",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "見た目は綺麗な首飾りだが、魔の力を発してる。",
+        "description": "It looks like a beautiful necklace, but it emits a demonic power.",
         "effects": [
             {
                 "code": 22,
@@ -125,7 +125,7 @@
         "hitType": 0,
         "iconIndex": 146,
         "itypeId": 2,
-        "name": "謎の首飾り",
+        "name": "Mysterious Necklace",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -146,7 +146,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "牛小屋の横にある倉庫の鍵。",
+        "description": "The key to the storage shed next to the cow barn.",
         "effects": [
             {
                 "code": 22,
@@ -158,7 +158,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "倉庫の鍵",
+        "name": "Warehouse Key",
         "note": "",
         "occasion": 3,
         "price": 300,
@@ -179,12 +179,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "折りたたみ式のハシゴ。",
+        "description": "A foldable ladder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 223,
         "itypeId": 2,
-        "name": "ハシゴ",
+        "name": "Ladder",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -205,7 +205,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "でかいお屋敷の２階、貴重品が置かれている部屋の鍵。",
+        "description": "The key to the room on the second floor of the large mansion where\nvaluables are kept.",
         "effects": [
             {
                 "code": 11,
@@ -217,7 +217,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "２階の鍵",
+        "name": "Second Floor Key",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -238,7 +238,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "見たまんま、くまのぬいぐるみ。",
+        "description": "Just as it looks, a teddy bear.",
         "effects": [
             {
                 "code": 12,
@@ -250,7 +250,7 @@
         "hitType": 0,
         "iconIndex": 205,
         "itypeId": 2,
-        "name": "くまのぬいぐるみ",
+        "name": "Teddy Bear",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -271,7 +271,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "美味しそうな焼き目のついた肉",
+        "description": "Meat with a delicious-looking sear.",
         "effects": [
             {
                 "code": 22,
@@ -319,7 +319,7 @@
         "hitType": 0,
         "iconIndex": 259,
         "itypeId": 2,
-        "name": "美味しそうな肉",
+        "name": "Mouthwatering Meat",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -352,7 +352,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "スティミュラント",
+        "name": "Stimulant",
         "note": "",
         "occasion": 0,
         "price": 300,

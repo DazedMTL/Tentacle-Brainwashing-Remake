@@ -12679,21 +12679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（さてと、無事女戦士は無力化出来たな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　コイツをレヴィアに引き渡せば任務完了だな）"
+                                "Ruth: \"Well then, the female warrior has been\nsuccessfully neutralized. If I hand her over to\nLevia, my mission will be complete.\""
                             ]
                         },
                         {
@@ -12710,14 +12696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……いや、まてよ？）"
+                                "Ruth: \"...No, wait a second?\""
                             ]
                         },
                         {
@@ -12734,21 +12713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（コイツがいれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レヴィアも倒すことも出来るんじゃないか？）"
+                                "Ruth: \"If I have her, maybe I can even defeat\nLevia?\""
                             ]
                         },
                         {
@@ -12765,21 +12730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（今ヤツの周りを固めてた奴らは前線にいる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レヴィアはいま、裸同然じゃないか……？）"
+                                "Ruth: \"The guys who were guarding her are on the\nfront lines now... Isn't Levia practically\ndefenseless...?\""
                             ]
                         },
                         {
@@ -12801,14 +12752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（どうする？）"
+                                "Ruth: \"What to do?\""
                             ]
                         },
                         {
@@ -12816,9 +12760,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "レヴィアに戦いを挑む",
-                                    "大人しくリーザを差し出す",
-                                    "セーブする"
+                                    "Challenge Levia to a fight",
+                                    "Quietly hand over Reeza",
+                                    "Save the game"
                                 ],
                                 -1,
                                 0,
@@ -12848,14 +12792,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（よし、レヴィアに一泡吹かせてやろう）"
+                                "Ruth: \"Alright, let's give Levia a surprise.\""
                             ]
                         },
                         {
@@ -12872,21 +12809,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（用心を重ねるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　もう少し戦力が欲しい所だが……）"
+                                "Ruth: \"If I were to be cautious, I'd want a bit\nmore manpower...\""
                             ]
                         },
                         {
@@ -12940,28 +12863,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（いや、そんな無謀なことして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　死んだら元も子もないよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　任務は達成したんだし、大人しく帰ろう）"
+                                "Ruth: \"No, doing something so reckless and dying\nwould be pointless. The mission is accomplished,\nlet's just go back quietly.\""
                             ]
                         },
                         {
@@ -12978,14 +12880,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ほら、しっかりついて来いよ」"
+                                "Ruth: \"Hey, make sure you follow closely.\""
                             ]
                         },
                         {
@@ -13018,14 +12913,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「はい、ルース様……」"
+                                "Reeza: \"Yes, Lord Ruth...\""
                             ]
                         },
                         {
@@ -13264,14 +13152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もう準備は大丈夫だよな？）"
+                                "Ruth: \"We're all set, right?\""
                             ]
                         },
                         {
@@ -13279,8 +13160,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "レヴィアの元へ行く",
-                                    "もうちょっと村にいる"
+                                    "Go to Levia",
+                                    "Stay in the village a bit longer"
                                 ],
                                 1,
                                 0,
@@ -13310,14 +13191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「よし、行くぞ！」"
+                                "Ruth: \"Alright, let's go!\""
                             ]
                         },
                         {
@@ -13390,14 +13264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（いや、まだだな……）"
+                                "Ruth: \"No, not yet...\""
                             ]
                         },
                         {
@@ -13515,14 +13382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もう宿屋に用はないな）"
+                                "Ruth: \"No need for the inn anymore.\""
                             ]
                         },
                         {
@@ -13599,14 +13459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: \"It's locked...\""
                             ]
                         },
                         {
@@ -13623,21 +13476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（道具屋じゃ役に立たんだろうし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　別に用は無いか）"
+                                "Ruth: \"A tool shop wouldn't be of much use, I\nguess I have no other business here.\""
                             ]
                         },
                         {
@@ -13714,14 +13553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: \"It's locked...\""
                             ]
                         },
                         {
@@ -13747,14 +13579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（親父が起きても困るし、静かに離れよう）"
+                                "Ruth: \"It would be troublesome if father woke up,\nlet's move away quietly.\""
                             ]
                         },
                         {
@@ -13790,14 +13615,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（親父が起きても困るし、静かに離れよう）"
+                                "Ruth: \"It would be troublesome if father woke up,\nlet's move away quietly.\""
                             ]
                         },
                         {
@@ -13833,14 +13651,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（親父が起きても困るし、静かに離れよう）"
+                                "Ruth: \"It would be troublesome if father woke up,\nlet's move away quietly.\""
                             ]
                         },
                         {
@@ -13948,14 +13759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鍵がかかっているな……」"
+                                "Ruth: \"It's locked...\""
                             ]
                         },
                         {
@@ -14249,21 +14053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……さすがに寝るときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鍵をかけているんだな」"
+                                "Ruth: \"...As expected, she locks the door when\nsleeping, huh.\""
                             ]
                         },
                         {
@@ -14280,21 +14070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どーせコイツは戦力にはならんから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　放おっておくか）"
+                                "Ruth: \"(Anyway, this guy won't be of any help in\nbattle, so I might as well leave him be.)\""
                             ]
                         },
                         {
@@ -14371,14 +14147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: \"It's locked...\""
                             ]
                         },
                         {
@@ -14395,21 +14164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（確か旦那がいるって言ってたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　静かに離れよう）"
+                                "Ruth: \"I'm sure she said her husband is around,\nlet's quietly back away.\""
                             ]
                         },
                         {
@@ -14486,14 +14241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -14570,14 +14318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -14654,14 +14395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -14738,14 +14472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -14762,14 +14489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エヴァ、出てこい」"
+                                "Ruth: \"Eva, come out.\""
                             ]
                         },
                         {
@@ -14853,21 +14573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな夜更けに御用でしょうか」"
+                                "Eva: \"Lord Ruth...? What do you need at this late\nhour?\""
                             ]
                         },
                         {
@@ -14884,21 +14590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「念のため聞くが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前は魔法が使えたりするか？」"
+                                "Ruth: \"Just to make sure... can you use magic?\""
                             ]
                         },
                         {
@@ -14915,21 +14607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ないのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔法らしい魔法は一切使えないのです」"
+                                "Eva: \"I'm sorry, but I cannot use any sort of\nmagic.\""
                             ]
                         },
                         {
@@ -14946,14 +14624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか。では用はない、戻れ」"
+                                "Ruth: \"I see. Then there's no need for you, go\nback.\""
                             ]
                         },
                         {
@@ -14970,14 +14641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エヴァ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お力になれず、申し訳ありません」"
+                                "Eva: \"I apologize for not being able to be of\nhelp.\""
                             ]
                         },
                         {
@@ -15129,14 +14793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もう呼ぶ必要はないだろう）"
+                                "Ruth: (There's no need to call out anymore.)"
                             ]
                         },
                         {
@@ -15214,14 +14871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鍵がかかっているな……」"
+                                "Ruth: \"It's locked...\""
                             ]
                         },
                         {
@@ -15515,14 +15165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -15599,14 +15242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -15900,14 +15536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（暗くて底が見えんな）"
+                                "Ruth: (It's so dark, I can't see the bottom...)"
                             ]
                         },
                         {
@@ -15984,21 +15613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（室内には女が一人なんだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　窓に鍵がかかってて入れないな……）"
+                                "Ruth: (There's a woman inside the room, but the\nwindow is locked... I can't get in...)"
                             ]
                         },
                         {
@@ -16074,14 +15689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女のくせにイビキかいて寝てるな……）"
+                                "Ruth: (She snores pretty loudly for a girl...)"
                             ]
                         },
                         {
@@ -16158,14 +15766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（カーテンが閉まっていて中が見えないな）"
+                                "Ruth: (The curtains are closed, I can't see\ninside.)"
                             ]
                         },
                         {
@@ -16242,14 +15843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（カーテンが閉まっていて中が見えないな）"
+                                "Ruth: (The curtains are closed, I can't see\ninside.)"
                             ]
                         },
                         {
@@ -16327,14 +15921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（花が邪魔で中が見えないな……）"
+                                "Ruth: \"I can't see inside because the flowers are\nin the way...\""
                             ]
                         },
                         {
@@ -16411,14 +15998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（カーテンが閉まっていて中が見えないな）"
+                                "Ruth: \"The curtains are closed, I can't see\ninside.\""
                             ]
                         },
                         {
@@ -16495,14 +16075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（男どもが雑魚寝をしてるな）"
+                                "Ruth: \"The guys are all sleeping huddled\ntogether.\""
                             ]
                         },
                         {
@@ -16579,21 +16152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（父母息子の３人で寝ているな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　静かにしておこう）"
+                                "Ruth: (The parents and son are sleeping together.\nLet's be quiet.)"
                             ]
                         },
                         {
@@ -16670,14 +16229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（カーテンが閉まっていて中が見えないな）"
+                                "Ruth: (The curtains are closed, I can't see\ninside.)"
                             ]
                         },
                         {
@@ -16754,14 +16306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（カーテンが閉まっていて中が見えないな）"
+                                "Ruth: (The curtains are closed, I can't see\ninside.)"
                             ]
                         },
                         {
@@ -16829,14 +16374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ハシゴは撤去されたか……）"
+                                "Ruth: \"Has the ladder been removed...?\""
                             ]
                         },
                         {
@@ -16862,21 +16400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（まぁ、ユーシィ達は戦力にならんし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　別にどうでもいいな）"
+                                "Ruth: \"Well, it doesn't really matter since Yushi\nand the others aren't much of a fighting force\nanyway.\""
                             ]
                         },
                         {
@@ -16903,14 +16427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（まぁ、どうでもいいか）"
+                                "Ruth: \"Well, it doesn't matter, I guess.\""
                             ]
                         },
                         {
@@ -17132,14 +16649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まだ何か実験しているようだ）"
+                                "Ruth: (It seems like she's still experimenting\nwith something.)"
                             ]
                         },
                         {
@@ -17216,14 +16726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（誰も居ないから静かだな……）"
+                                "Ruth: (It's so quiet since there's no one\naround...)"
                             ]
                         },
                         {
@@ -17331,14 +16834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（夜は鍵をかけているんだな）"
+                                "Ruth: \"They lock up at night, huh.\""
                             ]
                         },
                         {
@@ -17355,21 +16851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どっちにしろ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここにはもう用はない）"
+                                "Ruth: \"Either way, I have no more business here.\""
                             ]
                         },
                         {
@@ -17477,21 +16959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（道具屋じゃ役に立たんだろうし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　別に用は無いか）"
+                                "Ruth: (I doubt the tool shop would be of any use,\nso I probably don't need to go there.)"
                             ]
                         },
                         {
@@ -17652,14 +17120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もう準備は大丈夫だよな？）"
+                                "Ruth: \"We're all set to go, right?\""
                             ]
                         },
                         {
@@ -17667,8 +17128,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "レヴィアの元へ行く",
-                                    "もうちょっと村にいる"
+                                    "Go to Levia",
+                                    "Stay in the village a bit longer"
                                 ],
                                 1,
                                 0,
@@ -17698,14 +17159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「よし、行くぞ！」"
+                                "Ruth: \"Alright, let's go!\""
                             ]
                         },
                         {
@@ -17778,14 +17232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（いや、まだだな……）"
+                                "Ruth: \"No, not yet...\""
                             ]
                         },
                         {
@@ -17903,14 +17350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（中に誰も居ないな）"
+                                "Ruth: (There's nobody inside.)"
                             ]
                         },
                         {
@@ -17987,14 +17427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（夜は鍵をかけてるんだな……）"
+                                "Ruth: (They lock the doors at night, huh...)"
                             ]
                         },
                         {
@@ -18091,7 +17524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰を仲間にいれる？"
+                                "Who will you add to your party?"
                             ]
                         },
                         {
@@ -18099,9 +17532,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "魔法使い",
-                                    "僧侶",
-                                    "両方"
+                                    "Wizard",
+                                    "Priest",
+                                    "Both"
                                 ],
                                 -2,
                                 0,
@@ -18593,14 +18026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -18677,14 +18103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（男が寝てるだけだ……）"
+                                "Ruth: (He's just sleeping there...)"
                             ]
                         },
                         {

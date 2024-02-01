@@ -1452,21 +1452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ～、侵入者が居るって報告は聞いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たけど、まさかアンタだったとはねぇ……」"
+                                "Levia: \"Hmm, I heard there was an intruder, but I\nnever imagined it would be you...\""
                             ]
                         },
                         {
@@ -1483,21 +1469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良い武器が手に入ったから飼い主に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　楯突こうってわけね」"
+                                "Levia: \"So you got your hands on a good weapon and\nthought you'd rebel against your master, huh?\""
                             ]
                         },
                         {
@@ -1514,21 +1486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はんっ、そんな軽口叩いていられるのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今のうちだけだぜ？」"
+                                "Ruth: \"Hmph, enjoy talking big while you still\ncan, yeah?\""
                             ]
                         },
                         {
@@ -1545,21 +1503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ……まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相手をしてあげる」"
+                                "Levia: \"Fufufu... Well, alright. I'll entertain\nyou.\""
                             ]
                         },
                         {
@@ -1576,14 +1520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少しは楽しませてね」"
+                                "Levia: \"Make sure you at least amuse me a little.\""
                             ]
                         },
                         {
@@ -1619,14 +1556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リーザ、いけ！」"
+                                "Ruth: \"Reeza, go!\""
                             ]
                         },
                         {
@@ -1643,14 +1573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハアァッ！」"
+                                "Reeza: \"Haaaah!\""
                             ]
                         },
                         {
@@ -1930,14 +1853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほらほら、もっと楽しませなさいよ」"
+                                "Levia: \"Come on, come on, entertain me more.\""
                             ]
                         },
                         {
@@ -2067,14 +1983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「負けないっ！」"
+                                "Reeza: \"I won't lose!\""
                             ]
                         },
                         {
@@ -2230,14 +2139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っく……」"
+                                "Reeza: \"Ugh...\""
                             ]
                         },
                         {
@@ -2254,21 +2156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ちくしょうっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リーザの力でも無理なのかっ！）"
+                                "Ruth: (Damn it! Is Reeza's power not enough?!)"
                             ]
                         },
                         {
@@ -2285,14 +2173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……もう飽きちゃった」"
+                                "Levia: \"Ahh... I'm already bored.\""
                             ]
                         },
                         {
@@ -2309,21 +2190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「地獄の炎よ、全てを喰らい尽くしなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヘルフレイム！！」"
+                                "Levia: \"Flames of hell, devour everything! Hell\nFlame!!\""
                             ]
                         },
                         {
@@ -2387,14 +2254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ア゛ア゛ア゛ア゛アアアアァッ！！」"
+                                "Reeza: \"Aaaahhhhhhhhh!!\""
                             ]
                         },
                         {
@@ -2411,14 +2271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リ、リーザ！？」"
+                                "Ruth: \"Reeza!? What?!\""
                             ]
                         },
                         {
@@ -2451,21 +2304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この程度でどうにか出来ると思ったんだ♪」"
+                                "Levia: \"Ahahaha! You thought you could do\nsomething with that level of effort?\""
                             ]
                         },
                         {
@@ -2482,14 +2321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ……くそ」"
+                                "Ruth: \"Grr... Damn it.\""
                             ]
                         },
                         {
@@ -2506,21 +2338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもまぁ、連れてきてくれたおかげで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手間が省けたわ～」"
+                                "Levia: \"But well, thanks to you bringing her here,\nyou've saved me some trouble~\""
                             ]
                         },
                         {
@@ -2537,14 +2355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感謝するわよ、ルース♪」"
+                                "Levia: \"I should thank you, Ruth♪\""
                             ]
                         },
                         {
@@ -2561,14 +2372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……でもね」"
+                                "Levia: \"...But you know,\""
                             ]
                         },
                         {
@@ -2585,14 +2389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヒィッ！」"
+                                "Ruth: \"Eek!\""
                             ]
                         },
                         {
@@ -2609,14 +2406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「裏切り者にはお仕置きが必要よね～♪」"
+                                "Levia: \"Traitors need to be punished, don't\nthey~♪\""
                             ]
                         },
                         {
@@ -2633,14 +2423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「た、頼む。何でもするから命だけは……」"
+                                "Ruth: \"P-Please, I'll do anything, just spare my\nlife...\""
                             ]
                         },
                         {
@@ -2657,14 +2440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーメ♪」"
+                                "Levia: \"No way♪\""
                             ]
                         },
                         {
@@ -2681,14 +2457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヘルフレイム！！」"
+                                "Levia: \"Hell Flame!!\""
                             ]
                         },
                         {
@@ -2742,14 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぎゃあああああああああああああああぁっ！」"
+                                "Ruth: \"Gyaaaaaaaaaaaaaaaaaaaaah!\""
                             ]
                         },
                         {
@@ -2782,14 +2544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あははははっ♪」"
+                                "Levia: \"Ahahahahaha!\""
                             ]
                         },
                         {
@@ -2902,14 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あらあら、アンタどうしたの？」"
+                                "Levia: \"Oh my, what brings you here?\""
                             ]
                         },
                         {
@@ -2926,21 +2674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「任務が完了しましたので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご報告にあがりました」"
+                                "Ruth: \"I have completed the mission and have come\nto report.\""
                             ]
                         },
                         {
@@ -2957,14 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えーっと……」"
+                                "Levia: \"Uh...\""
                             ]
                         },
                         {
@@ -2981,14 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、そうそう、あの村の女戦士ね！」"
+                                "Levia: \"Ah, yes, yes, the female warrior from that\nvillage!\""
                             ]
                         },
                         {
@@ -3005,21 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか生きて帰ってくるとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思わなかったわ……」"
+                                "Levia: \"I never thought you'd make it back\nalive...\""
                             ]
                         },
                         {
@@ -3036,14 +2742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、お疲れ。下がっていいわよ」"
+                                "Levia: \"Well, you must be tired. You may stand\ndown.\""
                             ]
                         },
                         {
@@ -3060,14 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ！？　それだけですか？」"
+                                "Ruth: \"Eh!? Is that all?\""
                             ]
                         },
                         {
@@ -3084,28 +2776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにか文句でもあんの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やることすんだんなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっさと視界から消えてくれる？」"
+                                "Levia: \"Do you have a complaint? If you're done\nwith your tasks, then get out of my sight quickly,\nwill you?\""
                             ]
                         },
                         {
@@ -3129,21 +2800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ、はいぃっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　わかりましたぁっ！！」"
+                                "Ruth: \"Ye-Yes! Understood!!\""
                             ]
                         },
                         {
@@ -3340,14 +2997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんだよ、結局何も報われないのかよ……）"
+                                "Ruth: (What the hell, so I get nothing in\nreturn...)"
                             ]
                         },
                         {
@@ -3364,21 +3014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だったら下剋上でも起こしておけば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良かったかもなぁ……）"
+                                "Ruth: (Maybe I should have staged a coup or\nsomething...)"
                             ]
                         },
                         {
@@ -3500,21 +3136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ～、侵入者が居るって報告は聞いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たけど、まさかアンタだったとはねぇ……」"
+                                "Levia: \"Hmm, I heard reports of an intruder, but I\nnever imagined it would be you...\""
                             ]
                         },
                         {
@@ -3531,21 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良い武器が手に入ったから飼い主に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　楯突こうってわけね」"
+                                "Levia: \"So you got your hands on a nice weapon and\nthought you'd rebel against your master, huh?\""
                             ]
                         },
                         {
@@ -3562,21 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はんっ、そんな軽口叩いていられるのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今のうちだけだぜ？」"
+                                "Ruth: \"Hmph, enjoy your mocking while you can, it\nwon't last long!\""
                             ]
                         },
                         {
@@ -3593,21 +3187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ……まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相手をしてあげる」"
+                                "Levia: \"Hehehe... Well, alright. I'll entertain\nyou.\""
                             ]
                         },
                         {
@@ -3643,14 +3223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、お前たちの力を見せてやれ！」"
+                                "Ruth: \"Alright, show them your power!\""
                             ]
                         },
                         {
@@ -3667,14 +3240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「忙しいし、手っ取り早く済ませてあげるっ！」"
+                                "Levia: \"I'm busy, so let's make this quick!\""
                             ]
                         },
                         {
@@ -3691,21 +3257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「地獄の炎よ、全てを喰らい尽くしなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヘルフレイム！！」"
+                                "Levia: \"Flames of hell, consume everything! Hell\nFlame!!\""
                             ]
                         },
                         {
@@ -3948,14 +3500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジックシールド！」"
+                                "Cyan: \"Magic Shield!\""
                             ]
                         },
                         {
@@ -3979,14 +3524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ……私の炎を防げるんだ……」"
+                                "Levia: \"Oh... You can block my flames...\""
                             ]
                         },
                         {
@@ -4003,14 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……貴方の魔法は全力で私が止める」"
+                                "Cyan: \"...I will stop your magic with all my\nmight.\""
                             ]
                         },
                         {
@@ -4027,28 +3558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ……貴方、可愛いわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、魔法を防いだ程度で私を倒せるとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思わないことね！」"
+                                "Levia: \"Hehehe... You're cute. But don't think\nthat just because you blocked my magic, you can\ndefeat me!\""
                             ]
                         },
                         {
@@ -4328,14 +3838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、次は貴方が相手なのかしら？」"
+                                "Levia: \"Oh, are you my next opponent?\""
                             ]
                         },
                         {
@@ -4352,14 +3855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前は私が倒す！」"
+                                "Reeza: \"I will be the one to defeat you!\""
                             ]
                         },
                         {
@@ -4468,21 +3964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「噂通りなかなかやるじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもね、その程度じゃ私を倒せないわよ」"
+                                "Levia: \"You're quite skilled, just as the rumors\nsay. But that's not enough to defeat me.\""
                             ]
                         },
                         {
@@ -4681,14 +4163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！」"
+                                "Reeza: \"Grr!\""
                             ]
                         },
                         {
@@ -4705,21 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「凍てつく槍よ、我が敵を貫けっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アイシクルランスっ！」"
+                                "Cyan: \"Icicle Lance, pierce through my enemies!\""
                             ]
                         },
                         {
@@ -4785,14 +4246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「フレイムランス！」"
+                                "Levia: \"Flame Lance!\""
                             ]
                         },
                         {
@@ -4809,14 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………っ！」"
+                                "Cyan: \"...!\""
                             ]
                         },
                         {
@@ -4833,21 +4280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ざんね～ん♪　私の魔法も効かないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴方の魔法も効かないわよ」"
+                                "Levia: \"Too bad♪ My magic doesn't work on you, but\nyour magic doesn't work on me either.\""
                             ]
                         },
                         {
@@ -4864,21 +4297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、どうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私をもっと楽しませてみなさいよ」"
+                                "Levia: \"Come on, what's wrong? Entertain me more!\""
                             ]
                         },
                         {
@@ -4895,14 +4314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（っく……こりゃヤバそうだな……）"
+                                "Ruth: \"(Damn... This looks bad...)\""
                             ]
                         },
                         {
@@ -4919,14 +4331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前ら！　ここは任せた、俺は逃げるっ！」"
+                                "Ruth: \"You guys! I'm leaving this to you, I'm\ngetting out of here!\""
                             ]
                         },
                         {
@@ -5349,14 +4754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げんじゃないわよ！」"
+                                "Levia: \"You're not getting away!\""
                             ]
                         },
                         {
@@ -5373,14 +4771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヒィィっ！！」"
+                                "Ruth: \"Eeeek!!\""
                             ]
                         },
                         {
@@ -5397,14 +4788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「裏切り者にはお仕置きが必要よね～♪」"
+                                "Levia: \"Traitors need to be punished, don't\nthey~♪\""
                             ]
                         },
                         {
@@ -5421,14 +4805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「た、頼む。何でもするから命だけは……」"
+                                "Ruth: \"P-Please... I'll do anything, just spare my\nlife...\""
                             ]
                         },
                         {
@@ -5445,21 +4822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に？　じゃあ私の言う事聞いたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　命だけは助けてあげる」"
+                                "Levia: \"Really? If you listen to what I say, then\nI'll spare your life.\""
                             ]
                         },
                         {
@@ -5476,14 +4839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほ……本当か？」"
+                                "Ruth: \"R-Really?\""
                             ]
                         },
                         {
@@ -5500,14 +4856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、本当よ」"
+                                "Levia: \"Yes, really.\""
                             ]
                         },
                         {
@@ -5524,28 +4873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私、この子たち気に入っちゃった♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからね、これからはずっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の言う事を聞く様に命令してくれない？」"
+                                "Levia: \"I've taken a liking to these girls♪ So,\ncould you order them to always listen to what I\nsay from now on?\""
                             ]
                         },
                         {
@@ -5562,14 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それで本当に助けてくれるのか？」"
+                                "Ruth: \"If I do that, will you really spare me?\""
                             ]
                         },
                         {
@@ -5586,14 +4907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、命だけはね♪」"
+                                "Levia: \"Yes, I'll spare your life♪\""
                             ]
                         },
                         {
@@ -5634,14 +4948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうして俺は命を失わずに済んだ……"
+                                "And so, I was spared from losing my life..."
                             ]
                         },
                         {
@@ -5658,14 +4965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、その代わりに牢獄に入れられてしまった……"
+                                "However, in exchange, I was thrown into prison..."
                             ]
                         },
                         {
@@ -5682,28 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツらを使って脱出しようと思ったが、牢獄内は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力が封じられるのか、もう女達を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "操作することが出来なかった……"
+                                "I thought about using the girls to escape, but it\nseems magic is sealed within the prison walls, and\nI could no longer control them..."
                             ]
                         },
                         {
@@ -5720,21 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、俺が生きている限り、アイツらに下した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴィアに従えという命令は効いたままだ。"
+                                "However, as long as I live, the order for them to\nobey Levia remains in effect."
                             ]
                         },
                         {
@@ -5751,28 +5016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴィアがアイツらを使い続ける限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺を死なせるわけにはいかないため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかりと食事は運ばれてくる。"
+                                "As long as Levia continues to use them, she can't\nafford to let me die, so my meals are brought\nregularly."
                             ]
                         },
                         {
@@ -5789,14 +5033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由は無いが、身の安全が保障されているのは良い事だ……"
+                                "I have no freedom, but at least my safety is\nguaranteed..."
                             ]
                         },
                         {
@@ -5813,28 +5050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（俺みたいな弱いヤツは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつ死ぬかわからないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とりあえずこの状態で良しとしよう）"
+                                "Ruth: \"(A weakling like me could die at any time,\nso for now, I should be content with this\nsituation.)\""
                             ]
                         },
                         {
@@ -5851,21 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はいつまで生きられるか分からないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生きている限りはそう思って過ごしていこうと思った……"
+                                "I don't know how long I'll be able to live, but as\nlong as I'm alive, that's how I've decided to\nspend my days..."
                             ]
                         },
                         {
@@ -5987,21 +5189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ～、侵入者が居るって報告は聞いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たけど、まさかアンタだったとはねぇ……」"
+                                "Levia: \"Hmm, I heard reports of an intruder, but I\nnever imagined it was you...\""
                             ]
                         },
                         {
@@ -6018,21 +5206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良い武器が手に入ったから飼い主に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　楯突こうってわけね」"
+                                "Levia: \"So you got your hands on a good weapon and\nnow you think you can defy your master, huh?\""
                             ]
                         },
                         {
@@ -6049,21 +5223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はんっ、そんな軽口叩いていられるのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今のうちだけだぜ？」"
+                                "Ruth: \"Hmph, enjoy your smugness while you can,\n'cause it won't last long!\""
                             ]
                         },
                         {
@@ -6080,21 +5240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ……まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相手をしてあげる」"
+                                "Levia: \"Hehehe... Well, alright. I'll entertain\nyou.\""
                             ]
                         },
                         {
@@ -6130,14 +5276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、お前たちの力を見せてやれ！」"
+                                "Ruth: \"Alright, show them your power!\""
                             ]
                         },
                         {
@@ -6154,14 +5293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ……存分に楽しませなさいよ」"
+                                "Levia: \"Hehehe... Entertain me to your heart's\ncontent.\""
                             ]
                         },
                         {
@@ -6178,14 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハアァッ！」"
+                                "Reeza: \"Haaah!\""
                             ]
                         },
                         {
@@ -6465,14 +5590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っく……」"
+                                "Reeza: \"*gasp*...\""
                             ]
                         },
                         {
@@ -6489,14 +5607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほらほら、もっと楽しませなさいよ」"
+                                "Levia: \"Come on, come on, entertain me more!\""
                             ]
                         },
                         {
@@ -6513,21 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすがにリーザだけじゃ苦しいか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やれっ！　エリルっ！」"
+                                "Ruth: \"Looks like Reeza alone is having a tough\ntime... Go for it, Eril!\""
                             ]
                         },
                         {
@@ -6544,14 +5641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「主よ、我が友に祝福を、ホーリーブレス！」"
+                                "Eril: \"My Lord, bless my friend with your grace,\nHoly Bless!\""
                             ]
                         },
                         {
@@ -6584,14 +5674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っく！　こいつ急に速く……っ！」"
+                                "Levia: \"*gasp*! She's suddenly so fast...!\""
                             ]
                         },
                         {
@@ -6700,21 +5783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきまでの余裕面はどこいった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なぁ、レヴィア？」"
+                                "Ruth: \"Where's that confidence you had a moment\nago? Eh, Levia?\""
                             ]
                         },
                         {
@@ -6731,14 +5800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クソッ！　触手ごときがあああぁっ！」"
+                                "Levia: \"Damn it! These tentacles aaaaahhh!\""
                             ]
                         },
                         {
@@ -6755,14 +5817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメ押しだ……エリルっ！」"
+                                "Ruth: \"Time for the finishing blow... Eril!\""
                             ]
                         },
                         {
@@ -6779,21 +5834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、ルース様！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　邪悪なる者を滅する力を与え給え！」"
+                                "Eril: \"Yes, Lord Ruth! Grant us the power to\nvanquish the wicked!\""
                             ]
                         },
                         {
@@ -6810,14 +5851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ホーリーウェポン！」"
+                                "Eril: \"Holy Weapon!\""
                             ]
                         },
                         {
@@ -6850,14 +5884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハアアアアアアアアアアァッ！」"
+                                "Reeza: \"Haaaaaaaaaaaaah!\""
                             ]
                         },
                         {
@@ -6886,14 +5913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐぁっ！」"
+                                "Levia: \"Gah!\""
                             ]
                         },
                         {
@@ -7007,21 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっく……いいざまだなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リーザ、とどめをさせっ！」"
+                                "Ruth: \"Heh heh heh... What a sight... Reeza,\nfinish her off!\""
                             ]
                         },
                         {
@@ -7038,14 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私をなめるなっ！　ヘルフレイムっ！！」"
+                                "Levia: \"Don't underestimate me! Hell Flame!!\""
                             ]
                         },
                         {
@@ -7078,14 +6077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ア゛ア゛ア゛ア゛アアアアァッ！！」"
+                                "Reeza: \"Aaaaaaaaahhhhh!!\""
                             ]
                         },
                         {
@@ -7133,14 +6125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにっ！？」"
+                                "Ruth: \"What the!? \""
                             ]
                         },
                         {
@@ -7157,14 +6142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リーザさんっ！」"
+                                "Eril: \"Miss Reeza!\""
                             ]
                         },
                         {
@@ -7181,14 +6159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「次は貴様だ神官女っ！　ヘルフレイム！！」"
+                                "Levia: \"You're next, priestess! Hell Flame!!\""
                             ]
                         },
                         {
@@ -7245,14 +6216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあああああああっ！！」"
+                                "Eril: \"Kyaaaaaaaah!!\""
                             ]
                         },
                         {
@@ -7276,14 +6240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……はぁ……」"
+                                "Levia: \"*pant*... *pant*...\""
                             ]
                         },
                         {
@@ -7300,14 +6257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……これはヤバい）"
+                                "Ruth: \"(...This is bad.)\""
                             ]
                         },
                         {
@@ -7409,14 +6359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこに行くの？　ルース……」"
+                                "Levia: \"Where do you think you're going? Ruth...\""
                             ]
                         },
                         {
@@ -7433,21 +6376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「た、助けてくれ！　謝るっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出来心なんだ！」"
+                                "Ruth: \"P-please help me! I apologize! It was just\na moment of folly!\""
                             ]
                         },
                         {
@@ -7464,14 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははははははっ！」"
+                                "Levia: \"Ahahahahahaha!\""
                             ]
                         },
                         {
@@ -7488,14 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「言いたいことは、それだけかしら？」"
+                                "Levia: \"Is that all you wanted to say?\""
                             ]
                         },
                         {
@@ -7512,14 +6427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヒッ！」"
+                                "Ruth: \"Eek!\""
                             ]
                         },
                         {
@@ -7536,21 +6444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、嫌だ……死にたくないっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死にたくないいいいいいいいいいいいぃっ！」"
+                                "Ruth: \"N-no... I don't want to die! I don't want\nto dieeeeeeeeee!\""
                             ]
                         },
                         {
@@ -7567,21 +6461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それじゃ、ルース……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さようなら……ヘルフレイムっ！」"
+                                "Levia: \"Well then, Ruth... goodbye... Hell\nFlame!!\""
                             ]
                         },
                         {
@@ -7628,14 +6508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぎゃあああああああああああああああぁっ！」"
+                                "Ruth: \"Gyaaaaaaaaaaaaaaaaaaaaaahhhhh!\""
                             ]
                         },
                         {
@@ -7755,21 +6628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ～、侵入者が居るって報告は聞いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たけど、まさかアンタだったとはねぇ……」"
+                                "Levia: \"Hmm, I heard reports of an intruder, but I\nnever imagined it would be you...\""
                             ]
                         },
                         {
@@ -7786,21 +6645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良い武器が手に入ったから飼い主に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　楯突こうってわけね」"
+                                "Levia: \"So you've obtained a good weapon and now\nyou think you can defy your master, huh?\""
                             ]
                         },
                         {
@@ -7817,21 +6662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はんっ、そんな軽口叩いていられるのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今のうちだけだぜ？」"
+                                "Ruth: \"Hmph, enjoy talking big while you still\ncan.\""
                             ]
                         },
                         {
@@ -7848,21 +6679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ……まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相手をしてあげる」"
+                                "Levia: \"Hehehe... Well, alright. I'll entertain\nyou.\""
                             ]
                         },
                         {
@@ -7898,14 +6715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、お前たちの力を見せてやれ！」"
+                                "Ruth: \"Alright, show them your power!\""
                             ]
                         },
                         {
@@ -7922,14 +6732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「忙しいし、手っ取り早く済ませてあげるっ！」"
+                                "Levia: \"I'm busy, so I'll make this quick!\""
                             ]
                         },
                         {
@@ -7946,21 +6749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「地獄の炎よ、全てを喰らい尽くしなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヘルフレイム！！」"
+                                "Levia: \"Flames of hell, consume everything! Hell\nFlame!!\""
                             ]
                         },
                         {
@@ -8281,14 +7070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジックシールド！」"
+                                "Cyan: \"Magic Shield!\""
                             ]
                         },
                         {
@@ -8312,14 +7094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ……私の炎を防げるんだ……」"
+                                "Levia: \"Heh... You can block my flames...\""
                             ]
                         },
                         {
@@ -8336,14 +7111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……貴方の魔法は全力で私が止める」"
+                                "Cyan: \"...I will stop your magic with all my\nmight.\""
                             ]
                         },
                         {
@@ -8360,28 +7128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ……貴方、可愛いわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、魔法を防いだ程度で私を倒せるとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思わないことね！」"
+                                "Levia: \"Hehehe... You're cute. But don't think\nthat just because you've blocked my magic that you\ncan defeat me!\""
                             ]
                         },
                         {
@@ -8661,14 +7408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、次は貴方が相手なのかしら？」"
+                                "Levia: \"Oh, are you my next opponent?\""
                             ]
                         },
                         {
@@ -8685,14 +7425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前は私が倒す！」"
+                                "Reeza: \"I will be the one to defeat you!\""
                             ]
                         },
                         {
@@ -8801,21 +7534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「噂通りなかなかやるじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもね、その程度じゃ私を倒せないわよ」"
+                                "Levia: \"You're quite skilled, just as the rumors\nsay. But that's not enough to defeat me.\""
                             ]
                         },
                         {
@@ -8966,14 +7685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っく……」"
+                                "Reeza: \"Grr...\""
                             ]
                         },
                         {
@@ -8990,14 +7702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「負けてたまるかーっ！」"
+                                "Reeza: \"I refuse to lose!\""
                             ]
                         },
                         {
@@ -9120,14 +7825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エリルっ！　リーザを助けろっ！」"
+                                "Ruth: \"Eril! Help Reeza!\""
                             ]
                         },
                         {
@@ -9144,14 +7842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「主よ、我が友に祝福を、ホーリーブレス！」"
+                                "Eril: \"Lord, bless my friend with your grace, Holy\nBless!\""
                             ]
                         },
                         {
@@ -9184,14 +7875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っく！　こいつ急に速く……っ！」"
+                                "Levia: \"Gah! She's suddenly so fast...!\""
                             ]
                         },
                         {
@@ -9300,21 +7984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきまでの余裕面はどこいった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なぁ、レヴィア？」"
+                                "Ruth: \"Where did all that confidence go? Eh,\nLevia?\""
                             ]
                         },
                         {
@@ -9331,14 +8001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クソッ！　触手ごときがあああぁっ！」"
+                                "Levia: \"Damn it! These tentacles aaaaahhh!\""
                             ]
                         },
                         {
@@ -9355,21 +8018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「凍てつく槍よ、我が敵を貫けっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アイシクルランスっ！」"
+                                "Cyan: \"Icicle lance, pierce through my enemy!\""
                             ]
                         },
                         {
@@ -9402,14 +8051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くはっ！」"
+                                "Levia: \"Gah!\""
                             ]
                         },
                         {
@@ -9426,14 +8068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメ押しだ……エリルっ！」"
+                                "Ruth: \"Time for the finishing blow... Eril!\""
                             ]
                         },
                         {
@@ -9450,21 +8085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、ルース様！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　邪悪なる者を滅する力を与え給え！」"
+                                "Eril: \"Yes, Lord Ruth! Grant us the power to\nvanquish the wicked!\""
                             ]
                         },
                         {
@@ -9481,14 +8102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ホーリーウェポン！」"
+                                "Eril: \"Holy Weapon!\""
                             ]
                         },
                         {
@@ -9521,14 +8135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リーザ、とどめをさせっ！」"
+                                "Ruth: \"Reeza, finish it!\""
                             ]
                         },
                         {
@@ -9545,14 +8152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リーザ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハアアアアアアアアアアァッ！」"
+                                "Reeza: \"HAAAAAAAAAAAAAAH!\""
                             ]
                         },
                         {
@@ -9581,14 +8181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐぁっ！」"
+                                "Levia: \"Gah!\""
                             ]
                         },
                         {
@@ -9702,14 +8295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ、良いざまだなぁ……レヴィア」"
+                                "Ruth: \"Haha, serves you right... Levia\""
                             ]
                         },
                         {
@@ -9726,14 +8312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エリル、やれ」"
+                                "Ruth: \"Eril, do it.\""
                             ]
                         },
                         {
@@ -9750,14 +8329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「主よ、邪悪なる力を封じたまえっ！」"
+                                "Eril: \"Lord, seal away this evil power!\""
                             ]
                         },
                         {
@@ -9790,14 +8362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、なに……？　力が……抜ける……」"
+                                "Levia: \"Wh-what...? My strength is... draining...\""
                             ]
                         },
                         {
@@ -9814,21 +8379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「普段のオマエじゃ効かないだろうが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　傷ついた今なら十分効果あるようだな」"
+                                "Ruth: \"Normally this wouldn't affect you, but now\nthat you're wounded, it seems to be quite\neffective.\""
                             ]
                         },
                         {
@@ -9845,14 +8396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クソがぁ……」"
+                                "Levia: \"You bastard...\""
                             ]
                         },
                         {
@@ -9869,14 +8413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それじゃ、たっぷりオマエを犯してやるよ」"
+                                "Ruth: \"Now then, I'll have my way with you\nthoroughly.\""
                             ]
                         },
                         {

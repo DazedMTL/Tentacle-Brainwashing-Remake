@@ -1410,14 +1410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱ教会のシスターさん、可愛いよな～」"
+                                "Man A: \"The sister at the church is really cute,\nhuh~\""
                             ]
                         },
                         {
@@ -1443,21 +1436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの広い教会を一人で支えてるんだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　健気っつーか献身的っつーか、守ってあげたくなるよな～」"
+                                "Man A: \"She's supporting that huge church all by\nherself. It's so touching... or should I say\ndevoted? Makes you want to protect her~\""
                             ]
                         },
                         {
@@ -1513,14 +1492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやいや、守ってあげたいならメイドさんだろう！」"
+                                "Man B: \"No way, if you want to protect someone, it\nshould be the maid!\""
                             ]
                         },
                         {
@@ -1568,14 +1540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ～、お嬢様の所のメイドさん？」"
+                                "Man C: \"Ah~, the maid from the young lady's\nplace?\""
                             ]
                         },
                         {
@@ -1623,21 +1588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうそう！　家事全般得意だけど、意外と怖がりで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物とか見るとすぐ逃げるらしいぜ～」"
+                                "Man B: \"Exactly! She's good at all sorts of\nhousework, but she's surprisingly a scaredy-cat. I\nheard she runs away at the sight of monsters~\""
                             ]
                         },
                         {
@@ -1654,14 +1605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジで？」"
+                                "Man A: \"Really?\""
                             ]
                         },
                         {
@@ -1709,14 +1653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、だから屋敷にはボディガードの男が多いんだよな」"
+                                "Man C: \"Yeah, that's why there are a lot of male\nbodyguards at the mansion.\""
                             ]
                         },
                         {
@@ -1733,21 +1670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほんとは腕っぷしの強いメイドが欲しかったらしいが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お嬢様がメイドさんが気に入ったらしくてな」"
+                                "Man C: \"They actually wanted a maid who was strong\nin a fight, but the young lady took a liking to\nher, so that was that.\""
                             ]
                         },
                         {
@@ -1804,21 +1727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見た目じゃあまりわからないけどな～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あぁっ、メイドさんは俺が守ってあげたい！」"
+                                "Man B: \"You can't really tell by looking at her,\nbut ah~, I want to be the one to protect the\nmaid!\""
                             ]
                         },
                         {
@@ -1835,21 +1744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうせお前じゃあ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　守る前に魔物にやられちまうだろうけどな～」"
+                                "Man A: \"As if you could protect her. You'd\nprobably get taken down by monsters before you\ncould do anything~\""
                             ]
                         },
                         {
@@ -1905,14 +1800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははは、そりゃそうだ！」"
+                                "Man C: \"Hahaha, that's true!\""
                             ]
                         },
                         {
@@ -1938,14 +1826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよお前らだって似たようなもんだろ！」"
+                                "Man B: \"What are you talking about? You guys are\nno different!\""
                             ]
                         },
                         {
@@ -1967,14 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……人間の男って奴はバカばっかりだな）"
+                                "Ruth: \"...Human males are such idiots.\""
                             ]
                         },
                         {
@@ -1991,21 +1865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ま、いくら弱いとはいえ男だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな数いたら瞬殺だろうから逃げるか）"
+                                "Ruth: \"Well, as weak as they are, they're still\nmen. With this many around, they'd be killed\ninstantly, so maybe I should escape.\""
                             ]
                         },
                         {

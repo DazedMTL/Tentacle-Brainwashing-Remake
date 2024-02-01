@@ -1767,14 +1767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道具屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあっ！　化け物っ！」"
+                                "Shopkeeper: \"Kyaa! A monster!\""
                             ]
                         },
                         {
@@ -2123,14 +2116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道具屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰かーっ！　誰か助けてーっ！！」"
+                                "Shopkeeper: \"Somebody-! Somebody help-!!\""
                             ]
                         },
                         {
@@ -2147,21 +2133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（に、逃げられた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはヤバイ気がするぞ……）"
+                                "Ruth: \"(She, she got away! This feels really\nbad...)\""
                             ]
                         },
                         {
@@ -2311,14 +2283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くそっ、押さえられててびくともしない）"
+                                "Ruth: \"(Damn it, I can't move an inch with this\nhold on me!)\""
                             ]
                         },
                         {
@@ -2386,14 +2351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵がかかっているな……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -2635,7 +2593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シアンさん宛　商品目録」と書かれている。"
+                                "\"Inventory for Miss Cyan,\" it reads."
                             ]
                         },
                         {
@@ -2652,21 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（何々……ビーカーに固形燃料に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この見慣れない名前の薬物は何だ？）"
+                                "Ruth: (What's this... Bicarbonate, solid fuel, and\nwhat's this drug with the unfamiliar name?)"
                             ]
                         },
                         {
@@ -2683,14 +2627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（魔術用の道具、か……？）"
+                                "Ruth: (Could it be tools for magic...?)"
                             ]
                         },
                         {
@@ -2767,21 +2704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（何か色々と書いてあるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今はそれどころではない）"
+                                "Ruth: (There's a lot written here, but now's not\nthe time for that.)"
                             ]
                         },
                         {
@@ -2850,7 +2773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シアンさん宛　商品目録」と書かれている。"
+                                "\"A product catalog addressed to Cyan-san.\""
                             ]
                         },
                         {
@@ -2867,21 +2790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（何々……ビーカーに固形燃料に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この見慣れない名前の薬物は何だ？）"
+                                "Ruth: (What's this... Beakers, solid fuel, and\nwhat's this drug with the unfamiliar name?)"
                             ]
                         },
                         {
@@ -2898,14 +2807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（魔術用の道具、か……？）"
+                                "Ruth: (Tools for magic, perhaps...?)"
                             ]
                         },
                         {
@@ -2922,21 +2824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（このシアンってヤツ気になるな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっとタリアに聞いてみるか）"
+                                "Ruth: (This Cyan person is intriguing... Maybe I\nshould ask Thalia about them.)"
                             ]
                         },
                         {
@@ -3014,7 +2902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シアンさん宛　商品目録」と書かれている。"
+                                "\"Catalogue for Miss Cyan,\" it reads."
                             ]
                         },
                         {
@@ -3031,28 +2919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（中身は魔術道具っぽい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このシアンってヤツ気になるな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっとタリアに聞いてみるか）"
+                                "Ruth: (The contents seem to be magical tools. This\nCyan person has caught my interest... Maybe I\nshould ask Thalia about her.)"
                             ]
                         },
                         {
@@ -3120,14 +2987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（中身は空だな）"
+                                "Ruth: (It's empty inside.)"
                             ]
                         },
                         {
@@ -3322,21 +3182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かありましたか？」"
+                                "Talia: \"Lord Ruth, is there something you need?\""
                             ]
                         },
                         {
@@ -3371,14 +3217,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「なぁ、シアンって誰だ？」"
+                                "Ruth: \"Hey, who's Cyan?\""
                             ]
                         },
                         {
@@ -3395,28 +3234,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「シアンさんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　南西の赤い屋根の家に住んでる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　魔法使いさんです」"
+                                "Talia: \"Cyan-san? She's a magician living in the\nhouse with the red roof to the southwest.\""
                             ]
                         },
                         {
@@ -3433,28 +3251,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（ふむ、やはりあの道具は魔法用か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　魔法使いがいれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　女戦士もどうにか出来るかもな）"
+                                "Ruth: (Hmm, so that tool is for magic... If\nthere's a magician, maybe I can do something about\nthe female warrior too.)"
                             ]
                         },
                         {
@@ -3480,21 +3277,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（あの家に居たのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　確か女が一人だったはず……）"
+                                "Ruth: (The one who was at that house... it was\ndefinitely a woman alone, if I remember\ncorrectly...)"
                             ]
                         },
                         {
@@ -3511,21 +3294,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（それなら犯して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　操ることができそうだな……）"
+                                "Ruth: (If that's the case, I might be able to rape\nand control her...)"
                             ]
                         },
                         {
@@ -3552,14 +3321,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「そいつは女か？」"
+                                "Ruth: \"Is that person a woman?\""
                             ]
                         },
                         {
@@ -3576,14 +3338,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「はい、そうですよー」"
+                                "Talia: \"Yes, that's right.\""
                             ]
                         },
                         {
@@ -3600,14 +3355,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「一人暮らしか？」"
+                                "Ruth: \"Does she live alone?\""
                             ]
                         },
                         {
@@ -3624,21 +3372,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「そうですね、いつも一人で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　ずっと実験とかしてるみたいです」"
+                                "Talia: \"Yes, it seems she's always alone,\nconstantly doing experiments.\""
                             ]
                         },
                         {
@@ -3655,21 +3389,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（それなら犯して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　操ることができそうだな……）"
+                                "Ruth: (Then it seems possible to rape and control\nher...)"
                             ]
                         },
                         {
@@ -3696,14 +3416,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あの荷物はお前が届けに行くのか？」"
+                                "Ruth: \"Are you the one delivering that package?\""
                             ]
                         },
                         {
@@ -3720,28 +3433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「荷物……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　あぁ、シアンさんが注文した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　魔法の実験道具の事ですか？」"
+                                "Talia: \"Package...? Ah, are you talking about the\nmagical experimental tools ordered by Cyan-san?\""
                             ]
                         },
                         {
@@ -3758,14 +3450,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「確か、今日引き取りに来るはずだったかな」"
+                                "Talia: \"I believe she was supposed to come pick it\nup today.\""
                             ]
                         },
                         {
@@ -3782,21 +3467,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（ふむ……じゃあ荷物に紛れていれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　シアンとやらの家に潜入出来るってことか？）"
+                                "Ruth: (Hmm... so if I hide in the package, I can\ninfiltrate Cyan's house, huh?)"
                             ]
                         },
                         {
@@ -3814,8 +3485,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "荷物に隠れる",
-                                    "今はやめる"
+                                    "Hide in the cargo",
+                                    "Stop for now"
                                 ],
                                 1,
                                 0,
@@ -3845,14 +3516,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（よし、荷物に隠れて潜入してやろう）"
+                                "Ruth: (Alright, I'll hide in the package and sneak\nin.)"
                             ]
                         },
                         {
@@ -3869,28 +3533,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「荷物に隠れるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　お前は何も言わずにソイツに渡せ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　わかったな？」"
+                                "Ruth: \"I'll hide in the package, so just hand it\nover to her without saying anything. Got it?\""
                             ]
                         },
                         {
@@ -3907,14 +3550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「はい、わかりました」"
+                                "Talia: \"Yes, I understand.\""
                             ]
                         },
                         {
@@ -3943,14 +3579,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -4058,14 +3687,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「シアンさん、これが注文されていた荷物です」"
+                                "Talia: \"Cyan-san, this is the package you\nordered.\""
                             ]
                         },
                         {
@@ -4082,14 +3704,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「うむ、ありがとう」"
+                                "Cyan: \"Hmm, thank you.\""
                             ]
                         },
                         {
@@ -4106,14 +3721,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「重いけど、大丈夫ですか？」"
+                                "Talia: \"It's heavy, are you sure you're okay?\""
                             ]
                         },
                         {
@@ -4130,21 +3738,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「大丈夫だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　魔法で持っていくからな……ほいっと」"
+                                "Cyan: \"It's fine. I'll carry it with magic...\nthere we go.\""
                             ]
                         },
                         {
@@ -4170,14 +3764,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シアン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「じゃ、また頼むな」"
+                                "Cyan: \"Well then, I'll be counting on you again.\""
                             ]
                         },
                         {
@@ -4410,14 +3997,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（まぁ、今はいいか……）"
+                                "Ruth: (Well, it's fine for now...)"
                             ]
                         },
                         {
@@ -4434,21 +4014,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「また何かありましたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　お声をかけてくださいね」"
+                                "Talia: \"If there's anything else you need, please\nlet me know.\""
                             ]
                         },
                         {
@@ -4531,14 +4097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや、特に何も無い」"
+                                "Ruth: \"No, nothing in particular.\""
                             ]
                         },
                         {
@@ -4639,21 +4198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、ルース様！　シアンさんどうでした？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上手く行きましたか？」"
+                                "Thalia: \"Ah, Lord Ruth! How did it go with Cyan-\nsan? Did everything go well?\""
                             ]
                         },
                         {
@@ -4670,21 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、上手くいった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シアンはもう俺の言いなりだ」"
+                                "Ruth: \"Yeah, it went well. Cyan is now completely\nunder my control.\""
                             ]
                         },
                         {
@@ -4701,21 +4232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは良かったです♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私も仲間が増えて嬉しいです」"
+                                "Thalia: \"That's great to hear♪ I'm happy to have\nmore companions too.\""
                             ]
                         },
                         {
@@ -4814,21 +4331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「他に何かありましたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何でも言ってくださいね♪」"
+                                "Talia: \"If there's anything else you need, please\nfeel free to ask♪\""
                             ]
                         },
                         {
@@ -4977,21 +4480,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そこは私の部屋です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　もしかして興味がおありですか？」"
+                                "Thalia: \"That's my room. Are you perhaps\ninterested in it?\""
                             ]
                         },
                         {
@@ -5008,21 +4497,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「いや、別に興味はないが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　一応使える物がないか見せろ」"
+                                "Ruth: \"No, not particularly interested... but show\nme if there's anything useful.\""
                             ]
                         },
                         {
@@ -5039,21 +4514,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「わかりました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　どうぞご自由にご覧ください」"
+                                "Thalia: \"Understood! Please feel free to look\naround.\""
                             ]
                         },
                         {
@@ -5075,14 +4536,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -5104,21 +4558,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「どうでした？　何かお役に立てそうな物は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ありましたか？」"
+                                "Thalia: \"How was it? Did you find anything that\ncould be of use?\""
                             ]
                         },
                         {
@@ -5135,14 +4575,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「……何もなかった」"
+                                "Ruth: \"...Nothing at all.\""
                             ]
                         },
                         {
@@ -5159,21 +4592,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あうぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　お役に立てず申し訳ありません」"
+                                "Thalia: \"Aww... I'm sorry I couldn't be of any\nhelp.\""
                             ]
                         },
                         {
@@ -5215,14 +4634,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（もう、こいつの部屋なんてどうでもいい）"
+                                "Ruth: (I don't care about this girl's room\nanymore.)"
                             ]
                         },
                         {
@@ -5259,14 +4671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（鍵がかかっている……）"
+                                "Ruth: (It's locked...)"
                             ]
                         },
                         {
@@ -5597,14 +5002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道具屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひゃあっ！　化け物っ！」"
+                                "Shopkeeper: \"Eek! A monster!\""
                             ]
                         },
                         {
@@ -6255,21 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルース様のオチンポザーメン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とっても素晴らしかったです……」"
+                                "Thalia: \"Lord Ruth's semen was absolutely\nwonderful...\""
                             ]
                         },
                         {
@@ -6286,21 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何かあれば声をかける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それまではいつも通りに過ごせ」"
+                                "Ruth: \"If anything comes up, let me know. Until\nthen, carry on as usual.\""
                             ]
                         },
                         {
@@ -6317,14 +5687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、わかりました」"
+                                "Thalia: \"Yes, understood.\""
                             ]
                         },
                         {
@@ -6600,14 +5963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、暇だなぁ……」"
+                                "Talia: \"Haa~, I'm so bored...\""
                             ]
                         },
                         {
@@ -6636,14 +5992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女が一人か……）"
+                                "Ruth: \"(A girl all by herself, huh...)\""
                             ]
                         },
                         {
@@ -6812,14 +6161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これは……食い物か）"
+                                "Ruth: (Is this... food?)"
                             ]
                         },
                         {
@@ -6887,14 +6229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（食い物は持っていく必要ないだろ）"
+                                "Ruth: (There's no need to take food with us,\nright?)"
                             ]
                         },
                         {
@@ -6971,14 +6306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これは……食い物か）"
+                                "Ruth: (Is this... food?)"
                             ]
                         },
                         {
@@ -7046,14 +6374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（食い物は持っていく必要ないだろ）"
+                                "Ruth: \"There's no need to take food with us,\nright?\""
                             ]
                         },
                         {
@@ -7130,14 +6451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よくわからないものが入ってるな）"
+                                "Ruth: (There's something in here that I don't\nquite understand...)"
                             ]
                         },
                         {
@@ -7205,21 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よくわからないものには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手を出さないほうが良いな……）"
+                                "Ruth: \"It's better not to mess with things you\ndon't understand...\""
                             ]
                         },
                         {
@@ -7296,14 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よくわからないものが入ってるな）"
+                                "Ruth: (There's something in here that I don't\nquite understand...)"
                             ]
                         },
                         {
@@ -7371,21 +6664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よくわからないものには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手を出さないほうが良いな……）"
+                                "Ruth: \"It's better not to mess with things you\ndon't understand...\""
                             ]
                         },
                         {
@@ -7462,14 +6741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（日用雑貨しかないな……）"
+                                "Ruth: (Nothing but daily necessities here...)"
                             ]
                         },
                         {
@@ -7546,21 +6818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（重くて持ち上がりそうにないな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何が入ってるんだか……）"
+                                "Ruth: \"It's so heavy, I can barely lift it... I\nwonder what's inside...\""
                             ]
                         },
                         {
@@ -7637,21 +6895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（重くて持ち上がりそうにないな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何が入ってるんだか……）"
+                                "Ruth: \"It's so heavy, I can barely lift it... I\nwonder what's inside...\""
                             ]
                         },
                         {
@@ -7839,14 +7083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（日用雑貨しかないな……）"
+                                "Ruth: (Nothing but daily necessities here...)"
                             ]
                         },
                         {
@@ -7923,14 +7160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（日用雑貨しかないな……）"
+                                "Ruth: \"There's only daily necessities here...\""
                             ]
                         },
                         {
@@ -8007,14 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（日用雑貨しかないな……）"
+                                "Ruth: (Nothing but daily necessities here...)"
                             ]
                         },
                         {
@@ -8091,14 +7314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（何か使えそうな物とか無いものか……）"
+                                "Ruth: \"Isn't there something useful around\nhere...\""
                             ]
                         },
                         {
@@ -8115,14 +7331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（う～ん……なさそうだ）"
+                                "Ruth: \"Hmm... doesn't seem like it.\""
                             ]
                         },
                         {
@@ -8199,14 +7408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（布……布団か？）"
+                                "Ruth: (Fabric... A futon?)"
                             ]
                         },
                         {

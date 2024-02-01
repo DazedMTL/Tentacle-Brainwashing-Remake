@@ -2632,14 +2632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "執事１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「モ、モンスター！」"
+                                "Butler 1: \"M-Monsters!\""
                             ]
                         },
                         {
@@ -2656,14 +2649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ヤ、ヤバイ！　近すぎるっ！）"
+                                "Ruth: \"(N-No good! They're too close!)\""
                             ]
                         },
                         {
@@ -2745,21 +2731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "執事１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは貴様らが入っていい場所ではない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今すぐ死ねっ！」"
+                                "Butler 1: \"This is not a place for you scoundrels\nto enter! Die right now!\""
                             ]
                         },
                         {

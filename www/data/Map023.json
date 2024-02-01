@@ -1564,14 +1564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "牛"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Cow: \"...\""
                             ]
                         },
                         {
@@ -1588,14 +1581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（牛も寝るのか……）"
+                                "Ruth: \"(Even cows need to sleep...)\""
                             ]
                         },
                         {
@@ -1672,14 +1658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "牛"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……モー」"
+                                "Cow: \"Moo...\""
                             ]
                         },
                         {
@@ -1696,14 +1675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（牛も寝るのか……）"
+                                "Ruth: \"(Even cows need to sleep...)\""
                             ]
                         },
                         {
@@ -1780,14 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（わらだ）"
+                                "Ruth: (laughs)"
                             ]
                         },
                         {
@@ -1864,14 +1829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（わらだ）"
+                                "Ruth: (laughs)"
                             ]
                         },
                         {
@@ -1948,14 +1906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（わらだ）"
+                                "Ruth: \"(laughs)\""
                             ]
                         },
                         {

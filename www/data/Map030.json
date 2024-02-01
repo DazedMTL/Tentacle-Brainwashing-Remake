@@ -1461,28 +1461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇ、おじぃちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この前、ガウと散歩に行ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　パティさんからお肉貰ったんだ！」"
+                                "Child: \"Hey, grandpa. The other day, when I went\nfor a walk with Gau, we got some meat from Patty-\nsan!\""
                             ]
                         },
                         {
@@ -1499,21 +1478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そしたらガウがね、すっごく嬉しそうに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お肉食べてたんだよ！」"
+                                "Child: \"And then, Gau was so happy eating the\nmeat!\""
                             ]
                         },
                         {
@@ -1530,21 +1495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは良かったのぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちゃんとお礼は言ったかい？」"
+                                "Elderly Man: \"That's good to hear. Did you\nremember to say thank you?\""
                             ]
                         },
                         {
@@ -1561,14 +1512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！　ちゃんと、ありがとう、って言えたよ！」"
+                                "Child: \"Yes! I said 'thank you' properly!\""
                             ]
                         },
                         {
@@ -1585,14 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、えらいえらい」"
+                                "Elderly Man: \"Good, good, that's very good.\""
                             ]
                         },
                         {
@@ -1609,21 +1546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただ、肉なら問題ないが、犬には食べさせちゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ダメな物もあるから気をつけるんじゃぞ」"
+                                "Elderly Man: \"However, while meat is fine, there\nare things you mustn't feed a dog, so be careful.\""
                             ]
                         },
                         {
@@ -1640,14 +1563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はーい！」"
+                                "Child: \"Yes, sir!\""
                             ]
                         },
                         {
@@ -1677,14 +1593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……たいした話してないな）"
+                                "Ruth: \"(...Not much of a conversation going on\nhere.)\""
                             ]
                         },
                         {
@@ -2186,14 +2095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかえ……ま、魔物！！」"
+                                "Old Man: \"Welcome ba... a monster!!\""
                             ]
                         },
                         {
@@ -2250,14 +2152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え！？」"
+                                "Child: \"Eh!? What?\""
                             ]
                         },
                         {
@@ -2283,21 +2178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ちっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　人間が居やがったか……）"
+                                "Ruth: \"(Tch... There are humans here...)\""
                             ]
                         },
                         {
@@ -2314,21 +2195,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（だが、ガキとジジイだけか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　これならどうにか出来そうだ……）"
+                                "Ruth: \"(But it's just a brat and an old man... I\ncan probably handle this...)\""
                             ]
                         },
                         {
@@ -2400,14 +2267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「に、にげるんじゃ！！」"
+                                "Old Man: \"R-run away!!\""
                             ]
                         },
                         {
@@ -2424,14 +2284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う、うん！」"
+                                "Child: \"O-okay!\""
                             ]
                         },
                         {
@@ -2709,21 +2562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くっくっくっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人間どもよ……恐れおののけ……）"
+                                "Ruth: \"(Kukukuku... Humans... tremble in fear...)\""
                             ]
                         },
                         {
@@ -2914,21 +2753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただいま～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日もミルクいっぱい……」"
+                                "Miu: \"I'm home~ Got lots of milk today...\""
                             ]
                         },
                         {
@@ -2945,14 +2770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ひっ、魔物っ！！」"
+                                "Miu: \"...eek, a monster!!\""
                             ]
                         },
                         {
@@ -3065,14 +2883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミウよ、逃げるのじゃ！！！」"
+                                "Old Man: \"Miu, run away!!!\""
                             ]
                         },
                         {
@@ -3120,14 +2931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "犬"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グルルッ」"
+                                "Dog: \"Grrrrr\""
                             ]
                         },
                         {
@@ -3175,14 +2979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あ、なんかヤバさげな雰囲気……）"
+                                "Ruth: \"(Ah, this feels kinda dangerous...)\""
                             ]
                         },
                         {
@@ -3377,14 +3174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ぎゃあああああああああああっ！！！）"
+                                "Ruth: \"(Gyaaaaaaaaaaaaaaaaaah!!!)\""
                             ]
                         },
                         {
@@ -3543,14 +3333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかえ……ま、魔物！！」"
+                                "Old Man: \"Welcome ba... a monster!!\""
                             ]
                         },
                         {
@@ -3607,14 +3390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え！？」"
+                                "Child: \"Eh!? What?\""
                             ]
                         },
                         {
@@ -3640,21 +3416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ちっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　人間が居やがったか……）"
+                                "Ruth: \"(Tch... There are humans here...)\""
                             ]
                         },
                         {
@@ -3671,21 +3433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（だが、ガキとジジイだけか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　これならどうにか出来そうだ……）"
+                                "Ruth: \"(But it's just a brat and an old man... I\ncan probably handle this...)\""
                             ]
                         },
                         {
@@ -3757,14 +3505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「に、にげるんじゃ！！」"
+                                "Old Man: \"Do, don't run away!!\""
                             ]
                         },
                         {
@@ -3781,14 +3522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う、うん！」"
+                                "Child: \"O-okay!\""
                             ]
                         },
                         {
@@ -4066,21 +3800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くっくっくっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人間どもよ……恐れおののけ……）"
+                                "Ruth: \"(Kukukuku... Humans... tremble in fear...)\""
                             ]
                         },
                         {
@@ -4097,14 +3817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お姉ちゃん！　ガウ！　助けてーーーーーっ！」"
+                                "Child: \"Big sister! Gau! Help me-----!\""
                             ]
                         },
                         {
@@ -4277,14 +3990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガウっ！」"
+                                "Child: \"Gau!\""
                             ]
                         },
                         {
@@ -4332,14 +4038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "犬"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グルルッ！！！」"
+                                "Dog: \"Grrrrrr!!!\""
                             ]
                         },
                         {
@@ -4387,14 +4086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あ、なんかヤバさげな雰囲気……）"
+                                "Ruth: \"(Ah, this feels kinda dangerous...)\""
                             ]
                         },
                         {
@@ -4589,14 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ぎゃあああああああああああっ！！！）"
+                                "Ruth: \"(Gyaaaaaaaaaaaaaaaaaah!!!)\""
                             ]
                         },
                         {

@@ -479,18 +479,18 @@
 
   Window_NovelMenuCommand.prototype.addMainCommands = function () {
     const autoText = $gameSwitches.value(autoMessageSwitchID)
-      ? "オートメッセージON"
-      : "オートメッセージOFF";
+      ? "Skip Read ON"
+      : "Skip Read OFF";
     const skipText = $gameSwitches.value(skipReadMessageSwitchID)
-      ? "既読スキップON"
-      : "既読スキップOFF";
+      ? "Skip Read ON"
+      : "Skip Read OFF";
     this.addCommand(TextManager.save, "save", this.isSaveEnabled());
-    this.addCommand("ロード", "load", true);
+    this.addCommand("Load", "load", true);
     this.addCommand(TextManager.options, "options", true);
     this.addCommand(autoText, "auto", true);
-    this.addCommand("ログ", "log", true);
-    this.addCommand("タイトルに戻る", "backTitle", true);
-    this.addCommand("ゲームの終了", "gameExit", true);
+    this.addCommand("Log", "log", true);
+    this.addCommand("To Title", "backTitle", true);
+    this.addCommand("Quit Game", "gameExit", true);
   };
 
   Window_NovelMenuCommand.prototype.addFormationCommand = function () {};

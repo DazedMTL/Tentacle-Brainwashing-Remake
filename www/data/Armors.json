@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "盾",
+        "name": "Shield",
         "note": "",
         "params": [
             0,
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "帽子",
+        "name": "Hat",
         "note": "",
         "params": [
             0,
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "服",
+        "name": "Clothes",
         "note": "",
         "params": [
             0,
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "指輪",
+        "name": "Ring",
         "note": "",
         "params": [
             0,
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "魔法のビキニアーマー",
+        "name": "Magical Bikini Armor",
         "note": "",
         "params": [
             0,
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 138,
-        "name": "神官のローブ",
+        "name": "Priest's Robe",
         "note": "",
         "params": [
             0,
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "聖なるベール",
+        "name": "Holy Veil",
         "note": "",
         "params": [
             0,
@@ -202,7 +202,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "聖印",
+        "name": "Holy Seal",
         "note": "",
         "params": [
             0,
@@ -229,7 +229,7 @@
             }
         ],
         "iconIndex": 138,
-        "name": "魔女のドレス",
+        "name": "Witch's Dress",
         "note": "",
         "params": [
             0,
@@ -256,7 +256,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "三角帽子",
+        "name": "Tri-cornered Hat",
         "note": "",
         "params": [
             0,
@@ -283,7 +283,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "魔術師のケープ",
+        "name": "Magician's Cape",
         "note": "",
         "params": [
             0,

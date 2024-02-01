@@ -1519,14 +1519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ストップ！　それ以上近づかないで」"
+                                "Levia: \"Stop! Don't come any closer.\""
                             ]
                         },
                         {
@@ -1543,28 +1536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？　あの……レヴィア様、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、呼ばれてきたのですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかして間違いでしたでしょうか？」"
+                                "Ruth: \"Eh? Um... Lady Levia, I came because you\ncalled for me... Could it have been a mistake?\""
                             ]
                         },
                         {
@@ -1588,28 +1560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、呼んだわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただソレとは別にアンタみたいな触手に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　近づいてほしくないだけ」"
+                                "Levia: \"Yes, I did call for you. But that's\nseparate from not wanting someone like you with\ntentacles to come near me.\""
                             ]
                         },
                         {
@@ -1626,14 +1577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（このアマァ……）"
+                                "Ruth: (This bitch...)"
                             ]
                         },
                         {
@@ -1657,14 +1601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何？　なんか文句でもあんの？」"
+                                "Levia: \"What? Got a complaint or something?\""
                             ]
                         },
                         {
@@ -1681,28 +1618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あるに決まってんだろっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、文句を言ったら殺されちまうから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言えるわけねー）"
+                                "Ruth: (Of course, I have a complaint! But if I say\nanything, I'll be killed...)"
                             ]
                         },
                         {
@@ -1719,21 +1635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いえ、滅相もございません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、私ごときにどのような用件が？」"
+                                "Ruth: \"N-No, not at all. So, what business might\nyou have with someone like me?\""
                             ]
                         },
                         {
@@ -1757,21 +1659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アンタ……ここから少し離れた所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　小さな村があること、知ってる？」"
+                                "Levia: \"Do you know there's a small village a\nlittle way from here?\""
                             ]
                         },
                         {
@@ -1788,21 +1676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ。自分はあまり近づかないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　してはいますが、存在は知っています」"
+                                "Ruth: \"Yes. I try not to get too close, but I am\naware of its existence.\""
                             ]
                         },
                         {
@@ -1826,28 +1700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこを潰すために使えそうな奴、何人か"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　送ったんだけどぜ～んぶ倒されちゃってね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こっちの被害が結構大きくなってるのよね」"
+                                "Levia: \"I sent a few seemingly capable ones to\ncrush that place, but they were all defeated, and\nnow we've suffered quite a bit of damage.\""
                             ]
                         },
                         {
@@ -1864,14 +1717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……それは穏やかな話ではありませんね」"
+                                "Ruth: \"Ah... that doesn't sound like a peaceful\nstory at all.\""
                             ]
                         },
                         {
@@ -1895,28 +1741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんなちっぽけな村、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あってもなくてもそんなに問題ないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一応この辺一帯は私の管轄だし」"
+                                "Levia: \"That tiny village, whether it exists or\nnot, isn't much of an issue, but technically this\narea is under my jurisdiction.\""
                             ]
                         },
                         {
@@ -1940,21 +1765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が小さな村すら攻めきれないなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上に誤解されても困るわけよ」"
+                                "Levia: \"It would be troublesome if those above\nstart to misunderstand that I can't even conquer a\nsmall village.\""
                             ]
                         },
                         {
@@ -1971,14 +1782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは誤解ではないような……」"
+                                "Ruth: \"That doesn't sound like a\nmisunderstanding...\""
                             ]
                         },
                         {
@@ -2002,14 +1806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か言った？」"
+                                "Levia: \"Did you say something?\""
                             ]
                         },
                         {
@@ -2026,14 +1823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いえ」"
+                                "Ruth: \"N-No.\""
                             ]
                         },
                         {
@@ -2057,21 +1847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、かろうじて逃げ帰ってきた奴の話だと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　厄介な戦士なんかが居るみたいなのよ」"
+                                "Levia: \"So, according to the story of the one who\nbarely escaped back here, there seems to be a\ntroublesome warrior or something there.\""
                             ]
                         },
                         {
@@ -2088,21 +1864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……しかし、レヴィア様の力ならば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人間ごときどうにでもなるのでは？」"
+                                "Ruth: \"Ah... But with your power, Lady Levia,\ncouldn't you easily handle mere humans?\""
                             ]
                         },
                         {
@@ -2126,14 +1888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「確かに私の力ならあんな奴ら余裕だけどね～」"
+                                "Levia: \"Certainly, with my power those guys would\nbe a piece of cake.\""
                             ]
                         },
                         {
@@ -2157,14 +1912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも面倒だし」"
+                                "Levia: \"But it's a hassle.\""
                             ]
                         },
                         {
@@ -2188,28 +1936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「万が一にもケガなんてして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この私の豊満で美しい肉体にキズをつけるわけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　にはいかないでしょ？」"
+                                "Levia: \"And what if I get injured? I can't afford\nto damage this bountiful and beautiful body of\nmine, can I?\""
                             ]
                         },
                         {
@@ -2226,28 +1953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いかないでしょ？　とか言われてもなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たしかに、いいカラダをしてることは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　認めるけども）"
+                                "Ruth: (Can't afford to? Even if you say that... I\nadmit she has a nice body though.)"
                             ]
                         },
                         {
@@ -2271,28 +1977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに私はアンタみたいな下っ端と違って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この辺の全てを管理しなきゃいけないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　万が一のリスクも避けたいってワケ」"
+                                "Levia: \"Besides, unlike underlings like you, I\nhave to manage everything around here, so I want\nto avoid any risks just in case.\""
                             ]
                         },
                         {
@@ -2316,21 +2001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、いうわけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その村をアンタに任せることにしたわ」"
+                                "Levia: \"And so, I've decided to leave that village\nin your hands.\""
                             ]
                         },
                         {
@@ -2347,14 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい？」"
+                                "Ruth: \"Huh?\""
                             ]
                         },
                         {
@@ -2378,14 +2042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それじゃ、後は任せたから」"
+                                "Levia: \"Well then, I'll leave the rest to you.\""
                             ]
                         },
                         {
@@ -2402,14 +2059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえいえ、ちょっと待ってくださいよ！」"
+                                "Ruth: \"No no no, wait a minute please!\""
                             ]
                         },
                         {
@@ -2433,14 +2083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なに？　わかんないとこあった？」"
+                                "Levia: \"What? Is there something you don't\nunderstand?\""
                             ]
                         },
                         {
@@ -2457,14 +2100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかんない事だらけですよ！」"
+                                "Ruth: \"There's nothing but things I don't\nunderstand!\""
                             ]
                         },
                         {
@@ -2481,21 +2117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「手練のやつらがどうにも出来ない事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうして私が！　絶対無理ですよっ！」"
+                                "Ruth: \"How am I supposed to do what even the\nskilled ones couldn't handle! It's absolutely\nimpossible!\""
                             ]
                         },
                         {
@@ -2519,21 +2141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無理かどうかは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やってみないとわからないじゃない」"
+                                "Levia: \"You won't know if it's impossible unless\nyou try.\""
                             ]
                         },
                         {
@@ -2550,14 +2158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやいやいやいや！」"
+                                "Ruth: \"No no no no!\""
                             ]
                         },
                         {
@@ -2574,28 +2175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一応レヴィア様にも伝えておきますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こちとら戦闘力については"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　無に等しいのです！」"
+                                "Ruth: \"Just to let you know, Lady Levia, my combat\npower is virtually non-existent!\""
                             ]
                         },
                         {
@@ -2619,28 +2199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事は知ってるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　例の戦士ね、女なのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃなきゃアンタなんか呼ばないわよ」"
+                                "Levia: \"I know that. The warrior in question is a\nwoman. If it weren't for that, I wouldn't have\ncalled for someone like you.\""
                             ]
                         },
                         {
@@ -2657,14 +2216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女っ！）"
+                                "Ruth: (A woman!)"
                             ]
                         },
                         {
@@ -2688,21 +2240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それならアンタの能力でなんとかなるでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ホント雑魚は察しが悪いわねぇ」"
+                                "Levia: \"Then you should be able to do something\nwith your ability, right? Really, weaklings are so\nslow on the uptake.\""
                             ]
                         },
                         {
@@ -2719,14 +2257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そんなもんわかるかっ！）"
+                                "Ruth: (How would I know that!)"
                             ]
                         },
                         {
@@ -2743,28 +2274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（しかし、女か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確かにそれなら俺の能力でどうにかなるかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しれない……）"
+                                "Ruth: (But a woman... Indeed, with my ability,\nmaybe I could do something...)"
                             ]
                         },
                         {
@@ -2781,21 +2291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（俺は犯した女を、俺の意のままに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　操る事ができるという能力を持っている）"
+                                "Ruth: (I have the ability to control any woman I\nviolate at will.)"
                             ]
                         },
                         {
@@ -2812,28 +2308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……でも、それも犯す事ができればの話。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　強い奴らと戦えるほどの女を犯すなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺一人では無理だ……）"
+                                "Ruth: (...But that's only if I can violate them.\nIt's impossible for me alone to violate a woman\nstrong enough to fight those guys...)"
                             ]
                         },
                         {
@@ -2857,21 +2332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さ、わかったらいきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　吉報を待っているわ」"
+                                "Levia: \"Now, if you understand, get going. I'm\nwaiting for good news.\""
                             ]
                         },
                         {
@@ -2888,28 +2349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待ってください、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いくらなんでも私だけでは無理です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　せめてなんらかの戦力をわけてください！」"
+                                "Ruth: \"Please wait, it's impossible with just me!\nAt least share some combat power with me!\""
                             ]
                         },
                         {
@@ -2926,28 +2366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（俺だけでは可能性はゼロでも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　例えば手駒がいれば注意をひきつけて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いるうちになんとか……ということもできる）"
+                                "Ruth: (With just me, the chances are zero, but if,\nfor example, I had a pawn, maybe I could do\nsomething while drawing their attention...)"
                             ]
                         },
                         {
@@ -2971,14 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悪いけど、人は回してあげられないから」"
+                                "Levia: \"Sorry, but I can't spare anyone to help\nyou.\""
                             ]
                         },
                         {
@@ -2995,14 +2407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、なんで」"
+                                "Ruth: \"Wh-why not?\""
                             ]
                         },
                         {
@@ -3026,21 +2431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隣国が最近攻勢を強めてきていて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手勢をそちらに回さなきゃいけないのよ」"
+                                "Levia: \"The neighboring country has been\nintensifying their offensive lately, and I need to\nallocate my forces there.\""
                             ]
                         },
                         {
@@ -3064,21 +2455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、そもそもアンタは戦力にならないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村の対処に回すことにしたの」"
+                                "Levia: \"Besides, you're not considered combat\npower, so I've decided to have you deal with the\nvillage.\""
                             ]
                         },
                         {
@@ -3095,21 +2472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、では、もう少し時間をください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戦力が戻ってきてから、改めて……」"
+                                "Ruth: \"Then, please give me a little more time.\nOnce the combat power returns, we can\nreconsider...\""
                             ]
                         },
                         {
@@ -3133,28 +2496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それもダメ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そもそも村に時間かけすぎって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上から言われてるしね」"
+                                "Levia: \"That's also no good. We've already spent\ntoo much time on the village as it is, according\nto higher-ups.\""
                             ]
                         },
                         {
@@ -3178,28 +2520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これ以上の遅れは私の評価を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だいぶ下げちゃうのよねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　中間管理職はつらいわぁ」"
+                                "Levia: \"Any further delays would significantly\nlower my evaluation. Being middle management is\ntough.\""
                             ]
                         },
                         {
@@ -3216,21 +2537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そんなもん知るかあああああぁっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こっちは命かかってんだぞっ！）"
+                                "Ruth: (Like I care about that! My life is on the\nline here!)"
                             ]
                         },
                         {
@@ -3247,28 +2554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（戦士なんぞと戦ったら間違いなく死ぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　犯すどころか相手の身体に触れることすら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　難しいかもしれない）"
+                                "Ruth: (If I fought a warrior, I'd surely die. It\nmight even be difficult to touch her body, let\nalone violate her.)"
                             ]
                         },
                         {
@@ -3285,14 +2571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「し、しかしですね……」"
+                                "Ruth: \"Ho-however...\""
                             ]
                         },
                         {
@@ -3316,28 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何も正面から戦士を倒せって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言ってるわけじゃないの、隙きをついて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　犯せって言ってるの……わかる？」"
+                                "Levia: \"I'm not saying you have to defeat the\nwarrior head-on. I'm telling you to find an\nopening and violate her... do you understand?\""
                             ]
                         },
                         {
@@ -3354,14 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それで、その隙はどうやったら……」"
+                                "Ruth: \"And how am I supposed to find this\nopening...?\""
                             ]
                         },
                         {
@@ -3385,14 +2636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなこと自分で考えなさいよ」"
+                                "Levia: \"Figure that out on your own.\""
                             ]
                         },
                         {
@@ -3416,28 +2660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはチャンスだと思いなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　成功すればアンタ、この辺でちょっとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　名前が知られるようになるんだから」"
+                                "Levia: \"Think of this as an opportunity. If you\nsucceed, your name will become somewhat known\naround here.\""
                             ]
                         },
                         {
@@ -3454,14 +2677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「成功すれば、そうでしょうけど……」"
+                                "Ruth: \"If I succeed, sure...\""
                             ]
                         },
                         {
@@ -3478,21 +2694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（その成功率は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今のところゼロなんじゃないだろうか……）"
+                                "Ruth: (But the success rate seems to be zero right\nnow...)"
                             ]
                         },
                         {
@@ -3516,28 +2718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、いいから行ってきなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ期待して待っているわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　失敗したらまた何か対策考えるの面倒だしね」"
+                                "Levia: \"Come on, just go! I'm somewhat expecting\nyou to succeed. It'll be a hassle to think of\nanother plan if you fail.\""
                             ]
                         },
                         {
@@ -3554,14 +2735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そんなぁ……」"
+                                "Ruth: \"Th-that's...\""
                             ]
                         },
                         {
@@ -3585,28 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レヴィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これ以上グダグダ言うと反逆罪って事で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今すぐ消し炭にしてあげても良いんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうする？」"
+                                "Levia: \"If you keep dawdling like this, I could\ncharge you with treason and turn you into cinders\nright now. What will it be?\""
                             ]
                         },
                         {
@@ -3669,21 +2822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひいっ！　わ、わかりました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いきますっ、行かせていただきますっ！」"
+                                "Ruth: \"Eeek! I-I understand! I'll go, I'll go\nright away!\""
                             ]
                         },
                         {
@@ -3924,28 +3063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっそぉ、レヴィアめ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつかスキをついて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヒイヒイ言わせてやるからなっ……！」"
+                                "Ruth: \"Damn it, Levia... one day I'll find an\nopening and make you beg...!\""
                             ]
                         },
                         {
@@ -3962,28 +3080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正直、俺の能力はああいう女にこそ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　使うべきだな……それができれば……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　っくくく」"
+                                "Ruth: \"Honestly, my ability should be used on a\nwoman like that... if only I could... heh heh\nheh.\""
                             ]
                         },
                         {
@@ -4000,14 +3097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、無理だけどな」"
+                                "Ruth: \"Well, it's impossible anyway.\""
                             ]
                         },
                         {
@@ -4024,21 +3114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事より、今は目の前の問題を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうにかしないとなぁ……」"
+                                "Ruth: \"But before that, I need to figure out how\nto deal with the problem at hand...\""
                             ]
                         },
                         {
