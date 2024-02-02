@@ -265,10 +265,10 @@ var $plugins = [
     description: "メインメニューにコモンイベント実行用のコマンドを追加します。",
     parameters: {
       command1: '{"name":"","commonEventId":"0"}',
-      command2: '{"name":"モード選択","commonEventId":"47"}',
-      command3: '{"name":"操作説明","commonEventId":"39"}',
-      command4: '{"name":"アニメ設定","commonEventId":"25"}',
-      command5: '{"name":"ロード","commonEventId":"46"}',
+      command2: '{"name":"Mode Select","commonEventId":"47"}',
+      command3: '{"name":"Operation","commonEventId":"39"}',
+      command4: '{"name":"Animations","commonEventId":"25"}',
+      command5: '{"name":"Load","commonEventId":"46"}',
     },
   },
   {
